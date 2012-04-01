@@ -1,0 +1,87 @@
+Precinct Detail List By Name and Number for mccormick
+
+Pcts By Name
+ 0750 ABSENTEE                              0     1107    0.00% DATA MISSING
+     terminals:  ( 5124376 5130430)
+     open/close pebs:  (  153503)  (  153503)
+ 0008 BETHANY                             318      122   38.36%
+     terminals:  ( 5135415)
+     open/close pebs:  (  153600)  (  153600)
+ 0015 CLARKS_HILL                         489      238   48.67%
+     terminals:  ( 5124081 5129509)
+     open/close pebs:  (  154104)  (  154104)
+ null EMERGENCY                             0       40    0.00% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ null FAILSAFE                              0        0    0.00% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ null FAILSAFE_PROVISIONAL                  0        0    0.00% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0006 MCCORMICK_NO._1                    1094      470   42.96%
+     terminals:  ( 5118877 5125636 5138430)
+     open/close pebs:  (  153700)  (  153700)
+ 0009 MCCORMICK_NO._2                    1041      375   36.02% DATA MISSING
+     terminals:  ( 5126609 5127556 5130325)
+     open/close pebs:  (  153832)  (  153832)
+ 0014 MODOC                               213      108   50.70%
+     terminals:  ( 5102655 5122418)
+     open/close pebs:  (  140607)  (  140607)
+ 0001 MT_CARMEL                           255      131   51.37%
+     terminals:  ( 5118433 5130530)
+     open/close pebs:  (  154345)  (  154345)
+ 0013 PARKSVILLE                          189      107   56.61%
+     terminals:  ( 5118291 5122988)
+     open/close pebs:  (  137566)  (  137566)
+ 0010 PLUM_BRANCH                         793      412   51.95%
+     terminals:  ( 5119262 5121678 5127330)
+     open/close pebs:  (  153779)  (  153779)
+ null PROVISIONAL                           0        0    0.00% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0003 SAVANNAH                           1887      799   42.34%
+     terminals:  ( 5105698 5118412 5121310 5128365)
+     open/close pebs:  (  153627)  (  153627)
+ null TOTAL                              6490     4018   61.91% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0004 WILLINGTON                          211      109   51.66%
+     terminals:  ( 5125821 5131350)
+     open/close pebs:  (  154442)  (  154442)
+
+Pcts By Number
+ 0001 MT_CARMEL                           255      131   51.37%
+     terminals:  ( 5118433 5130530)
+     open/close pebs:  (  154345)  (  154345)
+ 0003 SAVANNAH                           1887      799   42.34%
+     terminals:  ( 5105698 5118412 5121310 5128365)
+     open/close pebs:  (  153627)  (  153627)
+ 0004 WILLINGTON                          211      109   51.66%
+     terminals:  ( 5125821 5131350)
+     open/close pebs:  (  154442)  (  154442)
+ 0006 MCCORMICK_NO._1                    1094      470   42.96%
+     terminals:  ( 5118877 5125636 5138430)
+     open/close pebs:  (  153700)  (  153700)
+ 0008 BETHANY                             318      122   38.36%
+     terminals:  ( 5135415)
+     open/close pebs:  (  153600)  (  153600)
+ 0009 MCCORMICK_NO._2                    1041      375   36.02% DATA MISSING
+     terminals:  ( 5126609 5127556 5130325)
+     open/close pebs:  (  153832)  (  153832)
+ 0010 PLUM_BRANCH                         793      412   51.95%
+     terminals:  ( 5119262 5121678 5127330)
+     open/close pebs:  (  153779)  (  153779)
+ 0013 PARKSVILLE                          189      107   56.61%
+     terminals:  ( 5118291 5122988)
+     open/close pebs:  (  137566)  (  137566)
+ 0014 MODOC                               213      108   50.70%
+     terminals:  ( 5102655 5122418)
+     open/close pebs:  (  140607)  (  140607)
+ 0015 CLARKS_HILL                         489      238   48.67%
+     terminals:  ( 5124081 5129509)
+     open/close pebs:  (  154104)  (  154104)
+ 0750 ABSENTEE                              0     1107    0.00% DATA MISSING
+     terminals:  ( 5124376 5130430)
+     open/close pebs:  (  153503)  (  153503)
+

@@ -1,0 +1,1087 @@
+ELA: Process statistics file for mccormick
+
+
+********** ********** ********** ********** ********** **********
+
+ELA: Checking that terminal vote counts are consistent (EXCLUDES 750+)
+
+ELA:  Histogram of votes per terminal (EXCLUDES 750+)
+Stats:  mean 2836/24 = 118.166667
+Stats:  deviation 60.445208
+Stats:  [ ( 0001) , 5118433] 82
+Stats:  [ ( 0001) , 5130530] 49
+Stats:  [ ( 0003) , 5105698] 196
+Stats:  [ ( 0003) , 5121310] 201
+Stats:  [ ( 0003) , 5128365] 205
+Stats:  [ ( 0003) , 5118412] 197
+Stats:  [ ( 0004) , 5125821] 75
+Stats:  [ ( 0004) , 5131350] 34
+Stats:  [ ( 0006) , 5118877] 166
+Stats:  [ ( 0006) , 5125636] 156
+Stats:  [ ( 0006) , 5138430] 148
+Stats:  [ ( 0008) , 5135415] 122
+Stats:  [ ( 0009) , 5126609] 111
+Stats:  [ ( 0009) , 5130325] 70
+Stats:  [ ( 0009) , 5127556] 159
+Stats:  [ ( 0010) , 5119262] 37
+Stats:  [ ( 0010) , 5127330] 186
+Stats:  [ ( 0010) , 5121678] 189
+Stats:  [ ( 0013) , 5122988] 53
+Stats:  [ ( 0013) , 5118291] 54
+Stats:  [ ( 0014) , 5102655] 62
+Stats:  [ ( 0014) , 5122418] 46
+Stats:  [ ( 0015) , 5129509] 100
+Stats:  [ ( 0015) , 5124081] 138
+Stats:  The following are all larger than the mean
+Stats:    ( 0003) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0004) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  min and max 34 205
+Stats:  The max value in any bin is 2 
+Stats:     0 -    3    0 :
+Stats:     4 -    7    0 :
+Stats:     8 -   11    0 :
+Stats:    12 -   15    0 :
+Stats:    16 -   19    0 :
+Stats:    20 -   23    0 :
+Stats:    24 -   27    0 :
+Stats:    28 -   31    0 :
+Stats:    32 -   35    1 :*
+Stats:    36 -   39    1 :*
+Stats:    40 -   43    0 :
+Stats:    44 -   47    1 :*
+Stats:    48 -   51    1 :*
+Stats:    52 -   55    2 :**
+Stats:    56 -   59    0D:
+Stats:    60 -   63    1 :*
+Stats:    64 -   67    0 :
+Stats:    68 -   71    1 :*
+Stats:    72 -   75    1 :*
+Stats:    76 -   79    0 :
+Stats:    80 -   83    1 :*
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    1 :*
+Stats:   104 -  107    0 :
+Stats:   108 -  111    1 :*
+Stats:   112 -  115    0 :
+Stats:   116 -  119    0M:
+Stats:   120 -  123    1 :*
+Stats:   124 -  127    0 :
+Stats:   128 -  131    0 :
+Stats:   132 -  135    0 :
+Stats:   136 -  139    1 :*
+Stats:   140 -  143    0 :
+Stats:   144 -  147    0 :
+Stats:   148 -  151    1 :*
+Stats:   152 -  155    0 :
+Stats:   156 -  159    2 :**
+Stats:   160 -  163    0 :
+Stats:   164 -  167    1 :*
+Stats:   168 -  171    0 :
+Stats:   172 -  175    0 :
+Stats:   176 -  179    0D:
+Stats:   180 -  183    0 :
+Stats:   184 -  187    1 :*
+Stats:   188 -  191    1 :*
+Stats:   192 -  195    0 :
+Stats:   196 -  199    2 :**
+Stats:   200 -  203    2 :**
+
+********** ********** ********** ********** ********** **********
+
+ELA:  Histogram of votes after closing time (EXCLUDES 750+)
+Stats:  mean 115/26 = 4.423077
+Stats:  deviation 5.838994
+Stats:  [5102655] 0
+Stats:  [5105698] 10
+Stats:  [5118291] 0
+Stats:  [5118412] 10
+Stats:  [5118433] 0
+Stats:  [5118877] 7
+Stats:  [5119262] 0
+Stats:  [5121310] 10
+Stats:  [5121678] 21
+Stats:  [5122418] 0
+Stats:  [5122988] 0
+Stats:  [5124081] 1
+Stats:  [5124376] 0
+Stats:  [5125636] 8
+Stats:  [5125821] 1
+Stats:  [5126609] 3
+Stats:  [5127330] 18
+Stats:  [5127556] 4
+Stats:  [5128365] 10
+Stats:  [5129509] 0
+Stats:  [5130325] 4
+Stats:  [5130430] 0
+Stats:  [5130530] 0
+Stats:  [5131350] 0
+Stats:  [5135415] 2
+Stats:  [5138430] 6
+Stats:  The following are all larger than the mean
+Stats:     5105698
+Stats:     5118412
+Stats:     5118877
+Stats:     5121310
+Stats:     5121678
+Stats:     5125636
+Stats:     5127330
+Stats:     5128365
+Stats:  The following are all smaller than the mean
+Stats:     5102655
+Stats:     5118291
+Stats:     5118433
+Stats:     5119262
+Stats:     5122418
+Stats:     5122988
+Stats:     5124081
+Stats:     5124376
+Stats:     5125821
+Stats:     5126609
+Stats:     5127556
+Stats:     5129509
+Stats:     5130325
+Stats:     5130430
+Stats:     5130530
+Stats:     5131350
+Stats:     5135415
+Stats:  min and max 0 21
+Stats:  The max value in any bin is 11 
+Stats:     0 -    0   11 :***********
+Stats:     1 -    1    2 :**
+Stats:     2 -    2    1 :*
+Stats:     3 -    3    1 :*
+Stats:     4 -    4    2M:**
+Stats:     5 -    5    0 :
+Stats:     6 -    6    1 :*
+Stats:     7 -    7    1 :*
+Stats:     8 -    8    1 :*
+Stats:     9 -    9    0 :
+Stats:    10 -   10    4D:****
+Stats:    11 -   11    0 :
+Stats:    12 -   12    0 :
+Stats:    13 -   13    0 :
+Stats:    14 -   14    0 :
+Stats:    15 -   15    0 :
+Stats:    16 -   16    0 :
+Stats:    17 -   17    0 :
+Stats:    18 -   18    1 :*
+Stats:    19 -   19    0 :
+Stats:    20 -   20    0 :
+Stats:    21 -   21    1 :*
+Stats:    22 -   22    0 :
+Stats:    23 -   23    0 :
+Stats:    24 -   24    0 :
+Stats:    25 -   25    0 :
+Stats:    26 -   26    0 :
+Stats:    27 -   27    0 :
+Stats:    28 -   28    0 :
+Stats:    29 -   29    0 :
+Stats:    30 -   30    0 :
+Stats:    31 -   31    0 :
+Stats:    32 -   32    0 :
+Stats:    33 -   33    0 :
+Stats:    34 -   34    0 :
+Stats:    35 -   35    0 :
+Stats:    36 -   36    0 :
+Stats:    37 -   37    0 :
+Stats:    38 -   38    0 :
+Stats:    39 -   39    0 :
+Stats:    40 -   40    0 :
+Stats:    41 -   41    0 :
+Stats:    42 -   42    0 :
+Stats:    43 -   43    0 :
+Stats:    44 -   44    0 :
+Stats:    45 -   45    0 :
+Stats:    46 -   46    0 :
+Stats:    47 -   47    0 :
+Stats:    48 -   48    0 :
+Stats:    49 -   49    0 :
+Stats:    50 -   50    0 :
+
+ELA:  Histogram of closing times (EXCLUDES 750+)
+
+ELA:  Label is closing time in # of minutes after 7pm
+Stats:  mean 718/24 = 29.916667
+Stats:  deviation 26.396503
+Stats:  [5102655] 2
+Stats:  [5105698] 52
+Stats:  [5118291] 12
+Stats:  [5118412] 47
+Stats:  [5118433] 5
+Stats:  [5118877] 33
+Stats:  [5119262] 106
+Stats:  [5121310] 56
+Stats:  [5121678] 71
+Stats:  [5122418] 6
+Stats:  [5122988] 9
+Stats:  [5124081] 10
+Stats:  [5125636] 45
+Stats:  [5125821] 10
+Stats:  [5126609] 31
+Stats:  [5127330] 57
+Stats:  [5127556] 18
+Stats:  [5128365] 52
+Stats:  [5129509] 11
+Stats:  [5130325] 24
+Stats:  [5130530] 9
+Stats:  [5131350] 4
+Stats:  [5135415] 10
+Stats:  [5138430] 38
+Stats:  The following are all larger than the mean
+Stats:     5105698
+Stats:     5118412
+Stats:     5118877
+Stats:     5119262
+Stats:     5121310
+Stats:     5121678
+Stats:     5125636
+Stats:     5126609
+Stats:     5127330
+Stats:     5128365
+Stats:  The following are all smaller than the mean
+Stats:     5102655
+Stats:     5118291
+Stats:     5118433
+Stats:     5122418
+Stats:     5122988
+Stats:     5124081
+Stats:     5125821
+Stats:     5127556
+Stats:     5129509
+Stats:     5130325
+Stats:     5130530
+Stats:     5131350
+Stats:     5135415
+Stats:  min and max 2 106
+Stats:  The max value in any bin is 5 
+Stats:     0 -    4    2D:**
+Stats:     5 -    9    4 :****
+Stats:    10 -   14    5 :*****
+Stats:    15 -   19    1 :*
+Stats:    20 -   24    1 :*
+Stats:    25 -   29    0M:
+Stats:    30 -   34    2 :**
+Stats:    35 -   39    1 :*
+Stats:    40 -   44    0 :
+Stats:    45 -   49    2 :**
+Stats:    50 -   54    2 :**
+Stats:    55 -   59    2D:**
+Stats:    60 -   64    0 :
+Stats:    65 -   69    0 :
+Stats:    70 -   74    1 :*
+Stats:    75 -   79    0 :
+Stats:    80 -   84    0 :
+Stats:    85 -   89    0 :
+Stats:    90 -   94    1 :*
+
+ELA:  Histogram of vote event times during the day (EXCLUDES 750+)
+
+ELA:  Histogram of vote event times (EXCLUDES 750+)
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 73354/2836 = 25.865303
+Stats:  deviation 14.383222
+Stats:  min and max 0 52
+Stats:  The max value in any bin is 75 
+Stats:     0 -    0   46 :**********************************************
+Stats:     1 -    1   54 :******************************************************
+Stats:     2 -    2   56 :********************************************************
+Stats:     3 -    3   41 :*****************************************
+Stats:     4 -    4   54 :******************************************************
+Stats:     5 -    5   50 :**************************************************
+Stats:     6 -    6   40 :****************************************
+Stats:     7 -    7   40 :****************************************
+Stats:     8 -    8   43 :*******************************************
+Stats:     9 -    9   43 :*******************************************
+Stats:    10 -   10   54 :******************************************************
+Stats:    11 -   11   43D:*******************************************
+Stats:    12 -   12   52 :****************************************************
+Stats:    13 -   13   50 :**************************************************
+Stats:    14 -   14   63 :***************************************************************
+Stats:    15 -   15   69 :*********************************************************************
+Stats:    16 -   16   61 :*************************************************************
+Stats:    17 -   17   62 :**************************************************************
+Stats:    18 -   18   66 :******************************************************************
+Stats:    19 -   19   68 :********************************************************************
+Stats:    20 -   20   60 :************************************************************
+Stats:    21 -   21   61 :*************************************************************
+Stats:    22 -   22   56 :********************************************************
+Stats:    23 -   23   54 :******************************************************
+Stats:    24 -   24   55 :*******************************************************
+Stats:    25 -   25   53M:*****************************************************
+Stats:    26 -   26   53 :*****************************************************
+Stats:    27 -   27   45 :*********************************************
+Stats:    28 -   28   54 :******************************************************
+Stats:    29 -   29   44 :********************************************
+Stats:    30 -   30   47 :***********************************************
+Stats:    31 -   31   51 :***************************************************
+Stats:    32 -   32   54 :******************************************************
+Stats:    33 -   33   56 :********************************************************
+Stats:    34 -   34   62 :**************************************************************
+Stats:    35 -   35   65 :*****************************************************************
+Stats:    36 -   36   65 :*****************************************************************
+Stats:    37 -   37   62 :**************************************************************
+Stats:    38 -   38   68 :********************************************************************
+Stats:    39 -   39   65 :*****************************************************************
+Stats:    40 -   40   68D:********************************************************************
+Stats:    41 -   41   65 :*****************************************************************
+Stats:    42 -   42   71 :***********************************************************************
+Stats:    43 -   43   63 :***************************************************************
+Stats:    44 -   44   59 :***********************************************************
+Stats:    45 -   45   75 :***************************************************************************
+Stats:    46 -   46   67 :*******************************************************************
+Stats:    47 -   47   68 :********************************************************************
+Stats:    48 -   48   50 :**************************************************
+Stats:    49 -   49   37 :*************************************
+Stats:    50 -   50   18 :******************
+Stats:    51 -   51    8 :********
+Stats:    52 -   52    2 :**
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0001 (EXCLUDES 750+)
+
+ELA:  There were 131 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 3135/131 = 23.931298
+Stats:  deviation 12.811168
+Stats:  min and max 0 47
+Stats:  The max value in any bin is 8 
+Stats:     0 -    0    2 :**
+Stats:     1 -    1    0 :
+Stats:     2 -    2    2 :**
+Stats:     3 -    3    3 :***
+Stats:     4 -    4    4 :****
+Stats:     5 -    5    2 :**
+Stats:     6 -    6    1 :*
+Stats:     7 -    7    1 :*
+Stats:     8 -    8    2 :**
+Stats:     9 -    9    1 :*
+Stats:    10 -   10    1 :*
+Stats:    11 -   11    0D:
+Stats:    12 -   12    3 :***
+Stats:    13 -   13    2 :**
+Stats:    14 -   14    7 :*******
+Stats:    15 -   15    8 :********
+Stats:    16 -   16    7 :*******
+Stats:    17 -   17    4 :****
+Stats:    18 -   18    1 :*
+Stats:    19 -   19    4 :****
+Stats:    20 -   20    4 :****
+Stats:    21 -   21    6 :******
+Stats:    22 -   22    4 :****
+Stats:    23 -   23    1M:*
+Stats:    24 -   24    3 :***
+Stats:    25 -   25    2 :**
+Stats:    26 -   26    4 :****
+Stats:    27 -   27    2 :**
+Stats:    28 -   28    0 :
+Stats:    29 -   29    3 :***
+Stats:    30 -   30    1 :*
+Stats:    31 -   31    3 :***
+Stats:    32 -   32    2 :**
+Stats:    33 -   33    2 :**
+Stats:    34 -   34    2 :**
+Stats:    35 -   35    3 :***
+Stats:    36 -   36    5D:*****
+Stats:    37 -   37    3 :***
+Stats:    38 -   38    3 :***
+Stats:    39 -   39    4 :****
+Stats:    40 -   40    4 :****
+Stats:    41 -   41    3 :***
+Stats:    42 -   42    3 :***
+Stats:    43 -   43    0 :
+Stats:    44 -   44    1 :*
+Stats:    45 -   45    1 :*
+Stats:    46 -   46    4 :****
+Stats:    47 -   47    3 :***
+Stats:    48 -   48    0 :
+Stats:    49 -   49    0 :
+Stats:    50 -   50    0 :
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0003 (EXCLUDES 750+)
+
+ELA:  There were 799 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 20146/799 = 25.214018
+Stats:  deviation 14.478331
+Stats:  min and max 0 50
+Stats:  The max value in any bin is 20 
+Stats:     0 -    0    7 :*******
+Stats:     1 -    1   18 :******************
+Stats:     2 -    2   15 :***************
+Stats:     3 -    3   14 :**************
+Stats:     4 -    4   18 :******************
+Stats:     5 -    5   17 :*****************
+Stats:     6 -    6   14 :**************
+Stats:     7 -    7   16 :****************
+Stats:     8 -    8   15 :***************
+Stats:     9 -    9   15 :***************
+Stats:    10 -   10   16D:****************
+Stats:    11 -   11   15 :***************
+Stats:    12 -   12   14 :**************
+Stats:    13 -   13   15 :***************
+Stats:    14 -   14   13 :*************
+Stats:    15 -   15   20 :********************
+Stats:    16 -   16   17 :*****************
+Stats:    17 -   17   15 :***************
+Stats:    18 -   18   17 :*****************
+Stats:    19 -   19   16 :****************
+Stats:    20 -   20   16 :****************
+Stats:    21 -   21   16 :****************
+Stats:    22 -   22   18 :******************
+Stats:    23 -   23   16 :****************
+Stats:    24 -   24   18 :******************
+Stats:    25 -   25   16M:****************
+Stats:    26 -   26   15 :***************
+Stats:    27 -   27   16 :****************
+Stats:    28 -   28   16 :****************
+Stats:    29 -   29   11 :***********
+Stats:    30 -   30   13 :*************
+Stats:    31 -   31   16 :****************
+Stats:    32 -   32   18 :******************
+Stats:    33 -   33   17 :*****************
+Stats:    34 -   34   18 :******************
+Stats:    35 -   35   19 :*******************
+Stats:    36 -   36   16 :****************
+Stats:    37 -   37   13 :*************
+Stats:    38 -   38   15 :***************
+Stats:    39 -   39   15D:***************
+Stats:    40 -   40   15 :***************
+Stats:    41 -   41   16 :****************
+Stats:    42 -   42   20 :********************
+Stats:    43 -   43   17 :*****************
+Stats:    44 -   44   16 :****************
+Stats:    45 -   45   15 :***************
+Stats:    46 -   46   16 :****************
+Stats:    47 -   47   19 :*******************
+Stats:    48 -   48   15 :***************
+Stats:    49 -   49   17 :*****************
+Stats:    50 -   50    8 :********
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0004 (EXCLUDES 750+)
+
+ELA:  There were 109 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 2769/109 = 25.403670
+Stats:  deviation 14.061452
+Stats:  min and max 0 48
+Stats:  The max value in any bin is 7 
+Stats:     0 -    0    3 :***
+Stats:     1 -    1    0 :
+Stats:     2 -    2    1 :*
+Stats:     3 -    3    2 :**
+Stats:     4 -    4    3 :***
+Stats:     5 -    5    2 :**
+Stats:     6 -    6    2 :**
+Stats:     7 -    7    2 :**
+Stats:     8 -    8    2 :**
+Stats:     9 -    9    1 :*
+Stats:    10 -   10    2 :**
+Stats:    11 -   11    1D:*
+Stats:    12 -   12    4 :****
+Stats:    13 -   13    3 :***
+Stats:    14 -   14    2 :**
+Stats:    15 -   15    1 :*
+Stats:    16 -   16    1 :*
+Stats:    17 -   17    3 :***
+Stats:    18 -   18    3 :***
+Stats:    19 -   19    1 :*
+Stats:    20 -   20    2 :**
+Stats:    21 -   21    7 :*******
+Stats:    22 -   22    2 :**
+Stats:    23 -   23    2 :**
+Stats:    24 -   24    3 :***
+Stats:    25 -   25    3M:***
+Stats:    26 -   26    2 :**
+Stats:    27 -   27    0 :
+Stats:    28 -   28    3 :***
+Stats:    29 -   29    0 :
+Stats:    30 -   30    0 :
+Stats:    31 -   31    0 :
+Stats:    32 -   32    0 :
+Stats:    33 -   33    3 :***
+Stats:    34 -   34    4 :****
+Stats:    35 -   35    5 :*****
+Stats:    36 -   36    4 :****
+Stats:    37 -   37    2 :**
+Stats:    38 -   38    4 :****
+Stats:    39 -   39    1D:*
+Stats:    40 -   40    1 :*
+Stats:    41 -   41    2 :**
+Stats:    42 -   42    3 :***
+Stats:    43 -   43    4 :****
+Stats:    44 -   44    4 :****
+Stats:    45 -   45    6 :******
+Stats:    46 -   46    0 :
+Stats:    47 -   47    2 :**
+Stats:    48 -   48    1 :*
+Stats:    49 -   49    0 :
+Stats:    50 -   50    0 :
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0006 (EXCLUDES 750+)
+
+ELA:  There were 470 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 12180/470 = 25.914894
+Stats:  deviation 14.430674
+Stats:  min and max 0 50
+Stats:  The max value in any bin is 14 
+Stats:     0 -    0    6 :******
+Stats:     1 -    1   12 :************
+Stats:     2 -    2   12 :************
+Stats:     3 -    3    4 :****
+Stats:     4 -    4    9 :*********
+Stats:     5 -    5    5 :*****
+Stats:     6 -    6    4 :****
+Stats:     7 -    7    7 :*******
+Stats:     8 -    8    6 :******
+Stats:     9 -    9   11 :***********
+Stats:    10 -   10   10 :**********
+Stats:    11 -   11    4D:****
+Stats:    12 -   12   10 :**********
+Stats:    13 -   13    8 :********
+Stats:    14 -   14    9 :*********
+Stats:    15 -   15    9 :*********
+Stats:    16 -   16   13 :*************
+Stats:    17 -   17   13 :*************
+Stats:    18 -   18   14 :**************
+Stats:    19 -   19   12 :************
+Stats:    20 -   20   13 :*************
+Stats:    21 -   21    8 :********
+Stats:    22 -   22    8 :********
+Stats:    23 -   23    9 :*********
+Stats:    24 -   24   10 :**********
+Stats:    25 -   25    9M:*********
+Stats:    26 -   26   10 :**********
+Stats:    27 -   27    8 :********
+Stats:    28 -   28    8 :********
+Stats:    29 -   29    4 :****
+Stats:    30 -   30    8 :********
+Stats:    31 -   31    9 :*********
+Stats:    32 -   32   11 :***********
+Stats:    33 -   33    9 :*********
+Stats:    34 -   34    6 :******
+Stats:    35 -   35    7 :*******
+Stats:    36 -   36    9 :*********
+Stats:    37 -   37    9 :*********
+Stats:    38 -   38   11 :***********
+Stats:    39 -   39   14 :**************
+Stats:    40 -   40   11D:***********
+Stats:    41 -   41   12 :************
+Stats:    42 -   42   11 :***********
+Stats:    43 -   43   10 :**********
+Stats:    44 -   44   10 :**********
+Stats:    45 -   45   13 :*************
+Stats:    46 -   46   11 :***********
+Stats:    47 -   47   13 :*************
+Stats:    48 -   48   13 :*************
+Stats:    49 -   49    7 :*******
+Stats:    50 -   50    1 :*
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0008 (EXCLUDES 750+)
+
+ELA:  There were 122 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 3561/122 = 29.188525
+Stats:  deviation 12.289438
+Stats:  min and max 0 48
+Stats:  The max value in any bin is 6 
+Stats:     0 -    0    1 :*
+Stats:     1 -    1    1 :*
+Stats:     2 -    2    2 :**
+Stats:     3 -    3    2 :**
+Stats:     4 -    4    0 :
+Stats:     5 -    5    0 :
+Stats:     6 -    6    0 :
+Stats:     7 -    7    0 :
+Stats:     8 -    8    0 :
+Stats:     9 -    9    0 :
+Stats:    10 -   10    0 :
+Stats:    11 -   11    1 :*
+Stats:    12 -   12    3 :***
+Stats:    13 -   13    2 :**
+Stats:    14 -   14    3 :***
+Stats:    15 -   15    3 :***
+Stats:    16 -   16    3D:***
+Stats:    17 -   17    2 :**
+Stats:    18 -   18    4 :****
+Stats:    19 -   19    4 :****
+Stats:    20 -   20    2 :**
+Stats:    21 -   21    4 :****
+Stats:    22 -   22    2 :**
+Stats:    23 -   23    3 :***
+Stats:    24 -   24    3 :***
+Stats:    25 -   25    3 :***
+Stats:    26 -   26    2 :**
+Stats:    27 -   27    1 :*
+Stats:    28 -   28    5 :*****
+Stats:    29 -   29    2M:**
+Stats:    30 -   30    3 :***
+Stats:    31 -   31    5 :*****
+Stats:    32 -   32    2 :**
+Stats:    33 -   33    4 :****
+Stats:    34 -   34    4 :****
+Stats:    35 -   35    2 :**
+Stats:    36 -   36    4 :****
+Stats:    37 -   37    2 :**
+Stats:    38 -   38    3 :***
+Stats:    39 -   39    3 :***
+Stats:    40 -   40    4 :****
+Stats:    41 -   41    5D:*****
+Stats:    42 -   42    4 :****
+Stats:    43 -   43    2 :**
+Stats:    44 -   44    3 :***
+Stats:    45 -   45    2 :**
+Stats:    46 -   46    4 :****
+Stats:    47 -   47    6 :******
+Stats:    48 -   48    2 :**
+Stats:    49 -   49    0 :
+Stats:    50 -   50    0 :
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0009 (EXCLUDES 750+)
+
+ELA:  There were 340 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 8774/340 = 25.805882
+Stats:  deviation 13.632469
+Stats:  min and max 0 49
+Stats:  The max value in any bin is 13 
+Stats:     0 -    0    7 :*******
+Stats:     1 -    1    6 :******
+Stats:     2 -    2    7 :*******
+Stats:     3 -    3    2 :**
+Stats:     4 -    4    4 :****
+Stats:     5 -    5    4 :****
+Stats:     6 -    6    4 :****
+Stats:     7 -    7    3 :***
+Stats:     8 -    8    3 :***
+Stats:     9 -    9    4 :****
+Stats:    10 -   10    6 :******
+Stats:    11 -   11    4 :****
+Stats:    12 -   12    5D:*****
+Stats:    13 -   13    4 :****
+Stats:    14 -   14    9 :*********
+Stats:    15 -   15   10 :**********
+Stats:    16 -   16   10 :**********
+Stats:    17 -   17   10 :**********
+Stats:    18 -   18   10 :**********
+Stats:    19 -   19   13 :*************
+Stats:    20 -   20    8 :********
+Stats:    21 -   21    5 :*****
+Stats:    22 -   22   10 :**********
+Stats:    23 -   23    9 :*********
+Stats:    24 -   24    8 :********
+Stats:    25 -   25    7M:*******
+Stats:    26 -   26   10 :**********
+Stats:    27 -   27    8 :********
+Stats:    28 -   28    5 :*****
+Stats:    29 -   29    6 :******
+Stats:    30 -   30    7 :*******
+Stats:    31 -   31    7 :*******
+Stats:    32 -   32    7 :*******
+Stats:    33 -   33    6 :******
+Stats:    34 -   34    7 :*******
+Stats:    35 -   35    8 :********
+Stats:    36 -   36    6 :******
+Stats:    37 -   37    7 :*******
+Stats:    38 -   38    7 :*******
+Stats:    39 -   39    5D:*****
+Stats:    40 -   40    7 :*******
+Stats:    41 -   41    7 :*******
+Stats:    42 -   42    6 :******
+Stats:    43 -   43    7 :*******
+Stats:    44 -   44    4 :****
+Stats:    45 -   45   11 :***********
+Stats:    46 -   46    9 :*********
+Stats:    47 -   47   10 :**********
+Stats:    48 -   48    8 :********
+Stats:    49 -   49    3 :***
+Stats:    50 -   50    0 :
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0010 (EXCLUDES 750+)
+
+ELA:  There were 412 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 11169/412 = 27.109223
+Stats:  deviation 15.282903
+Stats:  min and max 0 52
+Stats:  The max value in any bin is 11 
+Stats:     0 -    0    5 :*****
+Stats:     1 -    1    8 :********
+Stats:     2 -    2    8 :********
+Stats:     3 -    3    6 :******
+Stats:     4 -    4    7 :*******
+Stats:     5 -    5   11 :***********
+Stats:     6 -    6    9 :*********
+Stats:     7 -    7    6 :******
+Stats:     8 -    8    7 :*******
+Stats:     9 -    9    6 :******
+Stats:    10 -   10    8 :********
+Stats:    11 -   11    7D:*******
+Stats:    12 -   12    6 :******
+Stats:    13 -   13    6 :******
+Stats:    14 -   14    8 :********
+Stats:    15 -   15    9 :*********
+Stats:    16 -   16    7 :*******
+Stats:    17 -   17    9 :*********
+Stats:    18 -   18    7 :*******
+Stats:    19 -   19    8 :********
+Stats:    20 -   20    6 :******
+Stats:    21 -   21    7 :*******
+Stats:    22 -   22    4 :****
+Stats:    23 -   23    7 :*******
+Stats:    24 -   24    4 :****
+Stats:    25 -   25    6 :******
+Stats:    26 -   26    5 :*****
+Stats:    27 -   27    6M:******
+Stats:    28 -   28    9 :*********
+Stats:    29 -   29    9 :*********
+Stats:    30 -   30    9 :*********
+Stats:    31 -   31    6 :******
+Stats:    32 -   32   11 :***********
+Stats:    33 -   33    7 :*******
+Stats:    34 -   34    9 :*********
+Stats:    35 -   35   10 :**********
+Stats:    36 -   36   11 :***********
+Stats:    37 -   37   11 :***********
+Stats:    38 -   38    8 :********
+Stats:    39 -   39   10 :**********
+Stats:    40 -   40   10 :**********
+Stats:    41 -   41    8 :********
+Stats:    42 -   42    7D:*******
+Stats:    43 -   43    7 :*******
+Stats:    44 -   44    9 :*********
+Stats:    45 -   45   11 :***********
+Stats:    46 -   46   10 :**********
+Stats:    47 -   47    8 :********
+Stats:    48 -   48   10 :**********
+Stats:    49 -   49   10 :**********
+Stats:    50 -   50    9 :*********
+Stats:    51 -   51    8 :********
+Stats:    52 -   52    2 :**
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0013 (EXCLUDES 750+)
+
+ELA:  There were 107 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 2644/107 = 24.710280
+Stats:  deviation 14.450311
+Stats:  min and max 0 46
+Stats:  The max value in any bin is 6 
+Stats:     0 -    0    4 :****
+Stats:     1 -    1    3 :***
+Stats:     2 -    2    3 :***
+Stats:     3 -    3    1 :*
+Stats:     4 -    4    0 :
+Stats:     5 -    5    3 :***
+Stats:     6 -    6    1 :*
+Stats:     7 -    7    0 :
+Stats:     8 -    8    1 :*
+Stats:     9 -    9    1 :*
+Stats:    10 -   10    5D:*****
+Stats:    11 -   11    2 :**
+Stats:    12 -   12    2 :**
+Stats:    13 -   13    3 :***
+Stats:    14 -   14    3 :***
+Stats:    15 -   15    3 :***
+Stats:    16 -   16    1 :*
+Stats:    17 -   17    3 :***
+Stats:    18 -   18    2 :**
+Stats:    19 -   19    3 :***
+Stats:    20 -   20    2 :**
+Stats:    21 -   21    1 :*
+Stats:    22 -   22    4 :****
+Stats:    23 -   23    2 :**
+Stats:    24 -   24    2M:**
+Stats:    25 -   25    1 :*
+Stats:    26 -   26    0 :
+Stats:    27 -   27    1 :*
+Stats:    28 -   28    3 :***
+Stats:    29 -   29    2 :**
+Stats:    30 -   30    2 :**
+Stats:    31 -   31    1 :*
+Stats:    32 -   32    2 :**
+Stats:    33 -   33    0 :
+Stats:    34 -   34    0 :
+Stats:    35 -   35    0 :
+Stats:    36 -   36    2 :**
+Stats:    37 -   37    5 :*****
+Stats:    38 -   38    6 :******
+Stats:    39 -   39    5D:*****
+Stats:    40 -   40    4 :****
+Stats:    41 -   41    3 :***
+Stats:    42 -   42    3 :***
+Stats:    43 -   43    4 :****
+Stats:    44 -   44    2 :**
+Stats:    45 -   45    5 :*****
+Stats:    46 -   46    1 :*
+Stats:    47 -   47    0 :
+Stats:    48 -   48    0 :
+Stats:    49 -   49    0 :
+Stats:    50 -   50    0 :
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0014 (EXCLUDES 750+)
+
+ELA:  There were 108 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 2543/108 = 23.546296
+Stats:  deviation 15.343655
+Stats:  min and max 0 47
+Stats:  The max value in any bin is 6 
+Stats:     0 -    0    6 :******
+Stats:     1 -    1    3 :***
+Stats:     2 -    2    4 :****
+Stats:     3 -    3    4 :****
+Stats:     4 -    4    3 :***
+Stats:     5 -    5    2 :**
+Stats:     6 -    6    0 :
+Stats:     7 -    7    1 :*
+Stats:     8 -    8    1D:*
+Stats:     9 -    9    0 :
+Stats:    10 -   10    4 :****
+Stats:    11 -   11    3 :***
+Stats:    12 -   12    0 :
+Stats:    13 -   13    2 :**
+Stats:    14 -   14    5 :*****
+Stats:    15 -   15    1 :*
+Stats:    16 -   16    1 :*
+Stats:    17 -   17    0 :
+Stats:    18 -   18    3 :***
+Stats:    19 -   19    3 :***
+Stats:    20 -   20    4 :****
+Stats:    21 -   21    3 :***
+Stats:    22 -   22    0 :
+Stats:    23 -   23    2M:**
+Stats:    24 -   24    1 :*
+Stats:    25 -   25    1 :*
+Stats:    26 -   26    0 :
+Stats:    27 -   27    2 :**
+Stats:    28 -   28    3 :***
+Stats:    29 -   29    2 :**
+Stats:    30 -   30    1 :*
+Stats:    31 -   31    0 :
+Stats:    32 -   32    0 :
+Stats:    33 -   33    2 :**
+Stats:    34 -   34    4 :****
+Stats:    35 -   35    4 :****
+Stats:    36 -   36    3 :***
+Stats:    37 -   37    2 :**
+Stats:    38 -   38    4D:****
+Stats:    39 -   39    2 :**
+Stats:    40 -   40    2 :**
+Stats:    41 -   41    3 :***
+Stats:    42 -   42    4 :****
+Stats:    43 -   43    3 :***
+Stats:    44 -   44    2 :**
+Stats:    45 -   45    3 :***
+Stats:    46 -   46    4 :****
+Stats:    47 -   47    1 :*
+Stats:    48 -   48    0 :
+Stats:    49 -   49    0 :
+Stats:    50 -   50    0 :
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :
+
+ELA:  Histogram of vote event times, pct 0015 (EXCLUDES 750+)
+
+ELA:  There were 238 vote events
+ELA:  Label is # of 15-minute intervals after 7am
+ELA:  For example, '12' means 12*15=180 minutes
+ELA:     which is 3 hours after 7am, and thus is
+ELA:     the interval 10:00-10:15am
+Stats:  mean 6433/238 = 27.029412
+Stats:  deviation 14.579738
+Stats:  min and max 0 48
+Stats:  The max value in any bin is 10 
+Stats:     0 -    0    5 :*****
+Stats:     1 -    1    3 :***
+Stats:     2 -    2    2 :**
+Stats:     3 -    3    3 :***
+Stats:     4 -    4    6 :******
+Stats:     5 -    5    4 :****
+Stats:     6 -    6    5 :*****
+Stats:     7 -    7    4 :****
+Stats:     8 -    8    6 :******
+Stats:     9 -    9    4 :****
+Stats:    10 -   10    2 :**
+Stats:    11 -   11    6 :******
+Stats:    12 -   12    5D:*****
+Stats:    13 -   13    5 :*****
+Stats:    14 -   14    4 :****
+Stats:    15 -   15    5 :*****
+Stats:    16 -   16    1 :*
+Stats:    17 -   17    3 :***
+Stats:    18 -   18    5 :*****
+Stats:    19 -   19    4 :****
+Stats:    20 -   20    3 :***
+Stats:    21 -   21    4 :****
+Stats:    22 -   22    4 :****
+Stats:    23 -   23    3 :***
+Stats:    24 -   24    3 :***
+Stats:    25 -   25    5 :*****
+Stats:    26 -   26    5 :*****
+Stats:    27 -   27    1M:*
+Stats:    28 -   28    2 :**
+Stats:    29 -   29    5 :*****
+Stats:    30 -   30    3 :***
+Stats:    31 -   31    4 :****
+Stats:    32 -   32    1 :*
+Stats:    33 -   33    6 :******
+Stats:    34 -   34    8 :********
+Stats:    35 -   35    7 :*******
+Stats:    36 -   36    5 :*****
+Stats:    37 -   37    8 :********
+Stats:    38 -   38    7 :*******
+Stats:    39 -   39    6 :******
+Stats:    40 -   40   10 :**********
+Stats:    41 -   41    6D:******
+Stats:    42 -   42   10 :**********
+Stats:    43 -   43    9 :*********
+Stats:    44 -   44    8 :********
+Stats:    45 -   45    8 :********
+Stats:    46 -   46    8 :********
+Stats:    47 -   47    6 :******
+Stats:    48 -   48    1 :*
+Stats:    49 -   49    0 :
+Stats:    50 -   50    0 :
+Stats:    51 -   51    0 :
+Stats:    52 -   52    0 :
+Stats:    53 -   53    0 :
+Stats:    54 -   54    0 :
+Stats:    55 -   55    0 :
+Stats:    56 -   56    0 :
+Stats:    57 -   57    0 :
+Stats:    58 -   58    0 :
+Stats:    59 -   59    0 :
+Stats:    60 -   60    0 :

@@ -1,0 +1,391 @@
+PEB list for horry
+
+PEBs not used in closing in 152 and not in 68A
+      0 UNK   Closing in 152, In 68A: NO  NO 
+ 100373 SUP   Closing in 152, In 68A: NO  NO 
+ 100561 SUP   Closing in 152, In 68A: NO  NO 
+ 100674 SUP   Closing in 152, In 68A: NO  NO 
+ 100734 SUP   Closing in 152, In 68A: NO  NO 
+ 100772 SUP   Closing in 152, In 68A: NO  NO 
+ 101110 SUP   Closing in 152, In 68A: NO  NO 
+ 101199 SUP   Closing in 152, In 68A: NO  NO 
+ 103791 SUP   Closing in 152, In 68A: NO  NO 
+ 105750 SUP   Closing in 152, In 68A: NO  NO 
+ 107066 SUP   Closing in 152, In 68A: NO  NO 
+ 109133 SUP   Closing in 152, In 68A: NO  NO 
+ 109146 SUP   Closing in 152, In 68A: NO  NO 
+ 110899 SUP   Closing in 152, In 68A: NO  NO 
+ 111754 SUP   Closing in 152, In 68A: NO  NO 
+ 112564 SUP   Closing in 152, In 68A: NO  NO 
+ 112804 SUP   Closing in 152, In 68A: NO  NO 
+ 113447 SUP   Closing in 152, In 68A: NO  NO 
+ 114352 SUP   Closing in 152, In 68A: NO  NO 
+ 114761 SUP   Closing in 152, In 68A: NO  NO 
+ 114781 SUP   Closing in 152, In 68A: NO  NO 
+ 114838 SUP   Closing in 152, In 68A: NO  NO 
+ 114843 SUP   Closing in 152, In 68A: NO  NO 
+ 115014 SUP   Closing in 152, In 68A: NO  NO 
+ 115942 SUP   Closing in 152, In 68A: NO  NO 
+ 116758 SUP   Closing in 152, In 68A: NO  NO 
+ 117380 SUP   Closing in 152, In 68A: NO  NO 
+ 117394 SUP   Closing in 152, In 68A: NO  NO 
+ 117504 SUP   Closing in 152, In 68A: NO  NO 
+ 117553 SUP   Closing in 152, In 68A: NO  NO 
+ 117579 SUP   Closing in 152, In 68A: NO  NO 
+ 117619 SUP   Closing in 152, In 68A: NO  NO 
+ 117653 SUP   Closing in 152, In 68A: NO  NO 
+ 117666 SUP   Closing in 152, In 68A: NO  NO 
+ 117752 SUP   Closing in 152, In 68A: NO  NO 
+ 117788 SUP   Closing in 152, In 68A: NO  NO 
+ 118624 SUP   Closing in 152, In 68A: NO  NO 
+ 119335 SUP   Closing in 152, In 68A: NO  NO 
+ 119415 SUP   Closing in 152, In 68A: NO  NO 
+ 119497 SUP   Closing in 152, In 68A: NO  NO 
+ 119649 SUP   Closing in 152, In 68A: NO  NO 
+ 119778 SUP   Closing in 152, In 68A: NO  NO 
+ 119864 SUP   Closing in 152, In 68A: NO  NO 
+ 119879 SUP   Closing in 152, In 68A: NO  NO 
+ 119923 SUP   Closing in 152, In 68A: NO  NO 
+ 119935 SUP   Closing in 152, In 68A: NO  NO 
+ 120486 SUP   Closing in 152, In 68A: NO  NO 
+ 123082 SUP   Closing in 152, In 68A: NO  NO 
+ 123187 SUP   Closing in 152, In 68A: NO  NO 
+ 123728 SUP   Closing in 152, In 68A: NO  NO 
+ 123918 SUP   Closing in 152, In 68A: NO  NO 
+ 124040 SUP   Closing in 152, In 68A: NO  NO 
+ 124095 SUP   Closing in 152, In 68A: NO  NO 
+ 124299 SUP   Closing in 152, In 68A: NO  NO 
+ 124490 SUP   Closing in 152, In 68A: NO  NO 
+ 124496 SUP   Closing in 152, In 68A: NO  NO 
+ 125535 SUP   Closing in 152, In 68A: NO  NO 
+ 130619 SUP   Closing in 152, In 68A: NO  NO 
+ 130672 SUP   Closing in 152, In 68A: NO  NO 
+ 133255 SUP   Closing in 152, In 68A: NO  NO 
+ 133660 SUP   Closing in 152, In 68A: NO  NO 
+ 133848 SUP   Closing in 152, In 68A: NO  NO 
+ 133974 SUP   Closing in 152, In 68A: NO  NO 
+ 134156 SUP   Closing in 152, In 68A: NO  NO 
+ 134814 SUP   Closing in 152, In 68A: NO  NO 
+ 135021 SUP   Closing in 152, In 68A: NO  NO 
+ 135025 SUP   Closing in 152, In 68A: NO  NO 
+ 135151 SUP   Closing in 152, In 68A: NO  NO 
+ 135433 SUP   Closing in 152, In 68A: NO  NO 
+ 135463 SUP   Closing in 152, In 68A: NO  NO 
+ 135634 SUP   Closing in 152, In 68A: NO  NO 
+ 136610 SUP   Closing in 152, In 68A: NO  NO 
+ 137538 SUP   Closing in 152, In 68A: NO  NO 
+ 137893 SUP   Closing in 152, In 68A: NO  NO 
+ 138090 SUP   Closing in 152, In 68A: NO  NO 
+ 138167 SUP   Closing in 152, In 68A: NO  NO 
+ 139052 SUP   Closing in 152, In 68A: NO  NO 
+ 139058 SUP   Closing in 152, In 68A: NO  NO 
+ 139200 SUP   Closing in 152, In 68A: NO  NO 
+ 139314 SUP   Closing in 152, In 68A: NO  NO 
+ 139345 SUP   Closing in 152, In 68A: NO  NO 
+ 139403 SUP   Closing in 152, In 68A: NO  NO 
+ 139418 SUP   Closing in 152, In 68A: NO  NO 
+ 139448 SUP   Closing in 152, In 68A: NO  NO 
+ 139554 SUP   Closing in 152, In 68A: NO  NO 
+ 139615 SUP   Closing in 152, In 68A: NO  NO 
+ 139627 SUP   Closing in 152, In 68A: NO  NO 
+ 139650 SUP   Closing in 152, In 68A: NO  NO 
+ 139818 SUP   Closing in 152, In 68A: NO  NO 
+ 139888 SUP   Closing in 152, In 68A: NO  NO 
+ 139899 SUP   Closing in 152, In 68A: NO  NO 
+ 140029 SUP   Closing in 152, In 68A: NO  NO 
+ 140422 SUP   Closing in 152, In 68A: NO  NO 
+ 141063 SUP   Closing in 152, In 68A: NO  NO 
+ 141171 SUP   Closing in 152, In 68A: NO  NO 
+ 141193 SUP   Closing in 152, In 68A: NO  NO 
+ 141290 SUP   Closing in 152, In 68A: NO  NO 
+ 141379 SUP   Closing in 152, In 68A: NO  NO 
+ 141577 SUP   Closing in 152, In 68A: NO  NO 
+ 141759 SUP   Closing in 152, In 68A: NO  NO 
+ 141787 SUP   Closing in 152, In 68A: NO  NO 
+ 142014 SUP   Closing in 152, In 68A: NO  NO 
+ 142280 SUP   Closing in 152, In 68A: NO  NO 
+ 142438 SUP   Closing in 152, In 68A: NO  NO 
+ 142561 SUP   Closing in 152, In 68A: NO  NO 
+ 142640 SUP   Closing in 152, In 68A: NO  NO 
+ 143357 SUP   Closing in 152, In 68A: NO  NO 
+ 143369 SUP   Closing in 152, In 68A: NO  NO 
+ 143533 SUP   Closing in 152, In 68A: NO  NO 
+ 143540 SUP   Closing in 152, In 68A: NO  NO 
+ 143541 SUP   Closing in 152, In 68A: NO  NO 
+ 143729 SUP   Closing in 152, In 68A: NO  NO 
+ 143739 SUP   Closing in 152, In 68A: NO  NO 
+ 143826 SUP   Closing in 152, In 68A: NO  NO 
+ 143845 SUP   Closing in 152, In 68A: NO  NO 
+ 143880 SUP   Closing in 152, In 68A: NO  NO 
+ 144045 SUP   Closing in 152, In 68A: NO  NO 
+ 144082 SUP   Closing in 152, In 68A: NO  NO 
+ 144111 SUP   Closing in 152, In 68A: NO  NO 
+ 144218 SUP   Closing in 152, In 68A: NO  NO 
+ 144314 SUP   Closing in 152, In 68A: NO  NO 
+ 144336 SUP   Closing in 152, In 68A: NO  NO 
+ 144382 SUP   Closing in 152, In 68A: NO  NO 
+ 144422 SUP   Closing in 152, In 68A: NO  NO 
+ 144428 SUP   Closing in 152, In 68A: NO  NO 
+ 144516 SUP   Closing in 152, In 68A: NO  NO 
+ 144520 SUP   Closing in 152, In 68A: NO  NO 
+ 144555 SUP   Closing in 152, In 68A: NO  NO 
+ 144562 SUP   Closing in 152, In 68A: NO  NO 
+ 144600 SUP   Closing in 152, In 68A: NO  NO 
+ 144603 SUP   Closing in 152, In 68A: NO  NO 
+ 144678 SUP   Closing in 152, In 68A: NO  NO 
+ 144707 SUP   Closing in 152, In 68A: NO  NO 
+ 144848 SUP   Closing in 152, In 68A: NO  NO 
+ 144880 SUP   Closing in 152, In 68A: NO  NO 
+ 145046 SUP   Closing in 152, In 68A: NO  NO 
+ 145134 SUP   Closing in 152, In 68A: NO  NO 
+ 145210 SUP   Closing in 152, In 68A: NO  NO 
+ 145295 SUP   Closing in 152, In 68A: NO  NO 
+ 145354 SUP   Closing in 152, In 68A: NO  NO 
+ 145396 SUP   Closing in 152, In 68A: NO  NO 
+ 145397 SUP   Closing in 152, In 68A: NO  NO 
+ 145445 SUP   Closing in 152, In 68A: NO  NO 
+ 145749 SUP   Closing in 152, In 68A: NO  NO 
+ 145844 SUP   Closing in 152, In 68A: NO  NO 
+ 146016 SUP   Closing in 152, In 68A: NO  NO 
+ 146209 SUP   Closing in 152, In 68A: NO  NO 
+ 146230 SUP   Closing in 152, In 68A: NO  NO 
+ 146278 SUP   Closing in 152, In 68A: NO  NO 
+ 146499 SUP   Closing in 152, In 68A: NO  NO 
+ 146761 SUP   Closing in 152, In 68A: NO  NO 
+ 146774 SUP   Closing in 152, In 68A: NO  NO 
+ 146786 SUP   Closing in 152, In 68A: NO  NO 
+ 146804 SUP   Closing in 152, In 68A: NO  NO 
+ 146853 SUP   Closing in 152, In 68A: NO  NO 
+ 146854 SUP   Closing in 152, In 68A: NO  NO 
+ 146921 SUP   Closing in 152, In 68A: NO  NO 
+ 146962 SUP   Closing in 152, In 68A: NO  NO 
+ 147011 SUP   Closing in 152, In 68A: NO  NO 
+ 147028 SUP   Closing in 152, In 68A: NO  NO 
+ 147125 SUP   Closing in 152, In 68A: NO  NO 
+ 147169 SUP   Closing in 152, In 68A: NO  NO 
+ 147179 SUP   Closing in 152, In 68A: NO  NO 
+ 147259 SUP   Closing in 152, In 68A: NO  NO 
+ 147277 SUP   Closing in 152, In 68A: NO  NO 
+ 147351 SUP   Closing in 152, In 68A: NO  NO 
+ 147372 SUP   Closing in 152, In 68A: NO  NO 
+ 147440 SUP   Closing in 152, In 68A: NO  NO 
+ 147643 SUP   Closing in 152, In 68A: NO  NO 
+ 147758 SUP   Closing in 152, In 68A: NO  NO 
+ 148446 SUP   Closing in 152, In 68A: NO  NO 
+ 148561 SUP   Closing in 152, In 68A: NO  NO 
+ 148818 SUP   Closing in 152, In 68A: NO  NO 
+ 149009 SUP   Closing in 152, In 68A: NO  NO 
+ 149084 SUP   Closing in 152, In 68A: NO  NO 
+ 149142 SUP   Closing in 152, In 68A: NO  NO 
+ 149623 SUP   Closing in 152, In 68A: NO  NO 
+ 149687 SUP   Closing in 152, In 68A: NO  NO 
+ 149761 SUP   Closing in 152, In 68A: NO  NO 
+ 150365 SUP   Closing in 152, In 68A: NO  NO 
+ 150554 SUP   Closing in 152, In 68A: NO  NO 
+ 150636 SUP   Closing in 152, In 68A: NO  NO 
+ 150669 SUP   Closing in 152, In 68A: NO  NO 
+ 150673 SUP   Closing in 152, In 68A: NO  NO 
+ 150709 SUP   Closing in 152, In 68A: NO  NO 
+ 150766 SUP   Closing in 152, In 68A: NO  NO 
+ 150892 SUP   Closing in 152, In 68A: NO  NO 
+ 151158 SUP   Closing in 152, In 68A: NO  NO 
+ 151754 SUP   Closing in 152, In 68A: NO  NO 
+ 151755 SUP   Closing in 152, In 68A: NO  NO 
+ 152266 SUP   Closing in 152, In 68A: NO  NO 
+ 152296 SUP   Closing in 152, In 68A: NO  NO 
+ 153486 SUP   Closing in 152, In 68A: NO  NO 
+ 153562 SUP   Closing in 152, In 68A: NO  NO 
+ 153671 SUP   Closing in 152, In 68A: NO  NO 
+ 153707 SUP   Closing in 152, In 68A: NO  NO 
+ 153730 SUP   Closing in 152, In 68A: NO  NO 
+ 153745 SUP   Closing in 152, In 68A: NO  NO 
+ 153770 SUP   Closing in 152, In 68A: NO  NO 
+ 153818 SUP   Closing in 152, In 68A: NO  NO 
+ 153823 SUP   Closing in 152, In 68A: NO  NO 
+ 153846 SUP   Closing in 152, In 68A: NO  NO 
+ 153990 SUP   Closing in 152, In 68A: NO  NO 
+ 154073 SUP   Closing in 152, In 68A: NO  NO 
+ 154085 SUP   Closing in 152, In 68A: NO  NO 
+ 154178 SUP   Closing in 152, In 68A: NO  NO 
+ 154279 SUP   Closing in 152, In 68A: NO  NO 
+ 154285 SUP   Closing in 152, In 68A: NO  NO 
+ 154370 SUP   Closing in 152, In 68A: NO  NO 
+ 154424 SUP   Closing in 152, In 68A: NO  NO 
+ 154457 SUP   Closing in 152, In 68A: NO  NO 
+ 154588 SUP   Closing in 152, In 68A: NO  NO 
+ 154712 SUP   Closing in 152, In 68A: NO  NO 
+ 154828 SUP   Closing in 152, In 68A: NO  NO 
+ 154901 SUP   Closing in 152, In 68A: NO  NO 
+ 154930 SUP   Closing in 152, In 68A: NO  NO 
+ 155043 SUP   Closing in 152, In 68A: NO  NO 
+ 155056 SUP   Closing in 152, In 68A: NO  NO 
+ 155208 SUP   Closing in 152, In 68A: NO  NO 
+ 155380 SUP   Closing in 152, In 68A: NO  NO 
+ 155553 SUP   Closing in 152, In 68A: NO  NO 
+ 155576 SUP   Closing in 152, In 68A: NO  NO 
+ 158520 SUP   Closing in 152, In 68A: NO  NO 
+ 159206 SUP   Closing in 152, In 68A: NO  NO 
+ 159596 SUP   Closing in 152, In 68A: NO  NO 
+ 164073 SUP   Closing in 152, In 68A: NO  NO 
+ 164143 SUP   Closing in 152, In 68A: NO  NO 
+ 164158 SUP   Closing in 152, In 68A: NO  NO 
+ 186502 SUP   Closing in 152, In 68A: NO  NO 
+ 192642 SUP   Closing in 152, In 68A: NO  NO 
+ 229439 SUP   Closing in 152, In 68A: NO  NO 
+ 229442 SUP   Closing in 152, In 68A: NO  NO 
+ 229449 SUP   Closing in 152, In 68A: NO  NO 
+ 229450 SUP   Closing in 152, In 68A: NO  NO 
+ 232489 SUP   Closing in 152, In 68A: NO  NO 
+ 232657 SUP   Closing in 152, In 68A: NO  NO 
+ 232667 SUP   Closing in 152, In 68A: NO  NO 
+ 232670 SUP   Closing in 152, In 68A: NO  NO 
+ 232671 SUP   Closing in 152, In 68A: NO  NO 
+ 232673 SUP   Closing in 152, In 68A: NO  NO 
+ 232677 SUP   Closing in 152, In 68A: NO  NO 
+ 232678 SUP   Closing in 152, In 68A: NO  NO 
+ 232679 SUP   Closing in 152, In 68A: NO  NO 
+ 232681 SUP   Closing in 152, In 68A: NO  NO 
+ 232687 SUP   Closing in 152, In 68A: NO  NO 
+ 232697 SUP   Closing in 152, In 68A: NO  NO 
+    607 SUP   Closing in 152, In 68A: NO  NO 
+    998 SUP   Closing in 152, In 68A: NO  NO 
+
+PEBs used in closing in 152 but not in 68A
+ 133748 SUP   Closing in 152, In 68A: YES NO 
+ 147628 SUP   Closing in 152, In 68A: YES NO 
+ 151275 SUP   Closing in 152, In 68A: YES NO 
+ 153706 SUP   Closing in 152, In 68A: YES NO 
+
+PEBs not used in closing in 152 but present in 68A
+ 114207 SUP   Closing in 152, In 68A: NO  YES (11-02  10:18 pm)
+ 119617 dummytype   Closing in 152, In 68A: NO  YES (11-02  08:10 pm)
+ 124010 dummytype   Closing in 152, In 68A: NO  YES (11-02  07:12 pm)(11-02  09:38 pm)
+ 139413 SUP   Closing in 152, In 68A: NO  YES (10-12  08:09 am)(10-12  08:10 am)(10-12  08:12 am)
+ 140374 SUP   Closing in 152, In 68A: NO  YES (10-11  07:18 pm)
+ 147450 SUP   Closing in 152, In 68A: NO  YES (10-13  03:12 pm)
+ 153512 dummytype   Closing in 152, In 68A: NO  YES (11-02  07:13 pm)
+ 229444 dummytype   Closing in 152, In 68A: NO  YES (11-02  08:06 pm)
+ 229445 SUP   Closing in 152, In 68A: NO  YES (10-13  03:37 pm)
+
+PEBs used in closing in 152 and present in 68A
+ 100135 SUP   Closing in 152, In 68A: YES YES (11-02  07:34 pm)
+ 100218 SUP   Closing in 152, In 68A: YES YES (11-02  08:04 pm)
+ 100325 SUP   Closing in 152, In 68A: YES YES (11-02  08:00 pm)
+ 100455 SUP   Closing in 152, In 68A: YES YES (11-02  07:45 pm)
+ 101272 SUP   Closing in 152, In 68A: YES YES (11-02  08:01 pm)
+ 104174 SUP   Closing in 152, In 68A: YES YES (11-02  08:41 pm)
+ 105754 SUP   Closing in 152, In 68A: YES YES (11-02  07:27 pm)
+ 112099 SUP   Closing in 152, In 68A: YES YES (11-02  08:02 pm)
+ 112600 SUP   Closing in 152, In 68A: YES YES (11-02  07:44 pm)
+ 113466 SUP   Closing in 152, In 68A: YES YES (11-02  08:04 pm)
+ 114327 SUP   Closing in 152, In 68A: YES YES (11-02  07:08 pm)
+ 115488 SUP   Closing in 152, In 68A: YES YES (11-02  07:47 pm)
+ 116621 SUP   Closing in 152, In 68A: YES YES (11-02  07:49 pm)
+ 117629 SUP   Closing in 152, In 68A: YES YES (11-02  07:30 pm)
+ 117704 SUP   Closing in 152, In 68A: YES YES (11-02  08:12 pm)
+ 117873 SUP   Closing in 152, In 68A: YES YES (11-02  10:19 pm)
+ 117877 SUP   Closing in 152, In 68A: YES YES (11-02  07:03 pm)
+ 117971 SUP   Closing in 152, In 68A: YES YES (11-02  07:44 pm)
+ 119320 SUP   Closing in 152, In 68A: YES YES (11-02  07:29 pm)
+ 119324 SUP   Closing in 152, In 68A: YES YES (11-02  07:43 pm)
+ 119865 SUP   Closing in 152, In 68A: YES YES (11-02  07:15 pm)
+ 123059 SUP   Closing in 152, In 68A: YES YES (11-02  07:27 pm)
+ 123096 SUP   Closing in 152, In 68A: YES YES (11-02  07:26 pm)
+ 124003 SUP   Closing in 152, In 68A: YES YES (11-02  07:32 pm)
+ 124085 SUP   Closing in 152, In 68A: YES YES (11-02  08:10 pm)
+ 125270 SUP   Closing in 152, In 68A: YES YES (11-02  09:48 pm)
+ 133402 SUP   Closing in 152, In 68A: YES YES (11-02  08:41 pm)
+ 134406 SUP   Closing in 152, In 68A: YES YES (11-02  07:13 pm)
+ 134467 SUP   Closing in 152, In 68A: YES YES (11-02  07:26 pm)
+ 135177 SUP   Closing in 152, In 68A: YES YES (11-02  07:44 pm)
+ 137057 SUP   Closing in 152, In 68A: YES YES (11-02  08:04 pm)
+ 137874 SUP   Closing in 152, In 68A: YES YES (11-02  07:31 pm)
+ 140432 SUP   Closing in 152, In 68A: YES YES (11-02  08:01 pm)
+ 140444 SUP   Closing in 152, In 68A: YES YES (11-02  07:43 pm)
+ 141006 SUP   Closing in 152, In 68A: YES YES (11-02  07:48 pm)
+ 141218 SUP   Closing in 152, In 68A: YES YES (11-02  07:46 pm)
+ 141725 SUP   Closing in 152, In 68A: YES YES (11-02  07:30 pm)
+ 142261 SUP   Closing in 152, In 68A: YES YES (11-02  10:18 pm)
+ 142837 SUP   Closing in 152, In 68A: YES YES (11-02  08:01 pm)
+ 143322 SUP   Closing in 152, In 68A: YES YES (11-02  07:02 pm)
+ 143397 SUP   Closing in 152, In 68A: YES YES (11-02  07:29 pm)
+ 143523 SUP   Closing in 152, In 68A: YES YES (11-03  01:34 pm)
+ 143854 SUP   Closing in 152, In 68A: YES YES (11-02  07:14 pm)
+ 143952 SUP   Closing in 152, In 68A: YES YES (11-02  07:07 pm)
+ 144031 SUP   Closing in 152, In 68A: YES YES (11-02  07:08 pm)
+ 144333 SUP   Closing in 152, In 68A: YES YES (11-02  07:26 pm)
+ 144700 SUP   Closing in 152, In 68A: YES YES (11-02  07:31 pm)
+ 144755 SUP   Closing in 152, In 68A: YES YES (11-02  07:14 pm)
+ 145044 SUP   Closing in 152, In 68A: YES YES (11-02  07:14 pm)
+ 145094 SUP   Closing in 152, In 68A: YES YES (11-02  07:13 pm)
+ 145101 SUP   Closing in 152, In 68A: YES YES (11-02  07:10 pm)
+ 145143 SUP   Closing in 152, In 68A: YES YES (11-02  08:01 pm)
+ 145262 SUP   Closing in 152, In 68A: YES YES (11-02  07:59 pm)
+ 145280 SUP   Closing in 152, In 68A: YES YES (11-02  07:48 pm)
+ 145296 SUP   Closing in 152, In 68A: YES YES (11-02  07:45 pm)
+ 145355 SUP   Closing in 152, In 68A: YES YES (11-02  07:46 pm)
+ 145413 SUP   Closing in 152, In 68A: YES YES (11-02  07:09 pm)
+ 145463 SUP   Closing in 152, In 68A: YES YES (11-02  07:47 pm)
+ 145516 SUP   Closing in 152, In 68A: YES YES (11-02  07:49 pm)
+ 145569 SUP   Closing in 152, In 68A: YES YES (11-02  07:48 pm)
+ 145881 SUP   Closing in 152, In 68A: YES YES (11-02  07:33 pm)
+ 146451 SUP   Closing in 152, In 68A: YES YES (11-02  08:07 pm)
+ 146571 SUP   Closing in 152, In 68A: YES YES (11-02  08:06 pm)
+ 146680 SUP   Closing in 152, In 68A: YES YES (11-02  06:53 pm)
+ 147363 SUP   Closing in 152, In 68A: YES YES (11-02  07:11 pm)
+ 147562 SUP   Closing in 152, In 68A: YES YES (11-02  07:01 pm)
+ 147727 SUP   Closing in 152, In 68A: YES YES (11-02  07:59 pm)
+ 147856 SUP   Closing in 152, In 68A: YES YES (11-02  08:07 pm)(11-02  08:09 pm)(11-02  08:18 pm)
+ 148529 SUP   Closing in 152, In 68A: YES YES (11-02  07:11 pm)
+ 149336 SUP   Closing in 152, In 68A: YES YES (11-02  08:12 pm)
+ 149386 SUP   Closing in 152, In 68A: YES YES (11-02  08:00 pm)
+ 149510 SUP   Closing in 152, In 68A: YES YES (11-02  07:13 pm)
+ 149851 SUP   Closing in 152, In 68A: YES YES (11-02  07:06 pm)
+ 150117 SUP   Closing in 152, In 68A: YES YES (11-02  07:03 pm)
+ 150414 SUP   Closing in 152, In 68A: YES YES (11-02  08:41 pm)
+ 150433 SUP   Closing in 152, In 68A: YES YES (11-02  07:46 pm)
+ 150731 SUP   Closing in 152, In 68A: YES YES (11-02  07:30 pm)
+ 150779 SUP   Closing in 152, In 68A: YES YES (11-02  07:28 pm)
+ 151002 SUP   Closing in 152, In 68A: YES YES (11-02  08:02 pm)
+ 151323 SUP   Closing in 152, In 68A: YES YES (11-02  08:12 pm)
+ 151573 SUP   Closing in 152, In 68A: YES YES (11-02  07:14 pm)
+ 152300 SUP   Closing in 152, In 68A: YES YES (11-02  07:45 pm)
+ 152394 SUP   Closing in 152, In 68A: YES YES (11-02  07:09 pm)
+ 153513 SUP   Closing in 152, In 68A: YES YES (11-02  07:28 pm)
+ 153604 SUP   Closing in 152, In 68A: YES YES (11-02  07:08 pm)
+ 153674 SUP   Closing in 152, In 68A: YES YES (11-02  08:13 pm)
+ 153723 SUP   Closing in 152, In 68A: YES YES (11-02  07:26 pm)
+ 153738 SUP   Closing in 152, In 68A: YES YES (11-02  07:10 pm)
+ 153762 SUP   Closing in 152, In 68A: YES YES (11-02  07:33 pm)
+ 153764 SUP   Closing in 152, In 68A: YES YES (11-02  07:33 pm)
+ 153967 SUP   Closing in 152, In 68A: YES YES (11-02  07:15 pm)
+ 154090 SUP   Closing in 152, In 68A: YES YES (11-02  07:47 pm)
+ 154159 SUP   Closing in 152, In 68A: YES YES (11-02  08:00 pm)
+ 154276 SUP   Closing in 152, In 68A: YES YES (11-02  07:28 pm)
+ 154352 SUP   Closing in 152, In 68A: YES YES (11-02  08:42 pm)
+ 154480 SUP   Closing in 152, In 68A: YES YES (11-02  08:00 pm)
+ 154580 SUP   Closing in 152, In 68A: YES YES (11-02  07:46 pm)
+ 154595 SUP   Closing in 152, In 68A: YES YES (11-02  07:15 pm)
+ 154640 SUP   Closing in 152, In 68A: YES YES (11-02  07:29 pm)
+ 154702 SUP   Closing in 152, In 68A: YES YES (11-02  07:12 pm)
+ 154728 SUP   Closing in 152, In 68A: YES YES (11-02  07:11 pm)
+ 154770 SUP   Closing in 152, In 68A: YES YES (11-02  07:06 pm)
+ 154796 SUP   Closing in 152, In 68A: YES YES (11-02  07:30 pm)
+ 154851 SUP   Closing in 152, In 68A: YES YES (11-02  07:11 pm)
+ 154966 SUP   Closing in 152, In 68A: YES YES (11-02  07:44 pm)
+ 154989 SUP   Closing in 152, In 68A: YES YES (11-02  07:45 pm)
+ 155024 SUP   Closing in 152, In 68A: YES YES (11-02  07:33 pm)
+ 155164 SUP   Closing in 152, In 68A: YES YES (11-02  07:12 pm)
+ 155495 SUP   Closing in 152, In 68A: YES YES (11-02  07:07 pm)
+ 155580 SUP   Closing in 152, In 68A: YES YES (11-02  07:12 pm)
+ 155614 SUP   Closing in 152, In 68A: YES YES (11-02  07:43 pm)
+ 155732 SUP   Closing in 152, In 68A: YES YES (11-02  07:48 pm)
+ 192641 SUP   Closing in 152, In 68A: YES YES (11-03  01:34 pm)
+ 229437 SUP   Closing in 152, In 68A: YES YES (11-02  08:10 pm)
+ 229438 SUP   Closing in 152, In 68A: YES YES (11-02  07:49 pm)
+ 232610 SUP   Closing in 152, In 68A: YES YES (11-02  07:02 pm)
+ 232683 SUP   Closing in 152, In 68A: YES YES (11-02  07:13 pm)
+ 232688 SUP   Closing in 152, In 68A: YES YES (11-02  07:29 pm)
+ 232692 SUP   Closing in 152, In 68A: YES YES (11-02  07:27 pm)
+Total number of PEBs:      380
+

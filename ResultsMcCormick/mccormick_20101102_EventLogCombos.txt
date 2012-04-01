@@ -1,0 +1,1153 @@
+ELA: Successive event combinations for mccormick
+
+ELA: Listing pairs of successive events (includes 750+)
+ELA:  PAIRS '     142 00024000002400'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  PAIRS '      98 00016330001633'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '      71 00007060001635'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+
+ELA:  PAIRS '      63 00024000000706'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+
+ELA:  PAIRS '      52 00012100001211'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+
+ELA:  PAIRS '      36 00016330002808'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  PAIRS '      33 00016500001633'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '      28 00016330002804'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  PAIRS '      26 00028100001626'
+ELA:                 '0002810' 'Terminal - time to close voting'
+ELA:                 '0001626' 'Close terminal'
+
+ELA:  PAIRS '      26 00028090001221'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+
+ELA:  PAIRS '      26 00028090001210'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+
+ELA:  PAIRS '      26 00028080001319'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001319' 'Update PEB's terminal record'
+
+ELA:  PAIRS '      26 00028080001303'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  PAIRS '      26 00028040002802'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  PAIRS '      26 00028030002809'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0002809' 'Terminal - closing state'
+
+ELA:  PAIRS '      26 00028030001673'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0001673' 'Terminal Closed'
+
+ELA:  PAIRS '      26 00028020002808'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  PAIRS '      26 00028020002803'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002803' 'Terminal - closed state'
+
+ELA:  PAIRS '      26 00028020001672'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+
+ELA:  PAIRS '      26 00016730001401'
+ELA:                 '0001673' 'Terminal Closed'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+
+ELA:  PAIRS '      26 00016260002809'
+ELA:                 '0001626' 'Close terminal'
+ELA:                 '0002809' 'Terminal - closing state'
+
+ELA:  PAIRS '      26 00014010001400'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+ELA:                 '0001400' 'Verify terminal flash audit data'
+
+ELA:  PAIRS '      26 00014000001416'
+ELA:                 '0001400' 'Verify terminal flash audit data'
+ELA:                 '0001416' 'Copy audit data from TF 1 to CF'
+
+ELA:  PAIRS '      26 00013190001303'
+ELA:                 '0001319' 'Update PEB's terminal record'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  PAIRS '      26 00013030002804'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  PAIRS '      26 00013030001210'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+
+ELA:  PAIRS '      26 00012220002803'
+ELA:                 '0001222' 'Terminal vote collection successful'
+ELA:                 '0002803' 'Terminal - closed state'
+
+ELA:  PAIRS '      26 00012210001303'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  PAIRS '      26 00012150001222'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+ELA:                 '0001222' 'Terminal vote collection successful'
+
+ELA:  PAIRS '      26 00012140001215'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+
+ELA:  PAIRS '      26 00012110002802'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  PAIRS '      26 00012110001214'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+
+ELA:  PAIRS '      26 00012080002802'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  PAIRS '      26 00006010001607'
+ELA:                 '0000601' 'Zero terminal config data'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+
+ELA:  PAIRS '      25 00013030001208'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+
+ELA:  PAIRS '      20 00017210002405'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+
+ELA:  PAIRS '      17 00001170001656'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+
+ELA:  PAIRS '      16 00028080001001'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+
+ELA:  PAIRS '      16 00028040002808'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  PAIRS '      16 00016550001650'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+ELA:                 '0001650' 'Term - exited service menus'
+
+ELA:  PAIRS '      16 00016520001655'
+ELA:                 '0001652' 'Terminal touch-screen test'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+
+ELA:  PAIRS '      16 00010010001633'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '      16 00001690001652'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+ELA:                 '0001652' 'Terminal touch-screen test'
+
+ELA:  PAIRS '      14 00001160000117'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+
+ELA:  PAIRS '      13 00016720001633'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '      13 00016720000203'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+
+ELA:  PAIRS '      12 00028040001613'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+
+ELA:  PAIRS '      12 00020100001303'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  PAIRS '      12 00016130001633'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '      12 00016070000116'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0000116' 'Select: Configure Terminal'
+
+ELA:  PAIRS '      11 00024050002400'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  PAIRS '      11 00016560000169'
+ELA:                 '0001656' 'Set terminal date and/or time'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+
+ELA:  PAIRS '      11 00013030001633'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '      11 00002030002010'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+
+ELA:  PAIRS '       9 00028080002500'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+
+ELA:  PAIRS '       9 00025000001633'
+ELA:                 '0002500' 'CF - not found'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '       9 00016070001650'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0001650' 'Term - exited service menus'
+
+ELA:  PAIRS '       6 00024000002810'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002810' 'Terminal - time to close voting'
+
+ELA:  PAIRS '       6 00016330002400'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  PAIRS '       6 00001260000300'
+ELA:                 '0000126' 'Select: Election Administration Menu'
+ELA:                 '0000300' 'Start password procedure'
+
+ELA:  PAIRS '       5 00024050000706'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+
+ELA:  PAIRS '       5 00016350001721'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+
+ELA:  PAIRS '       5 00001140000300'
+ELA:                 '0000114' 'Select: Setup & Configuration Menu'
+ELA:                 '0000300' 'Start password procedure'
+
+ELA:  PAIRS '       4 00017200002210'
+ELA:                 '0001720' 'PEB pulled during PEB block verify'
+ELA:                 '0002210' 'PEB block CRC error'
+
+ELA:  PAIRS '       4 00016350002400'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  PAIRS '       4 00016330002810'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002810' 'Terminal - time to close voting'
+
+ELA:  PAIRS '       4 00003000000116'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0000116' 'Select: Configure Terminal'
+
+ELA:  PAIRS '       3 00028080000712'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0000712' 'Election ID data mismatch - PEB vs CF'
+
+ELA:  PAIRS '       3 00022100001302'
+ELA:                 '0002210' 'PEB block CRC error'
+ELA:                 '0001302' 'Failed to get PEB vote header block'
+
+ELA:  PAIRS '       3 00016490001650'
+ELA:                 '0001649' 'Term - entered service menus'
+ELA:                 '0001650' 'Term - exited service menus'
+
+ELA:  PAIRS '       3 00016350001633'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '       3 00016330001721'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+
+ELA:  PAIRS '       3 00007120001633'
+ELA:                 '0000712' 'Election ID data mismatch - PEB vs CF'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  PAIRS '       3 00003000001317'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0001317' 'Transfer PEB term data to terminal'
+
+ELA:  PAIRS '       3 00003000000302'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0000302' 'Password procedure cancelled'
+
+ELA:  PAIRS '       3 00001180000117'
+ELA:                 '0000118' 'Select: Enable Audio Ballot'
+ELA:                 '0000117' 'Select: Set Time and Date'
+
+ELA:  PAIRS '       3 00001070000300'
+ELA:                 '0000107' 'Select: Election Services Menu'
+ELA:                 '0000300' 'Start password procedure'
+
+ELA: Listing triples of successive events (includes 750+)
+ELA:  TRIPS '      81 000163300016330001633'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '      63 000240000007060001635'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+
+ELA:  TRIPS '      40 000240000024000002400'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  TRIPS '      40 000240000024000000706'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+
+ELA:  TRIPS '      26 000281000016260002809'
+ELA:                 '0002810' 'Terminal - time to close voting'
+ELA:                 '0001626' 'Close terminal'
+ELA:                 '0002809' 'Terminal - closing state'
+
+ELA:  TRIPS '      26 000280900012210001303'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  TRIPS '      26 000280900012100001211'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+
+ELA:  TRIPS '      26 000280800013190001303'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001319' 'Update PEB's terminal record'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  TRIPS '      26 000280800013030002804'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  TRIPS '      26 000280400028020002808'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  TRIPS '      26 000280300028090001210'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+
+ELA:  TRIPS '      26 000280300016730001401'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0001673' 'Terminal Closed'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+
+ELA:  TRIPS '      26 000280200028080001319'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001319' 'Update PEB's terminal record'
+
+ELA:  TRIPS '      26 000280200028030002809'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0002809' 'Terminal - closing state'
+
+ELA:  TRIPS '      26 000167300014010001400'
+ELA:                 '0001673' 'Terminal Closed'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+ELA:                 '0001400' 'Verify terminal flash audit data'
+
+ELA:  TRIPS '      26 000162600028090001221'
+ELA:                 '0001626' 'Close terminal'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+
+ELA:  TRIPS '      26 000140100014000001416'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+ELA:                 '0001400' 'Verify terminal flash audit data'
+ELA:                 '0001416' 'Copy audit data from TF 1 to CF'
+
+ELA:  TRIPS '      26 000131900013030001210'
+ELA:                 '0001319' 'Update PEB's terminal record'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+
+ELA:  TRIPS '      26 000130300028040002802'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  TRIPS '      26 000130300012100001211'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+
+ELA:  TRIPS '      26 000122200028030001673'
+ELA:                 '0001222' 'Terminal vote collection successful'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0001673' 'Terminal Closed'
+
+ELA:  TRIPS '      26 000121500012220002803'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+ELA:                 '0001222' 'Terminal vote collection successful'
+ELA:                 '0002803' 'Terminal - closed state'
+
+ELA:  TRIPS '      26 000121400012150001222'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+ELA:                 '0001222' 'Terminal vote collection successful'
+
+ELA:  TRIPS '      26 000121100028020001672'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+
+ELA:  TRIPS '      26 000121100012140001215'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+
+ELA:  TRIPS '      26 000121000012110002802'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  TRIPS '      26 000121000012110001214'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+
+ELA:  TRIPS '      26 000120800028020002803'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002803' 'Terminal - closed state'
+
+ELA:  TRIPS '      25 000130300012080002802'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  TRIPS '      25 000122100013030001208'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+
+ELA:  TRIPS '      23 000165000016330002808'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  TRIPS '      19 000163300028080001303'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  TRIPS '      16 000280800010010001633'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '      16 000165200016550001650'
+ELA:                 '0001652' 'Terminal touch-screen test'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+ELA:                 '0001650' 'Term - exited service menus'
+
+ELA:  TRIPS '      16 000163300028040002808'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  TRIPS '      16 000100100016330002804'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  TRIPS '      16 000016900016520001655'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+ELA:                 '0001652' 'Terminal touch-screen test'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+
+ELA:  TRIPS '      15 000165500016500001633'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '      14 000011600001170001656'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+
+ELA:  TRIPS '      13 000280200016720001633'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '      13 000280200016720000203'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+
+ELA:  TRIPS '      13 000163300028080001001'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+
+ELA:  TRIPS '      12 000280400016130001633'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '      12 000163300028040001613'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+
+ELA:  TRIPS '      12 000161300016330002808'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  TRIPS '      12 000060100016070000116'
+ELA:                 '0000601' 'Zero terminal config data'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0000116' 'Select: Configure Terminal'
+
+ELA:  TRIPS '      11 000201000013030001633'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '      11 000172100024050002400'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  TRIPS '      11 000167200002030002010'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+
+ELA:  TRIPS '      11 000165600001690001652'
+ELA:                 '0001656' 'Set terminal date and/or time'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+ELA:                 '0001652' 'Terminal touch-screen test'
+
+ELA:  TRIPS '      11 000160700001160000117'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+
+ELA:  TRIPS '      11 000020300020100001303'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  TRIPS '      11 000011700016560000169'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+
+ELA:  TRIPS '       9 000280800025000001633'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '       9 000250000016330002804'
+ELA:                 '0002500' 'CF - not found'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  TRIPS '       9 000240500024000002400'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  TRIPS '       9 000060100016070001650'
+ELA:                 '0000601' 'Zero terminal config data'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0001650' 'Term - exited service menus'
+
+ELA:  TRIPS '       8 000160700016500001633'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '       7 000280400028080001303'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  TRIPS '       6 000240000024000002810'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002810' 'Terminal - time to close voting'
+
+ELA:  TRIPS '       5 000280400028080002500'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+
+ELA:  TRIPS '       5 000240500007060001635'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+
+ELA:  TRIPS '       5 000172100024050000706'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+
+ELA:  TRIPS '       5 000163500017210002405'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+
+ELA:  TRIPS '       5 000163300024000000706'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+
+ELA:  TRIPS '       5 000070600016350001721'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+
+ELA:  TRIPS '       4 000070600016350002400'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  TRIPS '       4 000011400003000000116'
+ELA:                 '0000114' 'Select: Setup & Configuration Menu'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0000116' 'Select: Configure Terminal'
+
+ELA:  TRIPS '       3 000280800007120001633'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0000712' 'Election ID data mismatch - PEB vs CF'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '       3 000172000022100001302'
+ELA:                 '0001720' 'PEB pulled during PEB block verify'
+ELA:                 '0002210' 'PEB block CRC error'
+ELA:                 '0001302' 'Failed to get PEB vote header block'
+
+ELA:  TRIPS '       3 000163300028100001626'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002810' 'Terminal - time to close voting'
+ELA:                 '0001626' 'Close terminal'
+
+ELA:  TRIPS '       3 000163300028080002500'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+
+ELA:  TRIPS '       3 000071200016330002804'
+ELA:                 '0000712' 'Election ID data mismatch - PEB vs CF'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  TRIPS '       3 000070600016350001633'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  TRIPS '       3 000030000001160000117'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+
+ELA:  TRIPS '       3 000012600003000000302'
+ELA:                 '0000126' 'Select: Election Administration Menu'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0000302' 'Password procedure cancelled'
+
+ELA:  TRIPS '       3 000011800001170001656'
+ELA:                 '0000118' 'Select: Enable Audio Ballot'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+
+ELA:  TRIPS '       3 000010700003000001317'
+ELA:                 '0000107' 'Select: Election Services Menu'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0001317' 'Transfer PEB term data to terminal'
+
+ELA: Listing quadruples of successive events (includes 750+)
+ELA:  QUADS '      71 0001633000163300016330001633'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '      40 0002400000240000024000000706'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+
+ELA:  QUADS '      40 0002400000240000007060001635'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+
+ELA:  QUADS '      26 0002810000162600028090001221'
+ELA:                 '0002810' 'Terminal - time to close voting'
+ELA:                 '0001626' 'Close terminal'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+
+ELA:  QUADS '      26 0002809000121000012110001214'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+
+ELA:  QUADS '      26 0002808000131900013030001210'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001319' 'Update PEB's terminal record'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+
+ELA:  QUADS '      26 0002808000130300028040002802'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  QUADS '      26 0002804000280200028080001319'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001319' 'Update PEB's terminal record'
+
+ELA:  QUADS '      26 0002803000280900012100001211'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+
+ELA:  QUADS '      26 0002803000167300014010001400'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0001673' 'Terminal Closed'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+ELA:                 '0001400' 'Verify terminal flash audit data'
+
+ELA:  QUADS '      26 0002802000280800013190001303'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001319' 'Update PEB's terminal record'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  QUADS '      26 0002802000280300028090001210'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+
+ELA:  QUADS '      26 0001673000140100014000001416'
+ELA:                 '0001673' 'Terminal Closed'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+ELA:                 '0001400' 'Verify terminal flash audit data'
+ELA:                 '0001416' 'Copy audit data from TF 1 to CF'
+
+ELA:  QUADS '      26 0001626000280900012210001303'
+ELA:                 '0001626' 'Close terminal'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  QUADS '      26 0001319000130300012100001211'
+ELA:                 '0001319' 'Update PEB's terminal record'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+
+ELA:  QUADS '      26 0001303000280400028020002808'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  QUADS '      26 0001303000121000012110002802'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  QUADS '      26 0001222000280300016730001401'
+ELA:                 '0001222' 'Terminal vote collection successful'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0001673' 'Terminal Closed'
+ELA:                 '0001401' 'Copy terminal flash audit data to CF'
+
+ELA:  QUADS '      26 0001215000122200028030001673'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+ELA:                 '0001222' 'Terminal vote collection successful'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0001673' 'Terminal Closed'
+
+ELA:  QUADS '      26 0001214000121500012220002803'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+ELA:                 '0001222' 'Terminal vote collection successful'
+ELA:                 '0002803' 'Terminal - closed state'
+
+ELA:  QUADS '      26 0001211000121400012150001222'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+ELA:                 '0001222' 'Terminal vote collection successful'
+
+ELA:  QUADS '      26 0001210000121100028020001672'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+
+ELA:  QUADS '      26 0001210000121100012140001215'
+ELA:                 '0001210' 'Transfer terminal vote data to PEB'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0001214' 'Transfer terminal writein data to PEB'
+ELA:                 '0001215' 'Terminal write-in data to PEB successful'
+
+ELA:  QUADS '      26 0001208000280200028030002809'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002803' 'Terminal - closed state'
+ELA:                 '0002809' 'Terminal - closing state'
+
+ELA:  QUADS '      25 0002809000122100013030001208'
+ELA:                 '0002809' 'Terminal - closing state'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+
+ELA:  QUADS '      25 0001303000120800028020002803'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0002803' 'Terminal - closed state'
+
+ELA:  QUADS '      25 0001221000130300012080002802'
+ELA:                 '0001221' 'Collect terminal vote data to PEB'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001208' 'Merge terminal & PEB vote data'
+ELA:                 '0002802' 'Terminal - open state'
+
+ELA:  QUADS '      19 0001633000280800013030002804'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  QUADS '      16 0002808000100100016330002804'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  QUADS '      16 0000169000165200016550001650'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+ELA:                 '0001652' 'Terminal touch-screen test'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+ELA:                 '0001650' 'Term - exited service menus'
+
+ELA:  QUADS '      15 0001652000165500016500001633'
+ELA:                 '0001652' 'Terminal touch-screen test'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '      13 0001655000165000016330002808'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  QUADS '      13 0001633000280800010010001633'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '      13 0001211000280200016720001633'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '      13 0001211000280200016720000203'
+ELA:                 '0001211' 'Terminal votes to PEB successful'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+
+ELA:  QUADS '      12 0002804000161300016330002808'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  QUADS '      12 0001633000280400016130001633'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '      12 0001001000163300028040001613'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+
+ELA:  QUADS '      11 0002802000167200002030002010'
+ELA:                 '0002802' 'Terminal - open state'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+
+ELA:  QUADS '      11 0001672000020300020100001303'
+ELA:                 '0001672' 'Terminal Opened'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  QUADS '      11 0001656000016900016520001655'
+ELA:                 '0001656' 'Set terminal date and/or time'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+ELA:                 '0001652' 'Terminal touch-screen test'
+ELA:                 '0001655' 'Terminal touch-screen recalibrated'
+
+ELA:  QUADS '      11 0001650000163300028080001303'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  QUADS '      11 0001607000011600001170001656'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+
+ELA:  QUADS '      11 0000601000160700001160000117'
+ELA:                 '0000601' 'Zero terminal config data'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+
+ELA:  QUADS '      11 0000203000201000013030001633'
+ELA:                 '0000203' 'Option: Print Zero Tape(s)'
+ELA:                 '0002010' 'Print cumulative zeros tape'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '      11 0000117000165600001690001652'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+ELA:                 '0001652' 'Terminal touch-screen test'
+
+ELA:  QUADS '       9 0002808000250000016330002804'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  QUADS '       9 0002500000163300028040002808'
+ELA:                 '0002500' 'CF - not found'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  QUADS '       9 0001721000240500024000002400'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  QUADS '       9 0001650000163300028080001001'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+
+ELA:  QUADS '       8 0001613000163300028080001303'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  QUADS '       8 0000601000160700016500001633'
+ELA:                 '0000601' 'Zero terminal config data'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '       8 0000116000011700016560000169'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+
+ELA:  QUADS '       7 0002804000280800013030002804'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  QUADS '       7 0002405000240000024000002400'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  QUADS '       7 0001633000280400028080001303'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001303' 'Transfer PEB vote data to terminal'
+
+ELA:  QUADS '       7 0001607000165000016330002808'
+ELA:                 '0001607' 'Clear-n-test term flash successful'
+ELA:                 '0001650' 'Term - exited service menus'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  QUADS '       5 0002804000280800025000001633'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '       5 0001721000240500007060001635'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+
+ELA:  QUADS '       5 0001633000280400028080002500'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+
+ELA:  QUADS '       5 0001633000240000007060001635'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+
+ELA:  QUADS '       5 0000706000163500017210002405'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+
+ELA:  QUADS '       4 0002400000070600016350002400'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  QUADS '       4 0001001000163300028040002808'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  QUADS '       3 0002808000071200016330002804'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0000712' 'Election ID data mismatch - PEB vs CF'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+
+ELA:  QUADS '       3 0002400000070600016350001721'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+
+ELA:  QUADS '       3 0002400000070600016350001633'
+ELA:                 '0002400' 'PEB access failed'
+ELA:                 '0000706' 'Failed to retrieve EQC from PEB'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '       3 0001635000172100024050002400'
+ELA:                 '0001635' 'Terminal shutdown - IPS exit'
+ELA:                 '0001721' 'PEB pulled while getting PEB type'
+ELA:                 '0002405' 'Failed to get PEB type'
+ELA:                 '0002400' 'PEB access failed'
+
+ELA:  QUADS '       3 0001633000281000016260002809'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002810' 'Terminal - time to close voting'
+ELA:                 '0001626' 'Close terminal'
+ELA:                 '0002809' 'Terminal - closing state'
+
+ELA:  QUADS '       3 0001633000280800025000001633'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0002500' 'CF - not found'
+ELA:                 '0001633' 'Terminal shutdown'
+
+ELA:  QUADS '       3 0001613000163300028080001001'
+ELA:                 '0001613' 'Opening terminal cancelled by user'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002808' 'Terminal - opening state'
+ELA:                 '0001001' 'Confirm PEB ballot failed by user'
+
+ELA:  QUADS '       3 0000712000163300028040002808'
+ELA:                 '0000712' 'Election ID data mismatch - PEB vs CF'
+ELA:                 '0001633' 'Terminal shutdown'
+ELA:                 '0002804' 'Terminal - blank state'
+ELA:                 '0002808' 'Terminal - opening state'
+
+ELA:  QUADS '       3 0000300000011600001170001656'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+
+ELA:  QUADS '       3 0000118000011700016560000169'
+ELA:                 '0000118' 'Select: Enable Audio Ballot'
+ELA:                 '0000117' 'Select: Set Time and Date'
+ELA:                 '0001656' 'Set terminal date and/or time'
+ELA:                 '0000169' 'Select: Calibrate Screen'
+
+ELA:  QUADS '       3 0000114000030000001160000117'
+ELA:                 '0000114' 'Select: Setup & Configuration Menu'
+ELA:                 '0000300' 'Start password procedure'
+ELA:                 '0000116' 'Select: Configure Terminal'
+ELA:                 '0000117' 'Select: Set Time and Date'
+

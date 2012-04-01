@@ -1,0 +1,93 @@
+
+
+
+
+
+********** ********** ********** ********** ********** **********
+********** ********** ********** ********** ********** **********
+
+EXCEPTIONS file for mccormick
+
+Ballot total in 152:       3700
+Ballot total in 155:       3700
+
+********** ********** ********** ********** ********** **********
+
+Listing terminals found only in 152 or in 155 (includes 750+)
+No exceptions of this type.
+
+********** ********** ********** ********** ********** **********
+
+Listing terminals opened and closed with different PEBs (includes 750+)
+This list comes from the 152 file
+No exceptions of this type.
+
+Listing precincts with multiple PEBs used for closing (includes 750+)
+No exceptions of this type.
+
+********** ********** ********** ********** ********** **********
+
+Listing PEBs found only in 68A or in 152 (includes 750+)
+PEB  137566 not in 68A but closed terminals in 152
+PEB  140607 not in 68A but closed terminals in 152
+PEB  153503 not in 68A but closed terminals in 152
+PEB  153700 not in 68A but closed terminals in 152
+PEB  153779 not in 68A but closed terminals in 152
+PEB  154104 not in 68A but closed terminals in 152
+
+
+********** ********** ********** ********** ********** **********
+
+Listing terminals with anomalous opening/closing times
+Early time means time before 2010_11_02 05:30:00
+Late time means time after   2010_11_02 19:45:00
+
+Listing terminals with no opening/closing times (includes 750+)
+All terminals not in the 152 will appear here
+No exceptions of this type.
+
+Listing terminals with early opening times (EXCLUDES 750+)
+No exceptions of this type.
+
+Listing terminals with late opening times (EXCLUDES 750+)
+No exceptions of this type.
+
+Listing terminals with early closing times (EXCLUDES 750+)
+No exceptions of this type.
+
+Listing terminals with late closing times (EXCLUDES 750+)
+
+Listing terminals by serial number (EXCLUDES 750+)
+Late closetime  5105698 2010_11_02 19:52:11  ( 0003) 
+Late closetime  5118412 2010_11_02 19:47:46  ( 0003) 
+Late closetime  5119262 2010_11_02 20:46:57  ( 0010) 
+Late closetime  5121310 2010_11_02 19:56:31  ( 0003) 
+Late closetime  5121678 2010_11_02 20:11:15  ( 0010) 
+Late closetime  5125636 2010_11_02 19:45:39  ( 0006) 
+Late closetime  5127330 2010_11_02 19:57:32  ( 0010) 
+Late closetime  5128365 2010_11_02 19:52:18  ( 0003) 
+
+Listing terminals by late closing time (EXCLUDES 750+)
+Late closetime  5125636 2010_11_02 19:45:39  ( 0006) 
+Late closetime  5118412 2010_11_02 19:47:46  ( 0003) 
+Late closetime  5105698 2010_11_02 19:52:11  ( 0003) 
+Late closetime  5128365 2010_11_02 19:52:18  ( 0003) 
+Late closetime  5121310 2010_11_02 19:56:31  ( 0003) 
+Late closetime  5127330 2010_11_02 19:57:32  ( 0010) 
+Late closetime  5121678 2010_11_02 20:11:15  ( 0010) 
+Late closetime  5119262 2010_11_02 20:46:57  ( 0010) 
+
+********** ********** ********** ********** ********** **********
+
+Listing of terminals whose memory card data was not collected (includes 750+)
+This list is of all known terminals that are not in the 68A file
+No exceptions of this type.
+
+Dates of 68A first coll of mem card data (includes 750+)
+     26 03-28
+
+Listing of precincts with missing memory card data (EXCLUDES 750+)
+DATA MISSING 0009 MCCORMICK_NO._2                     35 vote(s)
+
+Listing of precincts entirely missing memory card data (EXCLUDES 750+)
+No exceptions of this type.

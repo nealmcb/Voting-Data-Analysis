@@ -1,0 +1,1576 @@
+Globals:  election date is set to 2010_11_02
+Driver:  log file for horry
+Driver:  read the detail data
+DDT:  enter readpctdetail
+Globals:  open input file '../../VotingData/Data/horry/horry_20101102_detail.txt'
+DDT:  leave readpctdetail
+Driver:  read the 155 file
+Globals:  open input file '../../VotingData/Data/horry/horry_20101102_155'
+Driver:  read the 152 file
+Globals:  open input file '../../VotingData/Data/horry/horry_20101102_152'
+Driver:  read the 68A file
+Globals:  open input file '../../VotingData/Data/horry/horry_20101102_68A'
+SixEightA:  enter checkTimeStamps
+10-13  03:13 pm  0101-Time stamp mismatch (Reply was: Don't update)
+10-13  03:13 pm  0110-Time stamp mismatch (Reply was: Don't update)
+10-13  03:13 pm  STOP PACK ACCUMULATION
+10-13  03:13 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+10-13  03:23 pm  DATABASE RESET
+10-13  03:24 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+10-13  03:24 am  CANVASS - BLOCK STYLE WAS PRINTED TO EL119.LST
+10-13  03:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+10-13  03:27 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+10-13  03:34 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+10-13  03:36 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+
+10-26  12:15 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+10-26  12:17 pm                                                   PRC 0101 MANUAL ENTRY
+10-26  12:19 pm                                                   PRC 0121 MANUAL ENTRY
+10-26  12:19 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+10-26  12:21 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+10-26  12:53 pm  DATABASE RESET
+10-26  09:56 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+10-27  11:56 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+10-27  12:48 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+10-27  12:48 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+10-27  12:48 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+
+11-02  05:26 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  05:28 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-02  05:28 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-02  05:28 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  05:31 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  06:42 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  05:59 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-02  06:03 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+11-02  06:07 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+11-02  06:08 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+11-02  06:08 pm  No time stamp available (Reply was: Don't update)
+
+11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+11-02  06:08 pm  0110-Time stamp mismatch (Reply was: Don't update)
+11-02  06:08 pm  0119-Time stamp mismatch (Reply was: Don't update)
+11-02  06:06 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+11-02  06:07 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  06:08 pm  START PROCESS PEBS
+11-02  06:53 pm  PEB votes retrieved for P0146680
+11-02  06:53 pm  SPP file record created for P0146680
+
+11-02  06:07 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  06:08 pm  START PROCESS PEBS
+11-02  06:53 pm  PEB votes retrieved for P0146680
+11-02  06:53 pm  SPP file record created for P0146680
+11-02  06:56 pm                                                   PRC 0198 PACK RECEIVED VTR  (BALS=341  TOT=341)
+11-02  07:05 pm                                                   PRC 0184 PACK RECEIVED VTR  (BALS=1024  TOT=1024)
+11-02  07:01 pm  PEB votes retrieved for P0147562
+11-02  07:01 pm  SPP file record created for P0147562
+11-02  07:02 pm  PEB votes retrieved for P0232610
+11-02  07:02 pm  SPP file record created for P0232610
+11-02  07:05 pm                                                   PRC 0200 PACK RECEIVED VTR  (BALS=478  TOT=478)
+
+11-02  07:05 pm                                                   PRC 0184 PACK RECEIVED VTR  (BALS=1024  TOT=1024)
+11-02  07:01 pm  PEB votes retrieved for P0147562
+11-02  07:01 pm  SPP file record created for P0147562
+11-02  07:02 pm  PEB votes retrieved for P0232610
+11-02  07:02 pm  SPP file record created for P0232610
+11-02  07:05 pm                                                   PRC 0200 PACK RECEIVED VTR  (BALS=478  TOT=478)
+11-02  07:02 pm  PEB votes retrieved for P0143322
+11-02  07:02 pm  SPP file record created for P0143322
+11-02  07:06 pm  0101-Time stamp mismatch (Reply was: Update)
+11-02  07:06 pm                                                   PRC 0101 PACK RECEIVED VTR  (BALS=620  TOT=620)
+11-02  07:03 pm  PEB votes retrieved for P0150117
+
+11-02  07:02 pm  SPP file record created for P0232610
+11-02  07:05 pm                                                   PRC 0200 PACK RECEIVED VTR  (BALS=478  TOT=478)
+11-02  07:02 pm  PEB votes retrieved for P0143322
+11-02  07:02 pm  SPP file record created for P0143322
+11-02  07:06 pm  0101-Time stamp mismatch (Reply was: Update)
+11-02  07:06 pm                                                   PRC 0101 PACK RECEIVED VTR  (BALS=620  TOT=620)
+11-02  07:03 pm  PEB votes retrieved for P0150117
+11-02  07:03 pm  SPP file record created for P0150117
+11-02  07:06 pm                                                   PRC 0213 PACK RECEIVED VTR  (BALS=236  TOT=236)
+11-02  07:03 pm  PEB votes retrieved for P0117877
+11-02  07:03 pm  SPP file record created for P0117877
+
+11-02  07:02 pm  SPP file record created for P0143322
+11-02  07:06 pm  0101-Time stamp mismatch (Reply was: Update)
+11-02  07:06 pm                                                   PRC 0101 PACK RECEIVED VTR  (BALS=620  TOT=620)
+11-02  07:03 pm  PEB votes retrieved for P0150117
+11-02  07:03 pm  SPP file record created for P0150117
+11-02  07:06 pm                                                   PRC 0213 PACK RECEIVED VTR  (BALS=236  TOT=236)
+11-02  07:03 pm  PEB votes retrieved for P0117877
+11-02  07:03 pm  SPP file record created for P0117877
+11-02  07:08 pm  0147-Time stamp mismatch (Reply was: Update)
+11-02  07:08 pm                                                   PRC 0147 PACK RECEIVED VTR  (BALS=424  TOT=424)
+11-02  07:06 pm  PEB votes retrieved for P0154770
+
+11-02  07:03 pm  SPP file record created for P0150117
+11-02  07:06 pm                                                   PRC 0213 PACK RECEIVED VTR  (BALS=236  TOT=236)
+11-02  07:03 pm  PEB votes retrieved for P0117877
+11-02  07:03 pm  SPP file record created for P0117877
+11-02  07:08 pm  0147-Time stamp mismatch (Reply was: Update)
+11-02  07:08 pm                                                   PRC 0147 PACK RECEIVED VTR  (BALS=424  TOT=424)
+11-02  07:06 pm  PEB votes retrieved for P0154770
+11-02  07:06 pm  SPP file record created for P0154770
+11-02  07:09 pm  0149-Time stamp mismatch (Reply was: Update)
+11-02  07:09 pm                                                   PRC 0149 PACK RECEIVED VTR  (BALS=174  TOT=174)
+11-02  07:06 pm  PEB votes retrieved for P0149851
+
+11-02  07:08 pm  0147-Time stamp mismatch (Reply was: Update)
+11-02  07:08 pm                                                   PRC 0147 PACK RECEIVED VTR  (BALS=424  TOT=424)
+11-02  07:06 pm  PEB votes retrieved for P0154770
+11-02  07:06 pm  SPP file record created for P0154770
+11-02  07:09 pm  0149-Time stamp mismatch (Reply was: Update)
+11-02  07:09 pm                                                   PRC 0149 PACK RECEIVED VTR  (BALS=174  TOT=174)
+11-02  07:06 pm  PEB votes retrieved for P0149851
+11-02  07:06 pm  SPP file record created for P0149851
+11-02  07:10 pm  0150-Time stamp mismatch (Reply was: Update)
+11-02  07:10 pm                                                   PRC 0150 PACK RECEIVED VTR  (BALS=217  TOT=217)
+11-02  07:07 pm  PEB votes retrieved for P0143952
+
+11-02  07:09 pm  0149-Time stamp mismatch (Reply was: Update)
+11-02  07:09 pm                                                   PRC 0149 PACK RECEIVED VTR  (BALS=174  TOT=174)
+11-02  07:06 pm  PEB votes retrieved for P0149851
+11-02  07:06 pm  SPP file record created for P0149851
+11-02  07:10 pm  0150-Time stamp mismatch (Reply was: Update)
+11-02  07:10 pm                                                   PRC 0150 PACK RECEIVED VTR  (BALS=217  TOT=217)
+11-02  07:07 pm  PEB votes retrieved for P0143952
+11-02  07:07 pm  SPP file record created for P0143952
+11-02  07:10 pm  0177-Time stamp mismatch (Reply was: Update)
+11-02  07:10 pm                                                   PRC 0177 PACK RECEIVED VTR  (BALS=484  TOT=484)
+11-02  07:07 pm  PEB votes retrieved for P0155495
+
+11-02  07:10 pm  0150-Time stamp mismatch (Reply was: Update)
+11-02  07:10 pm                                                   PRC 0150 PACK RECEIVED VTR  (BALS=217  TOT=217)
+11-02  07:07 pm  PEB votes retrieved for P0143952
+11-02  07:07 pm  SPP file record created for P0143952
+11-02  07:10 pm  0177-Time stamp mismatch (Reply was: Update)
+11-02  07:10 pm                                                   PRC 0177 PACK RECEIVED VTR  (BALS=484  TOT=484)
+11-02  07:07 pm  PEB votes retrieved for P0155495
+11-02  07:07 pm  SPP file record created for P0155495
+11-02  07:11 pm                                                   PRC 0215 PACK RECEIVED VTR  (BALS=235  TOT=235)
+11-02  07:08 pm  PEB votes retrieved for P0153604
+11-02  07:08 pm  SPP file record created for P0153604
+
+11-02  07:07 pm  SPP file record created for P0143952
+11-02  07:10 pm  0177-Time stamp mismatch (Reply was: Update)
+11-02  07:10 pm                                                   PRC 0177 PACK RECEIVED VTR  (BALS=484  TOT=484)
+11-02  07:07 pm  PEB votes retrieved for P0155495
+11-02  07:07 pm  SPP file record created for P0155495
+11-02  07:11 pm                                                   PRC 0215 PACK RECEIVED VTR  (BALS=235  TOT=235)
+11-02  07:08 pm  PEB votes retrieved for P0153604
+11-02  07:08 pm  SPP file record created for P0153604
+11-02  07:11 pm  0176-Time stamp mismatch (Reply was: Update)
+11-02  07:11 pm                                                   PRC 0176 PACK RECEIVED VTR  (BALS=295  TOT=295)
+11-02  07:08 pm  PEB votes retrieved for P0144031
+
+11-02  07:07 pm  SPP file record created for P0155495
+11-02  07:11 pm                                                   PRC 0215 PACK RECEIVED VTR  (BALS=235  TOT=235)
+11-02  07:08 pm  PEB votes retrieved for P0153604
+11-02  07:08 pm  SPP file record created for P0153604
+11-02  07:11 pm  0176-Time stamp mismatch (Reply was: Update)
+11-02  07:11 pm                                                   PRC 0176 PACK RECEIVED VTR  (BALS=295  TOT=295)
+11-02  07:08 pm  PEB votes retrieved for P0144031
+11-02  07:08 pm  SPP file record created for P0144031
+11-02  07:11 pm                                                   PRC 0210 PACK RECEIVED VTR  (BALS=404  TOT=404)
+11-02  07:08 pm  PEB votes retrieved for P0114327
+11-02  07:08 pm  SPP file record created for P0114327
+
+11-02  07:08 pm  SPP file record created for P0153604
+11-02  07:11 pm  0176-Time stamp mismatch (Reply was: Update)
+11-02  07:11 pm                                                   PRC 0176 PACK RECEIVED VTR  (BALS=295  TOT=295)
+11-02  07:08 pm  PEB votes retrieved for P0144031
+11-02  07:08 pm  SPP file record created for P0144031
+11-02  07:11 pm                                                   PRC 0210 PACK RECEIVED VTR  (BALS=404  TOT=404)
+11-02  07:08 pm  PEB votes retrieved for P0114327
+11-02  07:08 pm  SPP file record created for P0114327
+11-02  07:12 pm  0146-Time stamp mismatch (Reply was: Update)
+11-02  07:12 pm                                                   PRC 0146 PACK RECEIVED VTR  (BALS=78  TOT=78)
+11-02  07:09 pm  PEB votes retrieved for P0145413
+
+11-02  07:08 pm  SPP file record created for P0144031
+11-02  07:11 pm                                                   PRC 0210 PACK RECEIVED VTR  (BALS=404  TOT=404)
+11-02  07:08 pm  PEB votes retrieved for P0114327
+11-02  07:08 pm  SPP file record created for P0114327
+11-02  07:12 pm  0146-Time stamp mismatch (Reply was: Update)
+11-02  07:12 pm                                                   PRC 0146 PACK RECEIVED VTR  (BALS=78  TOT=78)
+11-02  07:09 pm  PEB votes retrieved for P0145413
+11-02  07:09 pm  SPP file record created for P0145413
+11-02  07:12 pm  0136-Time stamp mismatch (Reply was: Update)
+11-02  07:12 pm                                                   PRC 0136 PACK RECEIVED VTR  (BALS=527  TOT=527)
+11-02  07:09 pm  PEB votes retrieved for P0152394
+
+11-02  07:12 pm  0146-Time stamp mismatch (Reply was: Update)
+11-02  07:12 pm                                                   PRC 0146 PACK RECEIVED VTR  (BALS=78  TOT=78)
+11-02  07:09 pm  PEB votes retrieved for P0145413
+11-02  07:09 pm  SPP file record created for P0145413
+11-02  07:12 pm  0136-Time stamp mismatch (Reply was: Update)
+11-02  07:12 pm                                                   PRC 0136 PACK RECEIVED VTR  (BALS=527  TOT=527)
+11-02  07:09 pm  PEB votes retrieved for P0152394
+11-02  07:09 pm  SPP file record created for P0152394
+11-02  07:13 pm  0105-Time stamp mismatch (Reply was: Update)
+11-02  07:13 pm                                                   PRC 0105 PACK RECEIVED VTR  (BALS=357  TOT=357)
+11-02  07:10 pm  PEB votes retrieved for P0145101
+
+11-02  07:12 pm  0136-Time stamp mismatch (Reply was: Update)
+11-02  07:12 pm                                                   PRC 0136 PACK RECEIVED VTR  (BALS=527  TOT=527)
+11-02  07:09 pm  PEB votes retrieved for P0152394
+11-02  07:09 pm  SPP file record created for P0152394
+11-02  07:13 pm  0105-Time stamp mismatch (Reply was: Update)
+11-02  07:13 pm                                                   PRC 0105 PACK RECEIVED VTR  (BALS=357  TOT=357)
+11-02  07:10 pm  PEB votes retrieved for P0145101
+11-02  07:10 pm  SPP file record created for P0145101
+11-02  07:13 pm  0133-Time stamp mismatch (Reply was: Update)
+11-02  07:13 pm                                                   PRC 0133 PACK RECEIVED VTR  (BALS=768  TOT=768)
+11-02  07:10 pm  PEB votes retrieved for P0153738
+
+11-02  07:13 pm  0105-Time stamp mismatch (Reply was: Update)
+11-02  07:13 pm                                                   PRC 0105 PACK RECEIVED VTR  (BALS=357  TOT=357)
+11-02  07:10 pm  PEB votes retrieved for P0145101
+11-02  07:10 pm  SPP file record created for P0145101
+11-02  07:13 pm  0133-Time stamp mismatch (Reply was: Update)
+11-02  07:13 pm                                                   PRC 0133 PACK RECEIVED VTR  (BALS=768  TOT=768)
+11-02  07:10 pm  PEB votes retrieved for P0153738
+11-02  07:10 pm  SPP file record created for P0153738
+11-02  07:14 pm  0111-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0111 PACK RECEIVED VTR  (BALS=512  TOT=512)
+11-02  07:11 pm  PEB votes retrieved for P0154851
+
+11-02  07:13 pm  0133-Time stamp mismatch (Reply was: Update)
+11-02  07:13 pm                                                   PRC 0133 PACK RECEIVED VTR  (BALS=768  TOT=768)
+11-02  07:10 pm  PEB votes retrieved for P0153738
+11-02  07:10 pm  SPP file record created for P0153738
+11-02  07:14 pm  0111-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0111 PACK RECEIVED VTR  (BALS=512  TOT=512)
+11-02  07:11 pm  PEB votes retrieved for P0154851
+11-02  07:11 pm  SPP file record created for P0154851
+11-02  07:14 pm  0123-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0123 PACK RECEIVED VTR  (BALS=492  TOT=492)
+11-02  07:11 pm  PEB votes retrieved for P0148529
+
+11-02  07:14 pm  0111-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0111 PACK RECEIVED VTR  (BALS=512  TOT=512)
+11-02  07:11 pm  PEB votes retrieved for P0154851
+11-02  07:11 pm  SPP file record created for P0154851
+11-02  07:14 pm  0123-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0123 PACK RECEIVED VTR  (BALS=492  TOT=492)
+11-02  07:11 pm  PEB votes retrieved for P0148529
+11-02  07:11 pm  SPP file record created for P0148529
+11-02  07:14 pm  0169-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0169 PACK RECEIVED VTR  (BALS=229  TOT=229)
+11-02  07:11 pm  PEB votes retrieved for P0147363
+
+11-02  07:14 pm  0123-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0123 PACK RECEIVED VTR  (BALS=492  TOT=492)
+11-02  07:11 pm  PEB votes retrieved for P0148529
+11-02  07:11 pm  SPP file record created for P0148529
+11-02  07:14 pm  0169-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0169 PACK RECEIVED VTR  (BALS=229  TOT=229)
+11-02  07:11 pm  PEB votes retrieved for P0147363
+11-02  07:11 pm  SPP file record created for P0147363
+11-02  07:14 pm  0157-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0157 PACK RECEIVED VTR  (BALS=507  TOT=507)
+11-02  07:11 pm  PEB votes retrieved for P0154728
+
+11-02  07:14 pm  0169-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0169 PACK RECEIVED VTR  (BALS=229  TOT=229)
+11-02  07:11 pm  PEB votes retrieved for P0147363
+11-02  07:11 pm  SPP file record created for P0147363
+11-02  07:14 pm  0157-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0157 PACK RECEIVED VTR  (BALS=507  TOT=507)
+11-02  07:11 pm  PEB votes retrieved for P0154728
+11-02  07:11 pm  SPP file record created for P0154728
+11-02  07:15 pm  0131-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0131 PACK RECEIVED VTR  (BALS=527  TOT=527)
+11-02  07:12 pm  PEB votes retrieved for P0154702
+
+11-02  07:14 pm  0157-Time stamp mismatch (Reply was: Update)
+11-02  07:14 pm                                                   PRC 0157 PACK RECEIVED VTR  (BALS=507  TOT=507)
+11-02  07:11 pm  PEB votes retrieved for P0154728
+11-02  07:11 pm  SPP file record created for P0154728
+11-02  07:15 pm  0131-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0131 PACK RECEIVED VTR  (BALS=527  TOT=527)
+11-02  07:12 pm  PEB votes retrieved for P0154702
+11-02  07:12 pm  SPP file record created for P0154702
+11-02  07:15 pm  0170-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0170 PACK RECEIVED VTR  (BALS=608  TOT=608)
+11-02  07:12 pm  PEB votes retrieved for P0124010
+
+11-02  07:15 pm  0131-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0131 PACK RECEIVED VTR  (BALS=527  TOT=527)
+11-02  07:12 pm  PEB votes retrieved for P0154702
+11-02  07:12 pm  SPP file record created for P0154702
+11-02  07:15 pm  0170-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0170 PACK RECEIVED VTR  (BALS=608  TOT=608)
+11-02  07:12 pm  PEB votes retrieved for P0124010
+11-02  07:12 pm  SPP file record created for P0124010
+11-02  07:15 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0141 PACK RECEIVED VTR
+11-02  07:12 pm  PEB votes retrieved for P0155164
+
+11-02  07:15 pm  0170-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0170 PACK RECEIVED VTR  (BALS=608  TOT=608)
+11-02  07:12 pm  PEB votes retrieved for P0124010
+11-02  07:12 pm  SPP file record created for P0124010
+11-02  07:15 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0141 PACK RECEIVED VTR
+11-02  07:12 pm  PEB votes retrieved for P0155164
+11-02  07:12 pm  SPP file record created for P0155164
+11-02  07:15 pm                                                   PRC 0216 PACK RECEIVED VTR  (BALS=757  TOT=757)
+11-02  07:12 pm  PEB votes retrieved for P0155580
+11-02  07:12 pm  SPP file record created for P0155580
+
+11-02  07:12 pm  SPP file record created for P0124010
+11-02  07:15 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  07:15 pm                                                   PRC 0141 PACK RECEIVED VTR
+11-02  07:12 pm  PEB votes retrieved for P0155164
+11-02  07:12 pm  SPP file record created for P0155164
+11-02  07:15 pm                                                   PRC 0216 PACK RECEIVED VTR  (BALS=757  TOT=757)
+11-02  07:12 pm  PEB votes retrieved for P0155580
+11-02  07:12 pm  SPP file record created for P0155580
+11-02  07:16 pm  0115-Time stamp mismatch (Reply was: Update)
+11-02  07:16 pm                                                   PRC 0115 PACK RECEIVED VTR  (BALS=517  TOT=517)
+11-02  07:13 pm  PEB votes retrieved for P0153512
+
+11-02  07:12 pm  SPP file record created for P0155164
+11-02  07:15 pm                                                   PRC 0216 PACK RECEIVED VTR  (BALS=757  TOT=757)
+11-02  07:12 pm  PEB votes retrieved for P0155580
+11-02  07:12 pm  SPP file record created for P0155580
+11-02  07:16 pm  0115-Time stamp mismatch (Reply was: Update)
+11-02  07:16 pm                                                   PRC 0115 PACK RECEIVED VTR  (BALS=517  TOT=517)
+11-02  07:13 pm  PEB votes retrieved for P0153512
+11-02  07:13 pm  SPP file record created for P0153512
+11-02  07:16 pm                                                   PRC 0192 PACK RECEIVED VTR  (BALS=302  TOT=302)
+11-02  07:13 pm  PEB votes retrieved for P0149510
+11-02  07:13 pm  SPP file record created for P0149510
+
+11-02  07:12 pm  SPP file record created for P0155580
+11-02  07:16 pm  0115-Time stamp mismatch (Reply was: Update)
+11-02  07:16 pm                                                   PRC 0115 PACK RECEIVED VTR  (BALS=517  TOT=517)
+11-02  07:13 pm  PEB votes retrieved for P0153512
+11-02  07:13 pm  SPP file record created for P0153512
+11-02  07:16 pm                                                   PRC 0192 PACK RECEIVED VTR  (BALS=302  TOT=302)
+11-02  07:13 pm  PEB votes retrieved for P0149510
+11-02  07:13 pm  SPP file record created for P0149510
+11-02  07:16 pm                                                   PRC 0193 PACK RECEIVED VTR  (BALS=902  TOT=902)
+11-02  07:13 pm  PEB votes retrieved for P0134406
+11-02  07:13 pm  SPP file record created for P0134406
+
+11-02  07:13 pm  PEB votes retrieved for P0153512
+11-02  07:13 pm  SPP file record created for P0153512
+11-02  07:16 pm                                                   PRC 0192 PACK RECEIVED VTR  (BALS=302  TOT=302)
+11-02  07:13 pm  PEB votes retrieved for P0149510
+11-02  07:13 pm  SPP file record created for P0149510
+11-02  07:16 pm                                                   PRC 0193 PACK RECEIVED VTR  (BALS=902  TOT=902)
+11-02  07:13 pm  PEB votes retrieved for P0134406
+11-02  07:13 pm  SPP file record created for P0134406
+11-02  07:16 pm  0145-Time stamp mismatch (Reply was: Update)
+11-02  07:16 pm                                                   PRC 0145 PACK RECEIVED VTR  (BALS=479  TOT=479)
+11-02  07:13 pm  PEB votes retrieved for P0145094
+
+11-02  07:13 pm  SPP file record created for P0149510
+11-02  07:16 pm                                                   PRC 0193 PACK RECEIVED VTR  (BALS=902  TOT=902)
+11-02  07:13 pm  PEB votes retrieved for P0134406
+11-02  07:13 pm  SPP file record created for P0134406
+11-02  07:16 pm  0145-Time stamp mismatch (Reply was: Update)
+11-02  07:16 pm                                                   PRC 0145 PACK RECEIVED VTR  (BALS=479  TOT=479)
+11-02  07:13 pm  PEB votes retrieved for P0145094
+11-02  07:13 pm  SPP file record created for P0145094
+11-02  07:17 pm  0124-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0124 PACK RECEIVED VTR  (BALS=912  TOT=912)
+11-02  07:13 pm  PEB votes retrieved for P0232683
+
+11-02  07:16 pm  0145-Time stamp mismatch (Reply was: Update)
+11-02  07:16 pm                                                   PRC 0145 PACK RECEIVED VTR  (BALS=479  TOT=479)
+11-02  07:13 pm  PEB votes retrieved for P0145094
+11-02  07:13 pm  SPP file record created for P0145094
+11-02  07:17 pm  0124-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0124 PACK RECEIVED VTR  (BALS=912  TOT=912)
+11-02  07:13 pm  PEB votes retrieved for P0232683
+11-02  07:13 pm  SPP file record created for P0232683
+11-02  07:17 pm  0155-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0155 PACK RECEIVED VTR  (BALS=202  TOT=202)
+11-02  07:14 pm  PEB votes retrieved for P0144755
+
+11-02  07:17 pm  0124-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0124 PACK RECEIVED VTR  (BALS=912  TOT=912)
+11-02  07:13 pm  PEB votes retrieved for P0232683
+11-02  07:13 pm  SPP file record created for P0232683
+11-02  07:17 pm  0155-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0155 PACK RECEIVED VTR  (BALS=202  TOT=202)
+11-02  07:14 pm  PEB votes retrieved for P0144755
+11-02  07:14 pm  SPP file record created for P0144755
+11-02  07:17 pm  0120-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0120 PACK RECEIVED VTR  (BALS=382  TOT=382)
+11-02  07:14 pm  PEB votes retrieved for P0151573
+
+11-02  07:17 pm  0155-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0155 PACK RECEIVED VTR  (BALS=202  TOT=202)
+11-02  07:14 pm  PEB votes retrieved for P0144755
+11-02  07:14 pm  SPP file record created for P0144755
+11-02  07:17 pm  0120-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0120 PACK RECEIVED VTR  (BALS=382  TOT=382)
+11-02  07:14 pm  PEB votes retrieved for P0151573
+11-02  07:14 pm  SPP file record created for P0151573
+11-02  07:17 pm  0127-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0127 PACK RECEIVED VTR  (BALS=482  TOT=482)
+11-02  07:14 pm  PEB votes retrieved for P0145044
+
+11-02  07:17 pm  0120-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0120 PACK RECEIVED VTR  (BALS=382  TOT=382)
+11-02  07:14 pm  PEB votes retrieved for P0151573
+11-02  07:14 pm  SPP file record created for P0151573
+11-02  07:17 pm  0127-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0127 PACK RECEIVED VTR  (BALS=482  TOT=482)
+11-02  07:14 pm  PEB votes retrieved for P0145044
+11-02  07:14 pm  SPP file record created for P0145044
+11-02  07:18 pm  0166-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0166 PACK RECEIVED VTR  (BALS=212  TOT=212)
+11-02  07:14 pm  PEB votes retrieved for P0143854
+
+11-02  07:17 pm  0127-Time stamp mismatch (Reply was: Update)
+11-02  07:17 pm                                                   PRC 0127 PACK RECEIVED VTR  (BALS=482  TOT=482)
+11-02  07:14 pm  PEB votes retrieved for P0145044
+11-02  07:14 pm  SPP file record created for P0145044
+11-02  07:18 pm  0166-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0166 PACK RECEIVED VTR  (BALS=212  TOT=212)
+11-02  07:14 pm  PEB votes retrieved for P0143854
+11-02  07:14 pm  SPP file record created for P0143854
+11-02  07:18 pm  0126-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0126 PACK RECEIVED VTR  (BALS=469  TOT=469)
+11-02  07:15 pm  PEB votes retrieved for P0154595
+
+11-02  07:18 pm  0166-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0166 PACK RECEIVED VTR  (BALS=212  TOT=212)
+11-02  07:14 pm  PEB votes retrieved for P0143854
+11-02  07:14 pm  SPP file record created for P0143854
+11-02  07:18 pm  0126-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0126 PACK RECEIVED VTR  (BALS=469  TOT=469)
+11-02  07:15 pm  PEB votes retrieved for P0154595
+11-02  07:15 pm  SPP file record created for P0154595
+11-02  07:18 pm  0167-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0167 PACK RECEIVED VTR  (BALS=146  TOT=146)
+11-02  07:15 pm  PEB votes retrieved for P0153967
+
+11-02  07:18 pm  0126-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0126 PACK RECEIVED VTR  (BALS=469  TOT=469)
+11-02  07:15 pm  PEB votes retrieved for P0154595
+11-02  07:15 pm  SPP file record created for P0154595
+11-02  07:18 pm  0167-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0167 PACK RECEIVED VTR  (BALS=146  TOT=146)
+11-02  07:15 pm  PEB votes retrieved for P0153967
+11-02  07:15 pm  SPP file record created for P0153967
+11-02  07:18 pm  0171-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0171 PACK RECEIVED VTR  (BALS=415  TOT=415)
+11-02  07:15 pm  PEB votes retrieved for P0119865
+
+11-02  07:18 pm  0167-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0167 PACK RECEIVED VTR  (BALS=146  TOT=146)
+11-02  07:15 pm  PEB votes retrieved for P0153967
+11-02  07:15 pm  SPP file record created for P0153967
+11-02  07:18 pm  0171-Time stamp mismatch (Reply was: Update)
+11-02  07:18 pm                                                   PRC 0171 PACK RECEIVED VTR  (BALS=415  TOT=415)
+11-02  07:15 pm  PEB votes retrieved for P0119865
+11-02  07:15 pm  SPP file record created for P0119865
+11-02  07:19 pm  0164-Time stamp mismatch (Reply was: Update)
+11-02  07:19 pm                                                   PRC 0164 PACK RECEIVED VTR  (BALS=499  TOT=499)
+11-02  07:26 pm  PEB votes retrieved for P0144333
+
+11-02  07:15 pm  SPP file record created for P0119865
+11-02  07:19 pm  0164-Time stamp mismatch (Reply was: Update)
+11-02  07:19 pm                                                   PRC 0164 PACK RECEIVED VTR  (BALS=499  TOT=499)
+11-02  07:26 pm  PEB votes retrieved for P0144333
+11-02  07:26 pm  SPP file record created for P0144333
+11-02  07:29 pm                                                   PRC 0185 PACK RECEIVED VTR  (BALS=188  TOT=188)
+11-02  07:26 pm  PEB votes retrieved for P0153723
+11-02  07:26 pm  SPP file record created for P0153723
+11-02  07:29 pm  0102-Time stamp mismatch (Reply was: Update)
+11-02  07:29 pm                                                   PRC 0102 PACK RECEIVED VTR  (BALS=232  TOT=232)
+11-02  07:26 pm  PEB votes retrieved for P0123096
+
+11-02  07:26 pm  SPP file record created for P0144333
+11-02  07:29 pm                                                   PRC 0185 PACK RECEIVED VTR  (BALS=188  TOT=188)
+11-02  07:26 pm  PEB votes retrieved for P0153723
+11-02  07:26 pm  SPP file record created for P0153723
+11-02  07:29 pm  0102-Time stamp mismatch (Reply was: Update)
+11-02  07:29 pm                                                   PRC 0102 PACK RECEIVED VTR  (BALS=232  TOT=232)
+11-02  07:26 pm  PEB votes retrieved for P0123096
+11-02  07:26 pm  SPP file record created for P0123096
+11-02  07:29 pm                                                   PRC 0214 PACK RECEIVED VTR  (BALS=329  TOT=329)
+11-02  07:26 pm  PEB votes retrieved for P0134467
+11-02  07:26 pm  SPP file record created for P0134467
+
+11-02  07:26 pm  SPP file record created for P0153723
+11-02  07:29 pm  0102-Time stamp mismatch (Reply was: Update)
+11-02  07:29 pm                                                   PRC 0102 PACK RECEIVED VTR  (BALS=232  TOT=232)
+11-02  07:26 pm  PEB votes retrieved for P0123096
+11-02  07:26 pm  SPP file record created for P0123096
+11-02  07:29 pm                                                   PRC 0214 PACK RECEIVED VTR  (BALS=329  TOT=329)
+11-02  07:26 pm  PEB votes retrieved for P0134467
+11-02  07:26 pm  SPP file record created for P0134467
+11-02  07:30 pm  0125-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0125 PACK RECEIVED VTR  (BALS=556  TOT=556)
+11-02  07:27 pm  PEB votes retrieved for P0105754
+
+11-02  07:26 pm  SPP file record created for P0123096
+11-02  07:29 pm                                                   PRC 0214 PACK RECEIVED VTR  (BALS=329  TOT=329)
+11-02  07:26 pm  PEB votes retrieved for P0134467
+11-02  07:26 pm  SPP file record created for P0134467
+11-02  07:30 pm  0125-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0125 PACK RECEIVED VTR  (BALS=556  TOT=556)
+11-02  07:27 pm  PEB votes retrieved for P0105754
+11-02  07:27 pm  SPP file record created for P0105754
+11-02  07:30 pm  0110-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0110 PACK RECEIVED VTR  (BALS=816  TOT=816)
+11-02  07:27 pm  PEB votes retrieved for P0123059
+
+11-02  07:30 pm  0125-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0125 PACK RECEIVED VTR  (BALS=556  TOT=556)
+11-02  07:27 pm  PEB votes retrieved for P0105754
+11-02  07:27 pm  SPP file record created for P0105754
+11-02  07:30 pm  0110-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0110 PACK RECEIVED VTR  (BALS=816  TOT=816)
+11-02  07:27 pm  PEB votes retrieved for P0123059
+11-02  07:27 pm  SPP file record created for P0123059
+11-02  07:30 pm  0140-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0140 PACK RECEIVED VTR  (BALS=644  TOT=644)
+11-02  07:27 pm  PEB votes retrieved for P0232692
+
+11-02  07:30 pm  0110-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0110 PACK RECEIVED VTR  (BALS=816  TOT=816)
+11-02  07:27 pm  PEB votes retrieved for P0123059
+11-02  07:27 pm  SPP file record created for P0123059
+11-02  07:30 pm  0140-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0140 PACK RECEIVED VTR  (BALS=644  TOT=644)
+11-02  07:27 pm  PEB votes retrieved for P0232692
+11-02  07:27 pm  SPP file record created for P0232692
+11-02  07:31 pm  0151-Time stamp mismatch (Reply was: Update)
+11-02  07:31 pm                                                   PRC 0151 PACK RECEIVED VTR  (BALS=933  TOT=933)
+11-02  07:28 pm  PEB votes retrieved for P0150779
+
+11-02  07:30 pm  0140-Time stamp mismatch (Reply was: Update)
+11-02  07:30 pm                                                   PRC 0140 PACK RECEIVED VTR  (BALS=644  TOT=644)
+11-02  07:27 pm  PEB votes retrieved for P0232692
+11-02  07:27 pm  SPP file record created for P0232692
+11-02  07:31 pm  0151-Time stamp mismatch (Reply was: Update)
+11-02  07:31 pm                                                   PRC 0151 PACK RECEIVED VTR  (BALS=933  TOT=933)
+11-02  07:28 pm  PEB votes retrieved for P0150779
+11-02  07:28 pm  SPP file record created for P0150779
+11-02  07:31 pm  0130-Time stamp mismatch (Reply was: Update)
+11-02  07:31 pm                                                   PRC 0130 PACK RECEIVED VTR  (BALS=888  TOT=888)
+11-02  07:28 pm  PEB votes retrieved for P0153513
+
+11-02  07:31 pm  0151-Time stamp mismatch (Reply was: Update)
+11-02  07:31 pm                                                   PRC 0151 PACK RECEIVED VTR  (BALS=933  TOT=933)
+11-02  07:28 pm  PEB votes retrieved for P0150779
+11-02  07:28 pm  SPP file record created for P0150779
+11-02  07:31 pm  0130-Time stamp mismatch (Reply was: Update)
+11-02  07:31 pm                                                   PRC 0130 PACK RECEIVED VTR  (BALS=888  TOT=888)
+11-02  07:28 pm  PEB votes retrieved for P0153513
+11-02  07:28 pm  SPP file record created for P0153513
+11-02  07:31 pm                                                   PRC 0208 PACK RECEIVED VTR  (BALS=284  TOT=284)
+11-02  07:28 pm  PEB votes retrieved for P0154276
+11-02  07:28 pm  SPP file record created for P0154276
+
+11-02  07:28 pm  SPP file record created for P0150779
+11-02  07:31 pm  0130-Time stamp mismatch (Reply was: Update)
+11-02  07:31 pm                                                   PRC 0130 PACK RECEIVED VTR  (BALS=888  TOT=888)
+11-02  07:28 pm  PEB votes retrieved for P0153513
+11-02  07:28 pm  SPP file record created for P0153513
+11-02  07:31 pm                                                   PRC 0208 PACK RECEIVED VTR  (BALS=284  TOT=284)
+11-02  07:28 pm  PEB votes retrieved for P0154276
+11-02  07:28 pm  SPP file record created for P0154276
+11-02  07:32 pm                                                   PRC 0183 PACK RECEIVED VTR  (BALS=331  TOT=331)
+11-02  07:29 pm  PEB votes retrieved for P0119320
+11-02  07:29 pm  SPP file record created for P0119320
+
+11-02  07:28 pm  PEB votes retrieved for P0153513
+11-02  07:28 pm  SPP file record created for P0153513
+11-02  07:31 pm                                                   PRC 0208 PACK RECEIVED VTR  (BALS=284  TOT=284)
+11-02  07:28 pm  PEB votes retrieved for P0154276
+11-02  07:28 pm  SPP file record created for P0154276
+11-02  07:32 pm                                                   PRC 0183 PACK RECEIVED VTR  (BALS=331  TOT=331)
+11-02  07:29 pm  PEB votes retrieved for P0119320
+11-02  07:29 pm  SPP file record created for P0119320
+11-02  07:32 pm                                                   PRC 0219 PACK RECEIVED VTR  (BALS=867  TOT=867)
+11-02  07:29 pm  PEB votes retrieved for P0232688
+11-02  07:29 pm  SPP file record created for P0232688
+
+11-02  07:28 pm  PEB votes retrieved for P0154276
+11-02  07:28 pm  SPP file record created for P0154276
+11-02  07:32 pm                                                   PRC 0183 PACK RECEIVED VTR  (BALS=331  TOT=331)
+11-02  07:29 pm  PEB votes retrieved for P0119320
+11-02  07:29 pm  SPP file record created for P0119320
+11-02  07:32 pm                                                   PRC 0219 PACK RECEIVED VTR  (BALS=867  TOT=867)
+11-02  07:29 pm  PEB votes retrieved for P0232688
+11-02  07:29 pm  SPP file record created for P0232688
+11-02  07:32 pm  0117-Terminal(s) not closed (Reply was: Update)
+11-02  07:29 pm  PEB votes retrieved for P0154640
+11-02  07:29 pm  SPP file record created for P0154640
+
+11-02  07:29 pm  PEB votes retrieved for P0119320
+11-02  07:29 pm  SPP file record created for P0119320
+11-02  07:32 pm                                                   PRC 0219 PACK RECEIVED VTR  (BALS=867  TOT=867)
+11-02  07:29 pm  PEB votes retrieved for P0232688
+11-02  07:29 pm  SPP file record created for P0232688
+11-02  07:32 pm  0117-Terminal(s) not closed (Reply was: Update)
+11-02  07:29 pm  PEB votes retrieved for P0154640
+11-02  07:29 pm  SPP file record created for P0154640
+11-02  07:32 pm  0117-Time stamp mismatch (Reply was: Update)
+11-02  07:32 pm                                                   PRC 0117 PACK RECEIVED VTR  (BALS=290  TOT=290)
+11-02  07:33 pm  0118-Time stamp mismatch (Reply was: Update)
+
+11-02  07:29 pm  PEB votes retrieved for P0154640
+11-02  07:29 pm  SPP file record created for P0154640
+11-02  07:32 pm  0117-Time stamp mismatch (Reply was: Update)
+11-02  07:32 pm                                                   PRC 0117 PACK RECEIVED VTR  (BALS=290  TOT=290)
+11-02  07:33 pm  0118-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0118 PACK RECEIVED VTR  (BALS=167  TOT=167)
+11-02  07:29 pm  PEB votes retrieved for P0143397
+11-02  07:29 pm  SPP file record created for P0143397
+11-02  07:33 pm  0179-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0179 PACK RECEIVED VTR  (BALS=629  TOT=629)
+11-02  07:30 pm  PEB votes retrieved for P0154796
+
+11-02  07:33 pm  0118-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0118 PACK RECEIVED VTR  (BALS=167  TOT=167)
+11-02  07:29 pm  PEB votes retrieved for P0143397
+11-02  07:29 pm  SPP file record created for P0143397
+11-02  07:33 pm  0179-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0179 PACK RECEIVED VTR  (BALS=629  TOT=629)
+11-02  07:30 pm  PEB votes retrieved for P0154796
+11-02  07:30 pm  SPP file record created for P0154796
+11-02  07:33 pm                                                   PRC 0211 PACK RECEIVED VTR  (BALS=445  TOT=445)
+11-02  07:30 pm  PEB votes retrieved for P0117629
+11-02  07:30 pm  SPP file record created for P0117629
+
+11-02  07:29 pm  SPP file record created for P0143397
+11-02  07:33 pm  0179-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0179 PACK RECEIVED VTR  (BALS=629  TOT=629)
+11-02  07:30 pm  PEB votes retrieved for P0154796
+11-02  07:30 pm  SPP file record created for P0154796
+11-02  07:33 pm                                                   PRC 0211 PACK RECEIVED VTR  (BALS=445  TOT=445)
+11-02  07:30 pm  PEB votes retrieved for P0117629
+11-02  07:30 pm  SPP file record created for P0117629
+11-02  07:33 pm  0158-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0158 PACK RECEIVED VTR  (BALS=1411  TOT=1411)
+11-02  07:30 pm  PEB votes retrieved for P0150731
+
+11-02  07:30 pm  SPP file record created for P0154796
+11-02  07:33 pm                                                   PRC 0211 PACK RECEIVED VTR  (BALS=445  TOT=445)
+11-02  07:30 pm  PEB votes retrieved for P0117629
+11-02  07:30 pm  SPP file record created for P0117629
+11-02  07:33 pm  0158-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0158 PACK RECEIVED VTR  (BALS=1411  TOT=1411)
+11-02  07:30 pm  PEB votes retrieved for P0150731
+11-02  07:30 pm  SPP file record created for P0150731
+11-02  07:33 pm                                                   PRC 0181 PACK RECEIVED VTR  (BALS=622  TOT=622)
+11-02  07:30 pm  PEB votes retrieved for P0141725
+11-02  07:30 pm  SPP file record created for P0141725
+
+11-02  07:30 pm  SPP file record created for P0117629
+11-02  07:33 pm  0158-Time stamp mismatch (Reply was: Update)
+11-02  07:33 pm                                                   PRC 0158 PACK RECEIVED VTR  (BALS=1411  TOT=1411)
+11-02  07:30 pm  PEB votes retrieved for P0150731
+11-02  07:30 pm  SPP file record created for P0150731
+11-02  07:33 pm                                                   PRC 0181 PACK RECEIVED VTR  (BALS=622  TOT=622)
+11-02  07:30 pm  PEB votes retrieved for P0141725
+11-02  07:30 pm  SPP file record created for P0141725
+11-02  07:34 pm  0159-Time stamp mismatch (Reply was: Update)
+11-02  07:34 pm                                                   PRC 0159 PACK RECEIVED VTR  (BALS=477  TOT=477)
+11-02  07:34 pm                                                   PRC 0209 PACK RECEIVED VTR  (BALS=152  TOT=152)
+
+11-02  07:33 pm                                                   PRC 0181 PACK RECEIVED VTR  (BALS=622  TOT=622)
+11-02  07:30 pm  PEB votes retrieved for P0141725
+11-02  07:30 pm  SPP file record created for P0141725
+11-02  07:34 pm  0159-Time stamp mismatch (Reply was: Update)
+11-02  07:34 pm                                                   PRC 0159 PACK RECEIVED VTR  (BALS=477  TOT=477)
+11-02  07:34 pm                                                   PRC 0209 PACK RECEIVED VTR  (BALS=152  TOT=152)
+11-02  07:31 pm  PEB votes retrieved for P0144700
+11-02  07:31 pm  SPP file record created for P0144700
+11-02  07:31 pm  PEB votes retrieved for P0137874
+11-02  07:31 pm  SPP file record created for P0137874
+11-02  07:35 pm  0107-Time stamp mismatch (Reply was: Update)
+
+11-02  07:31 pm  PEB votes retrieved for P0144700
+11-02  07:31 pm  SPP file record created for P0144700
+11-02  07:31 pm  PEB votes retrieved for P0137874
+11-02  07:31 pm  SPP file record created for P0137874
+11-02  07:35 pm  0107-Time stamp mismatch (Reply was: Update)
+11-02  07:35 pm                                                   PRC 0107 PACK RECEIVED VTR  (BALS=435  TOT=435)
+11-02  07:32 pm  PEB votes retrieved for P0124003
+11-02  07:32 pm  SPP file record created for P0124003
+11-02  07:35 pm                                                   PRC 0206 PACK RECEIVED VTR  (BALS=699  TOT=699)
+11-02  07:33 pm  PEB votes retrieved for P0155024
+11-02  07:33 pm  SPP file record created for P0155024
+
+11-02  07:31 pm  SPP file record created for P0137874
+11-02  07:35 pm  0107-Time stamp mismatch (Reply was: Update)
+11-02  07:35 pm                                                   PRC 0107 PACK RECEIVED VTR  (BALS=435  TOT=435)
+11-02  07:32 pm  PEB votes retrieved for P0124003
+11-02  07:32 pm  SPP file record created for P0124003
+11-02  07:35 pm                                                   PRC 0206 PACK RECEIVED VTR  (BALS=699  TOT=699)
+11-02  07:33 pm  PEB votes retrieved for P0155024
+11-02  07:33 pm  SPP file record created for P0155024
+11-02  07:36 pm  0163-Time stamp mismatch (Reply was: Update)
+11-02  07:36 pm                                                   PRC 0163 PACK RECEIVED VTR  (BALS=180  TOT=180)
+11-02  07:33 pm  PEB votes retrieved for P0153764
+
+11-02  07:32 pm  SPP file record created for P0124003
+11-02  07:35 pm                                                   PRC 0206 PACK RECEIVED VTR  (BALS=699  TOT=699)
+11-02  07:33 pm  PEB votes retrieved for P0155024
+11-02  07:33 pm  SPP file record created for P0155024
+11-02  07:36 pm  0163-Time stamp mismatch (Reply was: Update)
+11-02  07:36 pm                                                   PRC 0163 PACK RECEIVED VTR  (BALS=180  TOT=180)
+11-02  07:33 pm  PEB votes retrieved for P0153764
+11-02  07:33 pm  SPP file record created for P0153764
+11-02  07:36 pm  0116-Time stamp mismatch (Reply was: Update)
+11-02  07:36 pm                                                   PRC 0116 PACK RECEIVED VTR  (BALS=388  TOT=388)
+11-02  07:33 pm  PEB votes retrieved for P0153762
+
+11-02  07:36 pm  0163-Time stamp mismatch (Reply was: Update)
+11-02  07:36 pm                                                   PRC 0163 PACK RECEIVED VTR  (BALS=180  TOT=180)
+11-02  07:33 pm  PEB votes retrieved for P0153764
+11-02  07:33 pm  SPP file record created for P0153764
+11-02  07:36 pm  0116-Time stamp mismatch (Reply was: Update)
+11-02  07:36 pm                                                   PRC 0116 PACK RECEIVED VTR  (BALS=388  TOT=388)
+11-02  07:33 pm  PEB votes retrieved for P0153762
+11-02  07:33 pm  SPP file record created for P0153762
+11-02  07:37 pm  0156-Time stamp mismatch (Reply was: Update)
+11-02  07:37 pm                                                   PRC 0156 PACK RECEIVED VTR  (BALS=130  TOT=130)
+11-02  07:33 pm  PEB votes retrieved for P0145881
+
+11-02  07:36 pm  0116-Time stamp mismatch (Reply was: Update)
+11-02  07:36 pm                                                   PRC 0116 PACK RECEIVED VTR  (BALS=388  TOT=388)
+11-02  07:33 pm  PEB votes retrieved for P0153762
+11-02  07:33 pm  SPP file record created for P0153762
+11-02  07:37 pm  0156-Time stamp mismatch (Reply was: Update)
+11-02  07:37 pm                                                   PRC 0156 PACK RECEIVED VTR  (BALS=130  TOT=130)
+11-02  07:33 pm  PEB votes retrieved for P0145881
+11-02  07:33 pm  SPP file record created for P0145881
+11-02  07:37 pm  0144-Time stamp mismatch (Reply was: Update)
+11-02  07:37 pm                                                   PRC 0144 PACK RECEIVED VTR  (BALS=83  TOT=83)
+11-02  07:34 pm  PEB votes retrieved for P0100135
+
+11-02  07:37 pm  0156-Time stamp mismatch (Reply was: Update)
+11-02  07:37 pm                                                   PRC 0156 PACK RECEIVED VTR  (BALS=130  TOT=130)
+11-02  07:33 pm  PEB votes retrieved for P0145881
+11-02  07:33 pm  SPP file record created for P0145881
+11-02  07:37 pm  0144-Time stamp mismatch (Reply was: Update)
+11-02  07:37 pm                                                   PRC 0144 PACK RECEIVED VTR  (BALS=83  TOT=83)
+11-02  07:34 pm  PEB votes retrieved for P0100135
+11-02  07:34 pm  SPP file record created for P0100135
+11-02  07:37 pm  0137-Time stamp mismatch (Reply was: Update)
+11-02  07:37 pm                                                   PRC 0137 PACK RECEIVED VTR  (BALS=79  TOT=79)
+11-02  07:43 pm  PEB votes retrieved for P0140444
+
+11-02  07:37 pm  0137-Time stamp mismatch (Reply was: Update)
+11-02  07:37 pm                                                   PRC 0137 PACK RECEIVED VTR  (BALS=79  TOT=79)
+11-02  07:43 pm  PEB votes retrieved for P0140444
+11-02  07:43 pm  SPP file record created for P0140444
+11-02  07:46 pm  0122-Time stamp mismatch (Reply was: Update)
+11-02  07:46 pm                                                   PRC 0122 PACK RECEIVED VTR  (BALS=328  TOT=328)
+11-02  07:43 pm  PEB votes retrieved for P0155614
+11-02  07:43 pm  SPP file record created for P0155614
+11-02  07:46 pm                                                   PRC 0188 PACK RECEIVED VTR  (BALS=376  TOT=376)
+11-02  07:43 pm  PEB votes retrieved for P0119324
+11-02  07:43 pm  SPP file record created for P0119324
+
+11-02  07:43 pm  SPP file record created for P0140444
+11-02  07:46 pm  0122-Time stamp mismatch (Reply was: Update)
+11-02  07:46 pm                                                   PRC 0122 PACK RECEIVED VTR  (BALS=328  TOT=328)
+11-02  07:43 pm  PEB votes retrieved for P0155614
+11-02  07:43 pm  SPP file record created for P0155614
+11-02  07:46 pm                                                   PRC 0188 PACK RECEIVED VTR  (BALS=376  TOT=376)
+11-02  07:43 pm  PEB votes retrieved for P0119324
+11-02  07:43 pm  SPP file record created for P0119324
+11-02  07:47 pm  0109-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0109 PACK RECEIVED VTR  (BALS=1034  TOT=1034)
+11-02  07:44 pm  PEB votes retrieved for P0112600
+
+11-02  07:43 pm  SPP file record created for P0155614
+11-02  07:46 pm                                                   PRC 0188 PACK RECEIVED VTR  (BALS=376  TOT=376)
+11-02  07:43 pm  PEB votes retrieved for P0119324
+11-02  07:43 pm  SPP file record created for P0119324
+11-02  07:47 pm  0109-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0109 PACK RECEIVED VTR  (BALS=1034  TOT=1034)
+11-02  07:44 pm  PEB votes retrieved for P0112600
+11-02  07:44 pm  SPP file record created for P0112600
+11-02  07:47 pm  0103-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0103 PACK RECEIVED VTR  (BALS=64  TOT=64)
+11-02  07:44 pm  PEB votes retrieved for P0117971
+
+11-02  07:47 pm  0109-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0109 PACK RECEIVED VTR  (BALS=1034  TOT=1034)
+11-02  07:44 pm  PEB votes retrieved for P0112600
+11-02  07:44 pm  SPP file record created for P0112600
+11-02  07:47 pm  0103-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0103 PACK RECEIVED VTR  (BALS=64  TOT=64)
+11-02  07:44 pm  PEB votes retrieved for P0117971
+11-02  07:44 pm  SPP file record created for P0117971
+11-02  07:47 pm  0121-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0121 PACK RECEIVED VTR  (BALS=1068  TOT=1068)
+11-02  07:44 pm  PEB votes retrieved for P0135177
+
+11-02  07:47 pm  0103-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0103 PACK RECEIVED VTR  (BALS=64  TOT=64)
+11-02  07:44 pm  PEB votes retrieved for P0117971
+11-02  07:44 pm  SPP file record created for P0117971
+11-02  07:47 pm  0121-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0121 PACK RECEIVED VTR  (BALS=1068  TOT=1068)
+11-02  07:44 pm  PEB votes retrieved for P0135177
+11-02  07:44 pm  SPP file record created for P0135177
+11-02  07:48 pm  0112-Time stamp mismatch (Reply was: Update)
+11-02  07:48 pm                                                   PRC 0112 PACK RECEIVED VTR  (BALS=288  TOT=288)
+11-02  07:44 pm  PEB votes retrieved for P0154966
+
+11-02  07:47 pm  0121-Time stamp mismatch (Reply was: Update)
+11-02  07:47 pm                                                   PRC 0121 PACK RECEIVED VTR  (BALS=1068  TOT=1068)
+11-02  07:44 pm  PEB votes retrieved for P0135177
+11-02  07:44 pm  SPP file record created for P0135177
+11-02  07:48 pm  0112-Time stamp mismatch (Reply was: Update)
+11-02  07:48 pm                                                   PRC 0112 PACK RECEIVED VTR  (BALS=288  TOT=288)
+11-02  07:44 pm  PEB votes retrieved for P0154966
+11-02  07:44 pm  SPP file record created for P0154966
+11-02  07:48 pm                                                   PRC 0207 PACK RECEIVED VTR  (BALS=829  TOT=829)
+11-02  07:45 pm  PEB votes retrieved for P0145296
+11-02  07:45 pm  SPP file record created for P0145296
+
+11-02  07:44 pm  SPP file record created for P0135177
+11-02  07:48 pm  0112-Time stamp mismatch (Reply was: Update)
+11-02  07:48 pm                                                   PRC 0112 PACK RECEIVED VTR  (BALS=288  TOT=288)
+11-02  07:44 pm  PEB votes retrieved for P0154966
+11-02  07:44 pm  SPP file record created for P0154966
+11-02  07:48 pm                                                   PRC 0207 PACK RECEIVED VTR  (BALS=829  TOT=829)
+11-02  07:45 pm  PEB votes retrieved for P0145296
+11-02  07:45 pm  SPP file record created for P0145296
+11-02  07:48 pm                                                   PRC 0195 PACK RECEIVED VTR  (BALS=501  TOT=501)
+11-02  07:45 pm  PEB votes retrieved for P0154989
+11-02  07:45 pm  SPP file record created for P0154989
+
+11-02  07:44 pm  PEB votes retrieved for P0154966
+11-02  07:44 pm  SPP file record created for P0154966
+11-02  07:48 pm                                                   PRC 0207 PACK RECEIVED VTR  (BALS=829  TOT=829)
+11-02  07:45 pm  PEB votes retrieved for P0145296
+11-02  07:45 pm  SPP file record created for P0145296
+11-02  07:48 pm                                                   PRC 0195 PACK RECEIVED VTR  (BALS=501  TOT=501)
+11-02  07:45 pm  PEB votes retrieved for P0154989
+11-02  07:45 pm  SPP file record created for P0154989
+11-02  07:48 pm                                                   PRC 0189 PACK RECEIVED VTR  (BALS=317  TOT=317)
+11-02  07:45 pm  PEB votes retrieved for P0152300
+11-02  07:45 pm  SPP file record created for P0152300
+
+11-02  07:45 pm  PEB votes retrieved for P0145296
+11-02  07:45 pm  SPP file record created for P0145296
+11-02  07:48 pm                                                   PRC 0195 PACK RECEIVED VTR  (BALS=501  TOT=501)
+11-02  07:45 pm  PEB votes retrieved for P0154989
+11-02  07:45 pm  SPP file record created for P0154989
+11-02  07:48 pm                                                   PRC 0189 PACK RECEIVED VTR  (BALS=317  TOT=317)
+11-02  07:45 pm  PEB votes retrieved for P0152300
+11-02  07:45 pm  SPP file record created for P0152300
+11-02  07:48 pm                                                   PRC 0199 PACK RECEIVED VTR  (BALS=1025  TOT=1025)
+11-02  07:45 pm  PEB votes retrieved for P0100455
+11-02  07:45 pm  SPP file record created for P0100455
+
+11-02  07:45 pm  PEB votes retrieved for P0154989
+11-02  07:45 pm  SPP file record created for P0154989
+11-02  07:48 pm                                                   PRC 0189 PACK RECEIVED VTR  (BALS=317  TOT=317)
+11-02  07:45 pm  PEB votes retrieved for P0152300
+11-02  07:45 pm  SPP file record created for P0152300
+11-02  07:48 pm                                                   PRC 0199 PACK RECEIVED VTR  (BALS=1025  TOT=1025)
+11-02  07:45 pm  PEB votes retrieved for P0100455
+11-02  07:45 pm  SPP file record created for P0100455
+11-02  07:49 pm  0173-Time stamp mismatch (Reply was: Update)
+11-02  07:49 pm                                                   PRC 0173 PACK RECEIVED VTR  (BALS=669  TOT=669)
+11-02  07:46 pm  PEB votes retrieved for P0150433
+
+11-02  07:45 pm  SPP file record created for P0152300
+11-02  07:48 pm                                                   PRC 0199 PACK RECEIVED VTR  (BALS=1025  TOT=1025)
+11-02  07:45 pm  PEB votes retrieved for P0100455
+11-02  07:45 pm  SPP file record created for P0100455
+11-02  07:49 pm  0173-Time stamp mismatch (Reply was: Update)
+11-02  07:49 pm                                                   PRC 0173 PACK RECEIVED VTR  (BALS=669  TOT=669)
+11-02  07:46 pm  PEB votes retrieved for P0150433
+11-02  07:46 pm  SPP file record created for P0150433
+11-02  07:49 pm                                                   PRC 0182 PACK RECEIVED VTR  (BALS=610  TOT=610)
+11-02  07:46 pm  PEB votes retrieved for P0154580
+11-02  07:46 pm  SPP file record created for P0154580
+
+11-02  07:45 pm  SPP file record created for P0100455
+11-02  07:49 pm  0173-Time stamp mismatch (Reply was: Update)
+11-02  07:49 pm                                                   PRC 0173 PACK RECEIVED VTR  (BALS=669  TOT=669)
+11-02  07:46 pm  PEB votes retrieved for P0150433
+11-02  07:46 pm  SPP file record created for P0150433
+11-02  07:49 pm                                                   PRC 0182 PACK RECEIVED VTR  (BALS=610  TOT=610)
+11-02  07:46 pm  PEB votes retrieved for P0154580
+11-02  07:46 pm  SPP file record created for P0154580
+11-02  07:49 pm                                                   PRC 0201 PACK RECEIVED VTR  (BALS=855  TOT=855)
+11-02  07:46 pm  PEB votes retrieved for P0141218
+11-02  07:46 pm  SPP file record created for P0141218
+
+11-02  07:46 pm  PEB votes retrieved for P0150433
+11-02  07:46 pm  SPP file record created for P0150433
+11-02  07:49 pm                                                   PRC 0182 PACK RECEIVED VTR  (BALS=610  TOT=610)
+11-02  07:46 pm  PEB votes retrieved for P0154580
+11-02  07:46 pm  SPP file record created for P0154580
+11-02  07:49 pm                                                   PRC 0201 PACK RECEIVED VTR  (BALS=855  TOT=855)
+11-02  07:46 pm  PEB votes retrieved for P0141218
+11-02  07:46 pm  SPP file record created for P0141218
+11-02  07:49 pm  0172-Time stamp mismatch (Reply was: Update)
+11-02  07:50 pm                                                   PRC 0172 PACK RECEIVED VTR  (BALS=751  TOT=751)
+11-02  07:46 pm  PEB votes retrieved for P0145355
+
+11-02  07:46 pm  SPP file record created for P0154580
+11-02  07:49 pm                                                   PRC 0201 PACK RECEIVED VTR  (BALS=855  TOT=855)
+11-02  07:46 pm  PEB votes retrieved for P0141218
+11-02  07:46 pm  SPP file record created for P0141218
+11-02  07:49 pm  0172-Time stamp mismatch (Reply was: Update)
+11-02  07:50 pm                                                   PRC 0172 PACK RECEIVED VTR  (BALS=751  TOT=751)
+11-02  07:46 pm  PEB votes retrieved for P0145355
+11-02  07:46 pm  SPP file record created for P0145355
+11-02  07:50 pm                                                   PRC 0217 PACK RECEIVED VTR  (BALS=377  TOT=377)
+11-02  07:47 pm  PEB votes retrieved for P0154090
+11-02  07:47 pm  SPP file record created for P0154090
+
+11-02  07:46 pm  SPP file record created for P0141218
+11-02  07:49 pm  0172-Time stamp mismatch (Reply was: Update)
+11-02  07:50 pm                                                   PRC 0172 PACK RECEIVED VTR  (BALS=751  TOT=751)
+11-02  07:46 pm  PEB votes retrieved for P0145355
+11-02  07:46 pm  SPP file record created for P0145355
+11-02  07:50 pm                                                   PRC 0217 PACK RECEIVED VTR  (BALS=377  TOT=377)
+11-02  07:47 pm  PEB votes retrieved for P0154090
+11-02  07:47 pm  SPP file record created for P0154090
+11-02  07:50 pm                                                   PRC 0194 PACK RECEIVED VTR  (BALS=637  TOT=637)
+11-02  07:47 pm  PEB votes retrieved for P0115488
+11-02  07:47 pm  SPP file record created for P0115488
+
+11-02  07:46 pm  PEB votes retrieved for P0145355
+11-02  07:46 pm  SPP file record created for P0145355
+11-02  07:50 pm                                                   PRC 0217 PACK RECEIVED VTR  (BALS=377  TOT=377)
+11-02  07:47 pm  PEB votes retrieved for P0154090
+11-02  07:47 pm  SPP file record created for P0154090
+11-02  07:50 pm                                                   PRC 0194 PACK RECEIVED VTR  (BALS=637  TOT=637)
+11-02  07:47 pm  PEB votes retrieved for P0115488
+11-02  07:47 pm  SPP file record created for P0115488
+11-02  07:50 pm  0153-Time stamp mismatch (Reply was: Update)
+11-02  07:50 pm                                                   PRC 0153 PACK RECEIVED VTR  (BALS=382  TOT=382)
+11-02  07:47 pm  PEB votes retrieved for P0145463
+
+11-02  07:47 pm  SPP file record created for P0154090
+11-02  07:50 pm                                                   PRC 0194 PACK RECEIVED VTR  (BALS=637  TOT=637)
+11-02  07:47 pm  PEB votes retrieved for P0115488
+11-02  07:47 pm  SPP file record created for P0115488
+11-02  07:50 pm  0153-Time stamp mismatch (Reply was: Update)
+11-02  07:50 pm                                                   PRC 0153 PACK RECEIVED VTR  (BALS=382  TOT=382)
+11-02  07:47 pm  PEB votes retrieved for P0145463
+11-02  07:47 pm  SPP file record created for P0145463
+11-02  07:51 pm                                                   PRC 0197 PACK RECEIVED VTR  (BALS=1041  TOT=1041)
+11-02  07:48 pm  PEB votes retrieved for P0141006
+11-02  07:48 pm  SPP file record created for P0141006
+
+11-02  07:47 pm  SPP file record created for P0115488
+11-02  07:50 pm  0153-Time stamp mismatch (Reply was: Update)
+11-02  07:50 pm                                                   PRC 0153 PACK RECEIVED VTR  (BALS=382  TOT=382)
+11-02  07:47 pm  PEB votes retrieved for P0145463
+11-02  07:47 pm  SPP file record created for P0145463
+11-02  07:51 pm                                                   PRC 0197 PACK RECEIVED VTR  (BALS=1041  TOT=1041)
+11-02  07:48 pm  PEB votes retrieved for P0141006
+11-02  07:48 pm  SPP file record created for P0141006
+11-02  07:51 pm  0114-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0114 PACK RECEIVED VTR  (BALS=762  TOT=762)
+11-02  07:48 pm  PEB votes retrieved for P0145280
+
+11-02  07:47 pm  SPP file record created for P0145463
+11-02  07:51 pm                                                   PRC 0197 PACK RECEIVED VTR  (BALS=1041  TOT=1041)
+11-02  07:48 pm  PEB votes retrieved for P0141006
+11-02  07:48 pm  SPP file record created for P0141006
+11-02  07:51 pm  0114-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0114 PACK RECEIVED VTR  (BALS=762  TOT=762)
+11-02  07:48 pm  PEB votes retrieved for P0145280
+11-02  07:48 pm  SPP file record created for P0145280
+11-02  07:51 pm  0154-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0154 PACK RECEIVED VTR  (BALS=573  TOT=573)
+11-02  07:48 pm  PEB votes retrieved for P0155732
+
+11-02  07:51 pm  0114-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0114 PACK RECEIVED VTR  (BALS=762  TOT=762)
+11-02  07:48 pm  PEB votes retrieved for P0145280
+11-02  07:48 pm  SPP file record created for P0145280
+11-02  07:51 pm  0154-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0154 PACK RECEIVED VTR  (BALS=573  TOT=573)
+11-02  07:48 pm  PEB votes retrieved for P0155732
+11-02  07:48 pm  SPP file record created for P0155732
+11-02  07:51 pm  0162-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0162 PACK RECEIVED VTR  (BALS=902  TOT=902)
+11-02  07:48 pm  PEB votes retrieved for P0145569
+
+11-02  07:51 pm  0154-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0154 PACK RECEIVED VTR  (BALS=573  TOT=573)
+11-02  07:48 pm  PEB votes retrieved for P0155732
+11-02  07:48 pm  SPP file record created for P0155732
+11-02  07:51 pm  0162-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0162 PACK RECEIVED VTR  (BALS=902  TOT=902)
+11-02  07:48 pm  PEB votes retrieved for P0145569
+11-02  07:48 pm  SPP file record created for P0145569
+11-02  07:51 pm                                                   PRC 0218 PACK RECEIVED VTR  (BALS=564  TOT=564)
+11-02  07:49 pm  PEB votes retrieved for P0145516
+11-02  07:49 pm  SPP file record created for P0145516
+
+11-02  07:48 pm  SPP file record created for P0155732
+11-02  07:51 pm  0162-Time stamp mismatch (Reply was: Update)
+11-02  07:51 pm                                                   PRC 0162 PACK RECEIVED VTR  (BALS=902  TOT=902)
+11-02  07:48 pm  PEB votes retrieved for P0145569
+11-02  07:48 pm  SPP file record created for P0145569
+11-02  07:51 pm                                                   PRC 0218 PACK RECEIVED VTR  (BALS=564  TOT=564)
+11-02  07:49 pm  PEB votes retrieved for P0145516
+11-02  07:49 pm  SPP file record created for P0145516
+11-02  07:52 pm                                                   PRC 0202 PACK RECEIVED VTR  (BALS=1029  TOT=1029)
+11-02  07:49 pm  PEB votes retrieved for P0116621
+11-02  07:49 pm  SPP file record created for P0116621
+
+11-02  07:48 pm  PEB votes retrieved for P0145569
+11-02  07:48 pm  SPP file record created for P0145569
+11-02  07:51 pm                                                   PRC 0218 PACK RECEIVED VTR  (BALS=564  TOT=564)
+11-02  07:49 pm  PEB votes retrieved for P0145516
+11-02  07:49 pm  SPP file record created for P0145516
+11-02  07:52 pm                                                   PRC 0202 PACK RECEIVED VTR  (BALS=1029  TOT=1029)
+11-02  07:49 pm  PEB votes retrieved for P0116621
+11-02  07:49 pm  SPP file record created for P0116621
+11-02  07:52 pm  0168-Time stamp mismatch (Reply was: Update)
+11-02  07:52 pm                                                   PRC 0168 PACK RECEIVED VTR  (BALS=161  TOT=161)
+11-02  07:52 pm                                                   PRC 0204 PACK RECEIVED VTR  (BALS=798  TOT=798)
+
+11-02  07:52 pm                                                   PRC 0202 PACK RECEIVED VTR  (BALS=1029  TOT=1029)
+11-02  07:49 pm  PEB votes retrieved for P0116621
+11-02  07:49 pm  SPP file record created for P0116621
+11-02  07:52 pm  0168-Time stamp mismatch (Reply was: Update)
+11-02  07:52 pm                                                   PRC 0168 PACK RECEIVED VTR  (BALS=161  TOT=161)
+11-02  07:52 pm                                                   PRC 0204 PACK RECEIVED VTR  (BALS=798  TOT=798)
+11-02  07:49 pm  PEB votes retrieved for P0229438
+11-02  07:49 pm  SPP file record created for P0229438
+11-02  07:59 pm  PEB votes retrieved for P0147727
+11-02  07:59 pm  SPP file record created for P0147727
+11-02  08:02 pm  0135-Time stamp mismatch (Reply was: Update)
+
+11-02  07:49 pm  PEB votes retrieved for P0229438
+11-02  07:49 pm  SPP file record created for P0229438
+11-02  07:59 pm  PEB votes retrieved for P0147727
+11-02  07:59 pm  SPP file record created for P0147727
+11-02  08:02 pm  0135-Time stamp mismatch (Reply was: Update)
+11-02  08:02 pm                                                   PRC 0135 PACK RECEIVED VTR  (BALS=859  TOT=859)
+11-02  07:59 pm  PEB votes retrieved for P0145262
+11-02  07:59 pm  SPP file record created for P0145262
+11-02  08:03 pm                                                   PRC 0205 PACK RECEIVED VTR  (BALS=433  TOT=433)
+11-02  08:00 pm  PEB votes retrieved for P0100325
+11-02  08:00 pm  SPP file record created for P0100325
+
+11-02  07:59 pm  SPP file record created for P0147727
+11-02  08:02 pm  0135-Time stamp mismatch (Reply was: Update)
+11-02  08:02 pm                                                   PRC 0135 PACK RECEIVED VTR  (BALS=859  TOT=859)
+11-02  07:59 pm  PEB votes retrieved for P0145262
+11-02  07:59 pm  SPP file record created for P0145262
+11-02  08:03 pm                                                   PRC 0205 PACK RECEIVED VTR  (BALS=433  TOT=433)
+11-02  08:00 pm  PEB votes retrieved for P0100325
+11-02  08:00 pm  SPP file record created for P0100325
+11-02  08:03 pm  0119-Time stamp mismatch (Reply was: Update)
+11-02  08:03 pm                                                   PRC 0119 PACK RECEIVED VTR  (BALS=555  TOT=555)
+11-02  08:00 pm  PEB votes retrieved for P0149386
+
+11-02  07:59 pm  SPP file record created for P0145262
+11-02  08:03 pm                                                   PRC 0205 PACK RECEIVED VTR  (BALS=433  TOT=433)
+11-02  08:00 pm  PEB votes retrieved for P0100325
+11-02  08:00 pm  SPP file record created for P0100325
+11-02  08:03 pm  0119-Time stamp mismatch (Reply was: Update)
+11-02  08:03 pm                                                   PRC 0119 PACK RECEIVED VTR  (BALS=555  TOT=555)
+11-02  08:00 pm  PEB votes retrieved for P0149386
+11-02  08:00 pm  SPP file record created for P0149386
+11-02  08:03 pm  0175-Time stamp mismatch (Reply was: Update)
+11-02  08:03 pm                                                   PRC 0175 PACK RECEIVED VTR  (BALS=627  TOT=627)
+11-02  08:00 pm  PEB votes retrieved for P0154159
+
+11-02  08:03 pm  0119-Time stamp mismatch (Reply was: Update)
+11-02  08:03 pm                                                   PRC 0119 PACK RECEIVED VTR  (BALS=555  TOT=555)
+11-02  08:00 pm  PEB votes retrieved for P0149386
+11-02  08:00 pm  SPP file record created for P0149386
+11-02  08:03 pm  0175-Time stamp mismatch (Reply was: Update)
+11-02  08:03 pm                                                   PRC 0175 PACK RECEIVED VTR  (BALS=627  TOT=627)
+11-02  08:00 pm  PEB votes retrieved for P0154159
+11-02  08:00 pm  SPP file record created for P0154159
+11-02  08:04 pm  0165-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0165 PACK RECEIVED VTR  (BALS=1349  TOT=1349)
+11-02  08:00 pm  PEB votes retrieved for P0154480
+
+11-02  08:03 pm  0175-Time stamp mismatch (Reply was: Update)
+11-02  08:03 pm                                                   PRC 0175 PACK RECEIVED VTR  (BALS=627  TOT=627)
+11-02  08:00 pm  PEB votes retrieved for P0154159
+11-02  08:00 pm  SPP file record created for P0154159
+11-02  08:04 pm  0165-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0165 PACK RECEIVED VTR  (BALS=1349  TOT=1349)
+11-02  08:00 pm  PEB votes retrieved for P0154480
+11-02  08:00 pm  SPP file record created for P0154480
+11-02  08:04 pm                                                   PRC 0186 PACK RECEIVED VTR  (BALS=96  TOT=96)
+11-02  08:01 pm  PEB votes retrieved for P0140432
+11-02  08:01 pm  SPP file record created for P0140432
+
+11-02  08:00 pm  SPP file record created for P0154159
+11-02  08:04 pm  0165-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0165 PACK RECEIVED VTR  (BALS=1349  TOT=1349)
+11-02  08:00 pm  PEB votes retrieved for P0154480
+11-02  08:00 pm  SPP file record created for P0154480
+11-02  08:04 pm                                                   PRC 0186 PACK RECEIVED VTR  (BALS=96  TOT=96)
+11-02  08:01 pm  PEB votes retrieved for P0140432
+11-02  08:01 pm  SPP file record created for P0140432
+11-02  08:04 pm                                                   PRC 0196 PACK RECEIVED VTR  (BALS=486  TOT=486)
+11-02  08:01 pm  PEB votes retrieved for P0101272
+11-02  08:01 pm  SPP file record created for P0101272
+
+11-02  08:00 pm  PEB votes retrieved for P0154480
+11-02  08:00 pm  SPP file record created for P0154480
+11-02  08:04 pm                                                   PRC 0186 PACK RECEIVED VTR  (BALS=96  TOT=96)
+11-02  08:01 pm  PEB votes retrieved for P0140432
+11-02  08:01 pm  SPP file record created for P0140432
+11-02  08:04 pm                                                   PRC 0196 PACK RECEIVED VTR  (BALS=486  TOT=486)
+11-02  08:01 pm  PEB votes retrieved for P0101272
+11-02  08:01 pm  SPP file record created for P0101272
+11-02  08:04 pm  0152-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0152 PACK RECEIVED VTR  (BALS=215  TOT=215)
+11-02  08:01 pm  PEB votes retrieved for P0142837
+
+11-02  08:01 pm  SPP file record created for P0140432
+11-02  08:04 pm                                                   PRC 0196 PACK RECEIVED VTR  (BALS=486  TOT=486)
+11-02  08:01 pm  PEB votes retrieved for P0101272
+11-02  08:01 pm  SPP file record created for P0101272
+11-02  08:04 pm  0152-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0152 PACK RECEIVED VTR  (BALS=215  TOT=215)
+11-02  08:01 pm  PEB votes retrieved for P0142837
+11-02  08:01 pm  SPP file record created for P0142837
+11-02  08:04 pm  0174-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0174 PACK RECEIVED VTR  (BALS=1311  TOT=1311)
+11-02  08:01 pm  PEB votes retrieved for P0145143
+
+11-02  08:04 pm  0152-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0152 PACK RECEIVED VTR  (BALS=215  TOT=215)
+11-02  08:01 pm  PEB votes retrieved for P0142837
+11-02  08:01 pm  SPP file record created for P0142837
+11-02  08:04 pm  0174-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0174 PACK RECEIVED VTR  (BALS=1311  TOT=1311)
+11-02  08:01 pm  PEB votes retrieved for P0145143
+11-02  08:01 pm  SPP file record created for P0145143
+11-02  08:05 pm                                                   PRC 0220 PACK RECEIVED VTR  (BALS=684  TOT=684)
+11-02  08:02 pm  PEB votes retrieved for P0112099
+11-02  08:02 pm  SPP file record created for P0112099
+
+11-02  08:01 pm  SPP file record created for P0142837
+11-02  08:04 pm  0174-Time stamp mismatch (Reply was: Update)
+11-02  08:04 pm                                                   PRC 0174 PACK RECEIVED VTR  (BALS=1311  TOT=1311)
+11-02  08:01 pm  PEB votes retrieved for P0145143
+11-02  08:01 pm  SPP file record created for P0145143
+11-02  08:05 pm                                                   PRC 0220 PACK RECEIVED VTR  (BALS=684  TOT=684)
+11-02  08:02 pm  PEB votes retrieved for P0112099
+11-02  08:02 pm  SPP file record created for P0112099
+11-02  08:05 pm  0143-Time stamp mismatch (Reply was: Update)
+11-02  08:05 pm                                                   PRC 0143 PACK RECEIVED VTR  (BALS=318  TOT=318)
+11-02  08:02 pm  PEB votes retrieved for P0151002
+
+11-02  08:01 pm  SPP file record created for P0145143
+11-02  08:05 pm                                                   PRC 0220 PACK RECEIVED VTR  (BALS=684  TOT=684)
+11-02  08:02 pm  PEB votes retrieved for P0112099
+11-02  08:02 pm  SPP file record created for P0112099
+11-02  08:05 pm  0143-Time stamp mismatch (Reply was: Update)
+11-02  08:05 pm                                                   PRC 0143 PACK RECEIVED VTR  (BALS=318  TOT=318)
+11-02  08:02 pm  PEB votes retrieved for P0151002
+11-02  08:02 pm  SPP file record created for P0151002
+11-02  08:06 pm  0128-Time stamp mismatch (Reply was: Update)
+11-02  08:06 pm                                                   PRC 0128 PACK RECEIVED VTR  (BALS=936  TOT=936)
+11-02  08:04 pm  PEB votes retrieved for P0113466
+
+11-02  08:05 pm  0143-Time stamp mismatch (Reply was: Update)
+11-02  08:05 pm                                                   PRC 0143 PACK RECEIVED VTR  (BALS=318  TOT=318)
+11-02  08:02 pm  PEB votes retrieved for P0151002
+11-02  08:02 pm  SPP file record created for P0151002
+11-02  08:06 pm  0128-Time stamp mismatch (Reply was: Update)
+11-02  08:06 pm                                                   PRC 0128 PACK RECEIVED VTR  (BALS=936  TOT=936)
+11-02  08:04 pm  PEB votes retrieved for P0113466
+11-02  08:04 pm  SPP file record created for P0113466
+11-02  08:07 pm                                                   PRC 0203 PACK RECEIVED VTR  (BALS=109  TOT=109)
+11-02  08:04 pm  PEB votes retrieved for P0137057
+11-02  08:04 pm  SPP file record created for P0137057
+
+11-02  08:02 pm  SPP file record created for P0151002
+11-02  08:06 pm  0128-Time stamp mismatch (Reply was: Update)
+11-02  08:06 pm                                                   PRC 0128 PACK RECEIVED VTR  (BALS=936  TOT=936)
+11-02  08:04 pm  PEB votes retrieved for P0113466
+11-02  08:04 pm  SPP file record created for P0113466
+11-02  08:07 pm                                                   PRC 0203 PACK RECEIVED VTR  (BALS=109  TOT=109)
+11-02  08:04 pm  PEB votes retrieved for P0137057
+11-02  08:04 pm  SPP file record created for P0137057
+11-02  08:08 pm  0129-Time stamp mismatch (Reply was: Update)
+11-02  08:08 pm                                                   PRC 0129 PACK RECEIVED VTR  (BALS=638  TOT=638)
+11-02  08:04 pm  PEB votes retrieved for P0100218
+
+11-02  08:04 pm  SPP file record created for P0113466
+11-02  08:07 pm                                                   PRC 0203 PACK RECEIVED VTR  (BALS=109  TOT=109)
+11-02  08:04 pm  PEB votes retrieved for P0137057
+11-02  08:04 pm  SPP file record created for P0137057
+11-02  08:08 pm  0129-Time stamp mismatch (Reply was: Update)
+11-02  08:08 pm                                                   PRC 0129 PACK RECEIVED VTR  (BALS=638  TOT=638)
+11-02  08:04 pm  PEB votes retrieved for P0100218
+11-02  08:04 pm  SPP file record created for P0100218
+11-02  08:08 pm  0132-Time stamp mismatch (Reply was: Update)
+11-02  08:08 pm                                                   PRC 0132 PACK RECEIVED VTR  (BALS=933  TOT=933)
+11-02  08:06 pm  PEB votes retrieved for P0229444
+
+11-02  08:08 pm  0129-Time stamp mismatch (Reply was: Update)
+11-02  08:08 pm                                                   PRC 0129 PACK RECEIVED VTR  (BALS=638  TOT=638)
+11-02  08:04 pm  PEB votes retrieved for P0100218
+11-02  08:04 pm  SPP file record created for P0100218
+11-02  08:08 pm  0132-Time stamp mismatch (Reply was: Update)
+11-02  08:08 pm                                                   PRC 0132 PACK RECEIVED VTR  (BALS=933  TOT=933)
+11-02  08:06 pm  PEB votes retrieved for P0229444
+11-02  08:06 pm  SPP file record created for P0229444
+11-02  08:10 pm  0160-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0160 PACK RECEIVED VTR  (BALS=680  TOT=680)
+11-02  08:06 pm  PEB votes retrieved for P0146571
+
+11-02  08:08 pm  0132-Time stamp mismatch (Reply was: Update)
+11-02  08:08 pm                                                   PRC 0132 PACK RECEIVED VTR  (BALS=933  TOT=933)
+11-02  08:06 pm  PEB votes retrieved for P0229444
+11-02  08:06 pm  SPP file record created for P0229444
+11-02  08:10 pm  0160-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0160 PACK RECEIVED VTR  (BALS=680  TOT=680)
+11-02  08:06 pm  PEB votes retrieved for P0146571
+11-02  08:06 pm  SPP file record created for P0146571
+11-02  08:10 pm  0178-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0178 PACK RECEIVED VTR  (BALS=72  TOT=72)
+11-02  08:07 pm  PEB votes retrieved for P0146451
+
+11-02  08:10 pm  0160-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0160 PACK RECEIVED VTR  (BALS=680  TOT=680)
+11-02  08:06 pm  PEB votes retrieved for P0146571
+11-02  08:06 pm  SPP file record created for P0146571
+11-02  08:10 pm  0178-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0178 PACK RECEIVED VTR  (BALS=72  TOT=72)
+11-02  08:07 pm  PEB votes retrieved for P0146451
+11-02  08:07 pm  SPP file record created for P0146451
+11-02  08:10 pm  0138-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0138 PACK RECEIVED VTR  (BALS=698  TOT=698)
+11-02  08:07 pm  PEB votes retrieved for P0147856
+
+11-02  08:10 pm  0178-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0178 PACK RECEIVED VTR  (BALS=72  TOT=72)
+11-02  08:07 pm  PEB votes retrieved for P0146451
+11-02  08:07 pm  SPP file record created for P0146451
+11-02  08:10 pm  0138-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0138 PACK RECEIVED VTR  (BALS=698  TOT=698)
+11-02  08:07 pm  PEB votes retrieved for P0147856
+11-02  08:07 pm  SPP file record created for P0147856
+11-02  08:12 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+11-02  08:09 pm  PEB votes retrieved for P0147856
+11-02  08:09 pm  SPP file record created for P0147856
+
+11-02  08:07 pm  SPP file record created for P0146451
+11-02  08:10 pm  0138-Time stamp mismatch (Reply was: Update)
+11-02  08:10 pm                                                   PRC 0138 PACK RECEIVED VTR  (BALS=698  TOT=698)
+11-02  08:07 pm  PEB votes retrieved for P0147856
+11-02  08:07 pm  SPP file record created for P0147856
+11-02  08:12 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+11-02  08:09 pm  PEB votes retrieved for P0147856
+11-02  08:09 pm  SPP file record created for P0147856
+11-02  08:13 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+11-02  08:10 pm  PEB votes retrieved for P0124085
+11-02  08:10 pm  SPP file record created for P0124085
+
+11-02  08:07 pm  PEB votes retrieved for P0147856
+11-02  08:07 pm  SPP file record created for P0147856
+11-02  08:12 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+11-02  08:09 pm  PEB votes retrieved for P0147856
+11-02  08:09 pm  SPP file record created for P0147856
+11-02  08:13 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+11-02  08:10 pm  PEB votes retrieved for P0124085
+11-02  08:10 pm  SPP file record created for P0124085
+11-02  08:13 pm  0113-Time stamp mismatch (Reply was: Update)
+11-02  08:13 pm                                                   PRC 0113 PACK RECEIVED VTR  (BALS=531  TOT=531)
+11-02  08:10 pm  PEB votes retrieved for P0229437
+
+11-02  08:09 pm  SPP file record created for P0147856
+11-02  08:13 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+11-02  08:10 pm  PEB votes retrieved for P0124085
+11-02  08:10 pm  SPP file record created for P0124085
+11-02  08:13 pm  0113-Time stamp mismatch (Reply was: Update)
+11-02  08:13 pm                                                   PRC 0113 PACK RECEIVED VTR  (BALS=531  TOT=531)
+11-02  08:10 pm  PEB votes retrieved for P0229437
+11-02  08:10 pm  SPP file record created for P0229437
+11-02  08:13 pm  0108-Time stamp mismatch (Reply was: Update)
+11-02  08:13 pm                                                   PRC 0108 PACK RECEIVED VTR  (BALS=1421  TOT=1421)
+11-02  08:10 pm  PEB votes retrieved for P0119617
+
+11-02  08:13 pm  0113-Time stamp mismatch (Reply was: Update)
+11-02  08:13 pm                                                   PRC 0113 PACK RECEIVED VTR  (BALS=531  TOT=531)
+11-02  08:10 pm  PEB votes retrieved for P0229437
+11-02  08:10 pm  SPP file record created for P0229437
+11-02  08:13 pm  0108-Time stamp mismatch (Reply was: Update)
+11-02  08:13 pm                                                   PRC 0108 PACK RECEIVED VTR  (BALS=1421  TOT=1421)
+11-02  08:10 pm  PEB votes retrieved for P0119617
+11-02  08:10 pm  SPP file record created for P0119617
+11-02  08:15 pm  0161-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0161 PACK RECEIVED VTR  (BALS=935  TOT=935)
+11-02  08:12 pm  PEB votes retrieved for P0117704
+
+11-02  08:13 pm  0108-Time stamp mismatch (Reply was: Update)
+11-02  08:13 pm                                                   PRC 0108 PACK RECEIVED VTR  (BALS=1421  TOT=1421)
+11-02  08:10 pm  PEB votes retrieved for P0119617
+11-02  08:10 pm  SPP file record created for P0119617
+11-02  08:15 pm  0161-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0161 PACK RECEIVED VTR  (BALS=935  TOT=935)
+11-02  08:12 pm  PEB votes retrieved for P0117704
+11-02  08:12 pm  SPP file record created for P0117704
+11-02  08:15 pm  0104-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0104 PACK RECEIVED VTR  (BALS=583  TOT=583)
+11-02  08:12 pm  PEB votes retrieved for P0149336
+
+11-02  08:15 pm  0161-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0161 PACK RECEIVED VTR  (BALS=935  TOT=935)
+11-02  08:12 pm  PEB votes retrieved for P0117704
+11-02  08:12 pm  SPP file record created for P0117704
+11-02  08:15 pm  0104-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0104 PACK RECEIVED VTR  (BALS=583  TOT=583)
+11-02  08:12 pm  PEB votes retrieved for P0149336
+11-02  08:12 pm  SPP file record created for P0149336
+11-02  08:15 pm  0180-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0180 PACK RECEIVED VTR  (BALS=1146  TOT=1146)
+11-02  08:12 pm  PEB votes retrieved for P0151323
+
+11-02  08:15 pm  0104-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0104 PACK RECEIVED VTR  (BALS=583  TOT=583)
+11-02  08:12 pm  PEB votes retrieved for P0149336
+11-02  08:12 pm  SPP file record created for P0149336
+11-02  08:15 pm  0180-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0180 PACK RECEIVED VTR  (BALS=1146  TOT=1146)
+11-02  08:12 pm  PEB votes retrieved for P0151323
+11-02  08:12 pm  SPP file record created for P0151323
+11-02  08:16 pm  0191-Terminal(s) not closed (Reply was: Update)
+11-02  08:16 pm                                                   PRC 0191 PACK RECEIVED VTR  (BALS=285  TOT=285)
+11-02  08:13 pm  PEB votes retrieved for P0153674
+
+11-02  08:15 pm  0180-Time stamp mismatch (Reply was: Update)
+11-02  08:15 pm                                                   PRC 0180 PACK RECEIVED VTR  (BALS=1146  TOT=1146)
+11-02  08:12 pm  PEB votes retrieved for P0151323
+11-02  08:12 pm  SPP file record created for P0151323
+11-02  08:16 pm  0191-Terminal(s) not closed (Reply was: Update)
+11-02  08:16 pm                                                   PRC 0191 PACK RECEIVED VTR  (BALS=285  TOT=285)
+11-02  08:13 pm  PEB votes retrieved for P0153674
+11-02  08:13 pm  SPP file record created for P0153674
+11-02  08:16 pm  0139-Time stamp mismatch (Reply was: Update)
+11-02  08:16 pm                                                   PRC 0139 PACK RECEIVED VTR  (BALS=567  TOT=567)
+11-02  08:18 pm  PEB votes retrieved for P0147856
+
+11-02  08:21 pm  0190-Terminal(s) not closed (Reply was: Update)
+11-02  08:21 pm                                                   PRC 0190 PACK RECEIVED VTR  (BALS=578  TOT=578)
+11-02  08:41 pm  PEB votes retrieved for P0104174
+11-02  08:41 pm  SPP file record created for P0104174
+11-02  08:44 pm  0142-Time stamp mismatch (Reply was: Update)
+11-02  08:44 pm                                                   PRC 0142 PACK RECEIVED VTR  (BALS=769  TOT=769)
+11-02  08:41 pm  PEB votes retrieved for P0133402
+11-02  08:41 pm  SPP file record created for P0133402
+11-02  08:44 pm                                                   PRC 0212 PACK RECEIVED VTR  (BALS=635  TOT=635)
+11-02  08:45 pm                                                   PRC 0187 PACK RECEIVED VTR  (BALS=303  TOT=303)
+11-02  08:41 pm  PEB votes retrieved for P0150414
+
+11-02  08:44 pm  0142-Time stamp mismatch (Reply was: Update)
+11-02  08:44 pm                                                   PRC 0142 PACK RECEIVED VTR  (BALS=769  TOT=769)
+11-02  08:41 pm  PEB votes retrieved for P0133402
+11-02  08:41 pm  SPP file record created for P0133402
+11-02  08:44 pm                                                   PRC 0212 PACK RECEIVED VTR  (BALS=635  TOT=635)
+11-02  08:45 pm                                                   PRC 0187 PACK RECEIVED VTR  (BALS=303  TOT=303)
+11-02  08:41 pm  PEB votes retrieved for P0150414
+11-02  08:41 pm  SPP file record created for P0150414
+11-02  08:42 pm  PEB votes retrieved for P0154352
+11-02  08:42 pm  SPP file record created for P0154352
+11-02  08:45 pm  0134-Time stamp mismatch (Reply was: Update)
+
+11-02  08:41 pm  PEB votes retrieved for P0150414
+11-02  08:41 pm  SPP file record created for P0150414
+11-02  08:42 pm  PEB votes retrieved for P0154352
+11-02  08:42 pm  SPP file record created for P0154352
+11-02  08:45 pm  0134-Time stamp mismatch (Reply was: Update)
+11-02  08:45 pm                                                   PRC 0134 PACK RECEIVED VTR  (BALS=184  TOT=184)
+11-02  08:42 pm  STOP PROCESS PEBS
+11-02  08:48 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+11-02  08:48 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+11-02  08:49 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+11-02  08:49 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+
+11-02  09:28 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-02  09:38 pm  START PROCESS PEBS
+11-02  09:38 pm  PEB votes retrieved for P0124010
+11-02  09:38 pm  SPP file record created for P0124010
+11-02  09:41 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  09:41 pm  0141-Precinct already updated (Pack suspended)
+11-02  09:39 pm  STOP PROCESS PEBS
+11-02  09:39 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-02  09:39 am  CANVASS - BLOCK STYLE WAS PRINTED TO EL119.LST
+11-02  09:44 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  09:44 pm  START PROCESS PEBS
+
+11-02  09:38 pm  PEB votes retrieved for P0124010
+11-02  09:38 pm  SPP file record created for P0124010
+11-02  09:41 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  09:41 pm  0141-Precinct already updated (Pack suspended)
+11-02  09:39 pm  STOP PROCESS PEBS
+11-02  09:39 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-02  09:39 am  CANVASS - BLOCK STYLE WAS PRINTED TO EL119.LST
+11-02  09:44 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  09:44 pm  START PROCESS PEBS
+11-02  09:45 pm  P??????? - The encrypted EQC block CRC check failed
+11-02  09:45 pm  SPP file create failed
+
+11-02  09:48 pm  START PROCESS PEBS
+11-02  09:48 pm  PEB votes retrieved for P0125270
+11-02  09:48 pm  SPP file record created for P0125270
+11-02  09:52 pm  0148-Terminal(s) not closed (Pack suspended)
+11-02  09:52 pm  0148-Time stamp mismatch (Reply was: Update)
+11-02  09:52 pm                                                   PRC 0148 PACK RECEIVED VTR  (BALS=375  TOT=375)
+11-02  09:49 pm  STOP PROCESS PEBS
+11-02  09:58 pm                                                   PRC 0750 MANUAL ENTRY
+11-02  10:17 pm  START PROCESS PEBS
+11-02  10:18 pm  PEB votes retrieved for P0142261
+11-02  10:18 pm  SPP file record created for P0142261
+
+11-02  09:58 pm                                                   PRC 0750 MANUAL ENTRY
+11-02  10:17 pm  START PROCESS PEBS
+11-02  10:18 pm  PEB votes retrieved for P0142261
+11-02  10:18 pm  SPP file record created for P0142261
+11-02  10:21 pm  0106-Time stamp mismatch (Reply was: Update)
+11-02  10:21 pm                                                   PRC 0106 PACK RECEIVED VTR  (BALS=282  TOT=282)
+11-02  10:18 pm  PEB votes retrieved for P0114207
+11-02  10:18 pm  SPP file record created for P0114207
+11-02  10:22 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  10:22 pm  0141-Precinct already updated (Pack suspended)
+11-02  10:19 pm  PEB votes retrieved for P0117873
+
+11-02  10:21 pm  0106-Time stamp mismatch (Reply was: Update)
+11-02  10:21 pm                                                   PRC 0106 PACK RECEIVED VTR  (BALS=282  TOT=282)
+11-02  10:18 pm  PEB votes retrieved for P0114207
+11-02  10:18 pm  SPP file record created for P0114207
+11-02  10:22 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  10:22 pm  0141-Precinct already updated (Pack suspended)
+11-02  10:19 pm  PEB votes retrieved for P0117873
+11-02  10:19 pm  SPP file record created for P0117873
+11-02  10:22 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  10:22 pm                                                   PRC 0141 ADDED TO FROM PACK VTR  (BALS=505  TOT=505)
+11-02  10:19 pm  STOP PROCESS PEBS
+
+11-02  10:22 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  10:22 pm  0141-Precinct already updated (Pack suspended)
+11-02  10:19 pm  PEB votes retrieved for P0117873
+11-02  10:19 pm  SPP file record created for P0117873
+11-02  10:22 pm  0141-Time stamp mismatch (Reply was: Update)
+11-02  10:22 pm                                                   PRC 0141 ADDED TO FROM PACK VTR  (BALS=505  TOT=505)
+11-02  10:19 pm  STOP PROCESS PEBS
+11-02  10:19 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-02  10:27 pm                                                   PRC 0800 MANUAL ENTRY
+11-02  10:27 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-02  10:30 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+
+11-02  10:30 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+11-02  10:31 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+11-02  11:00 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-02  11:00 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-02  11:03 pm  STOP PACK ACCUMULATION
+11-02  11:03 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-02  09:03 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-03  09:58 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+11-03  10:38 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+11-03  10:49 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+11-03  10:50 am  Audit Data collected for V5126144
+
+11-03  11:09 am                                                   PRC 0148 MANUAL ENTRY-WITHOUT OV/UN
+11-03  11:09 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-03  01:33 pm  START PROCESS PEBS
+11-03  01:37 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-03  01:37 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+11-03  01:37 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+11-03  01:34 pm  PEB votes retrieved for P0192641
+11-03  01:34 pm  SPP file record created for P0192641
+11-03  01:37 pm  0106-Time stamp mismatch (Reply was: Update)
+11-03  01:37 pm                                                   PRC 0106 ADDED TO FROM PACK VTR  (BALS=276  TOT=558)
+11-03  01:34 pm  PEB votes retrieved for P0143523
+
+11-03  01:37 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+11-03  01:37 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+11-03  01:34 pm  PEB votes retrieved for P0192641
+11-03  01:34 pm  SPP file record created for P0192641
+11-03  01:37 pm  0106-Time stamp mismatch (Reply was: Update)
+11-03  01:37 pm                                                   PRC 0106 ADDED TO FROM PACK VTR  (BALS=276  TOT=558)
+11-03  01:34 pm  PEB votes retrieved for P0143523
+11-03  01:34 pm  SPP file record created for P0143523
+11-03  01:38 pm  0106-Time stamp mismatch (Reply was: Update)
+11-03  01:38 pm                                                   PRC 0106 ADDED TO FROM PACK VTR  (BALS=528  TOT=1086)
+11-03  01:39 pm  STOP PACK ACCUMULATION
+
+11-03  01:37 pm                                                   PRC 0106 ADDED TO FROM PACK VTR  (BALS=276  TOT=558)
+11-03  01:34 pm  PEB votes retrieved for P0143523
+11-03  01:34 pm  SPP file record created for P0143523
+11-03  01:38 pm  0106-Time stamp mismatch (Reply was: Update)
+11-03  01:38 pm                                                   PRC 0106 ADDED TO FROM PACK VTR  (BALS=528  TOT=1086)
+11-03  01:39 pm  STOP PACK ACCUMULATION
+11-03  01:36 pm  STOP PROCESS PEBS
+11-03  01:37 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-03  01:38 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+11-03  02:27 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-03  02:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+
+11-08  11:34 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+11-08  12:52 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+12-03  10:34 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+12-03  10:34 am  EXITED ELECTION IN ELECTION REPORTING MANAGER
+12-28  12:19 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+12-28  12:20 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+12-28  11:18 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+12-30  11:18 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+12-30  11:19 am  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+12-30  11:23 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+03-08  12:40 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+
+12-28  12:19 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+12-28  12:20 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+12-28  11:18 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+12-30  11:18 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+12-30  11:19 am  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+12-30  11:23 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+03-08  12:40 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+
+SixEightA:  leave checkTimeStamps
+Driver:  fill out the data across files
+ELA:  enter fillOutData
+ELA:  enter process152events
+ELA:  leave process152events
+ELA:  enter countTheVotes
+ELA:  leave countTheVotes
+ELA:  enter countOpenClosePerPct
+ELA:  leave countOpenClosePerPct
+ELA:  leave fillOutData
+Driver:  output the pct totals by ivo
+Driver:  process the data using ELA
+ELA:  enter doAnalysis
+ELA:  enter statisticsAnomalies
+ELA:  enter statisticsAnomaliesTerminalShutdown
+ELA:  leave statisticsAnomaliesTerminalShutdown
+ELA:  enter statistics2400240007061635
+ELA:  leave statistics2400240007061635
+ELA:  leave statisticsAnomalies
+ELA:  leave doAnalysis
+Driver:  output detail data
+Driver:  output the event text list
+Driver:  output the PEB list
+Driver:  output the event logs by ivo
+Driver:  output the event log counts by ivo
+Driver:  output the ivo terminal list
+Driver:  output the contest-candidate totals
+Driver:  output the pct-contest-candidate totals
+Driver:  output the pct-ivo-contest-candidate totals
+Driver:  output precinct list by name and number
+Driver:  output ballot counts by pct, style, and ivo

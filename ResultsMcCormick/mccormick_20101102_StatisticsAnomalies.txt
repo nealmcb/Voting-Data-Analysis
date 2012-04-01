@@ -1,0 +1,512 @@
+ELA: Statistical anomalies file for mccormick
+
+
+********** ********** ********** ********** ********** **********
+
+ELA:  Histogram of 'Terminal shutdown' messages (EXCLUDES 750+)
+
+********** ********** ********** ********** ********** **********
+
+ELA:  Histogram by terminal of '0001633 Terminal shutdown' messages (EXCLUDES 750+)
+Stats:  mean 221/24 = 9.208333
+Stats:  deviation 18.530772
+Stats:  [ ( 0001) , 5118433] 8
+Stats:  [ ( 0001) , 5130530] 2
+Stats:  [ ( 0003) , 5105698] 7
+Stats:  [ ( 0003) , 5121310] 2
+Stats:  [ ( 0003) , 5128365] 4
+Stats:  [ ( 0003) , 5118412] 4
+Stats:  [ ( 0004) , 5125821] 3
+Stats:  [ ( 0004) , 5131350] 2
+Stats:  [ ( 0006) , 5118877] 6
+Stats:  [ ( 0006) , 5125636] 5
+Stats:  [ ( 0006) , 5138430] 2
+Stats:  [ ( 0008) , 5135415] 6
+Stats:  [ ( 0009) , 5126609] 11
+Stats:  [ ( 0009) , 5130325] 8
+Stats:  [ ( 0009) , 5127556] 9
+Stats:  [ ( 0010) , 5119262] 94
+Stats:  [ ( 0010) , 5127330] 4
+Stats:  [ ( 0010) , 5121678] 21
+Stats:  [ ( 0013) , 5122988] 5
+Stats:  [ ( 0013) , 5118291] 7
+Stats:  [ ( 0014) , 5102655] 4
+Stats:  [ ( 0014) , 5122418] 2
+Stats:  [ ( 0015) , 5129509] 3
+Stats:  [ ( 0015) , 5124081] 2
+Stats:  The following are all larger than the mean
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0004) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  min and max 2 94
+Stats:  The max value in any bin is 10 
+Stats:     0 -    3    8 :********
+Stats:     4 -    7   10 :**********
+Stats:     8 -   11    4M:****
+Stats:    12 -   15    0 :
+Stats:    16 -   19    0 :
+Stats:    20 -   23    1 :*
+Stats:    24 -   27    0D:
+Stats:    28 -   31    0 :
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0 :
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    1 :*
+Stats:    96 -   99    0 :
+Stats:   100 -  103    0 :
+
+ELA:  Histogram by precinct of '0001633 Terminal shutdown' messages (EXCLUDES 750+)
+Stats:  mean 221/10 = 22.100000
+Stats:  deviation 34.776908
+Stats:  [ ( 0001) ] 10
+Stats:  [ ( 0003) ] 17
+Stats:  [ ( 0004) ] 5
+Stats:  [ ( 0006) ] 13
+Stats:  [ ( 0008) ] 6
+Stats:  [ ( 0009) ] 28
+Stats:  [ ( 0010) ] 119
+Stats:  [ ( 0013) ] 12
+Stats:  [ ( 0014) ] 6
+Stats:  [ ( 0015) ] 5
+Stats:  The following are all larger than the mean
+Stats:    ( 0009) 
+Stats:    ( 0010) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0004) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  min and max 5 119
+Stats:  The max value in any bin is 4 
+Stats:     0 -    3    0 :
+Stats:     4 -    7    4 :****
+Stats:     8 -   11    1 :*
+Stats:    12 -   15    2 :**
+Stats:    16 -   19    1 :*
+Stats:    20 -   23    0M:
+Stats:    24 -   27    0 :
+Stats:    28 -   31    1 :*
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0D:
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    1 :*
+
+********** ********** ********** ********** ********** **********
+
+ELA:  Histogram by terminal of '0001634 Terminal shutdown - DIE exit' messages (EXCLUDES 750+)
+Stats:  mean 0/24 = 0.000000
+Stats:  deviation 0.000000
+Stats:  [ ( 0001) , 5118433] 0
+Stats:  [ ( 0001) , 5130530] 0
+Stats:  [ ( 0003) , 5105698] 0
+Stats:  [ ( 0003) , 5121310] 0
+Stats:  [ ( 0003) , 5128365] 0
+Stats:  [ ( 0003) , 5118412] 0
+Stats:  [ ( 0004) , 5125821] 0
+Stats:  [ ( 0004) , 5131350] 0
+Stats:  [ ( 0006) , 5118877] 0
+Stats:  [ ( 0006) , 5125636] 0
+Stats:  [ ( 0006) , 5138430] 0
+Stats:  [ ( 0008) , 5135415] 0
+Stats:  [ ( 0009) , 5126609] 0
+Stats:  [ ( 0009) , 5130325] 0
+Stats:  [ ( 0009) , 5127556] 0
+Stats:  [ ( 0010) , 5119262] 0
+Stats:  [ ( 0010) , 5127330] 0
+Stats:  [ ( 0010) , 5121678] 0
+Stats:  [ ( 0013) , 5122988] 0
+Stats:  [ ( 0013) , 5118291] 0
+Stats:  [ ( 0014) , 5102655] 0
+Stats:  [ ( 0014) , 5122418] 0
+Stats:  [ ( 0015) , 5129509] 0
+Stats:  [ ( 0015) , 5124081] 0
+Stats:  The following are all larger than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0004) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0009) 
+Stats:    ( 0010) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0004) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0009) 
+Stats:    ( 0010) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  min and max 0 0
+Stats:  The max value in any bin is 24 
+Stats:     0 -    3   24D:************************
+Stats:     4 -    7    0 :
+Stats:     8 -   11    0 :
+Stats:    12 -   15    0 :
+Stats:    16 -   19    0 :
+Stats:    20 -   23    0 :
+Stats:    24 -   27    0 :
+Stats:    28 -   31    0 :
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0 :
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    0 :
+
+ELA:  Histogram by precinct of '0001634 Terminal shutdown' messages (EXCLUDES 750+)
+Stats:  mean 0/10 = 0.000000
+Stats:  deviation 0.000000
+Stats:  [ ( 0001) ] 0
+Stats:  [ ( 0003) ] 0
+Stats:  [ ( 0004) ] 0
+Stats:  [ ( 0006) ] 0
+Stats:  [ ( 0008) ] 0
+Stats:  [ ( 0009) ] 0
+Stats:  [ ( 0010) ] 0
+Stats:  [ ( 0013) ] 0
+Stats:  [ ( 0014) ] 0
+Stats:  [ ( 0015) ] 0
+Stats:  The following are all larger than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0004) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0009) 
+Stats:    ( 0010) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0004) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0009) 
+Stats:    ( 0010) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  min and max 0 0
+Stats:  The max value in any bin is 10 
+Stats:     0 -    3   10D:**********
+Stats:     4 -    7    0 :
+Stats:     8 -   11    0 :
+Stats:    12 -   15    0 :
+Stats:    16 -   19    0 :
+Stats:    20 -   23    0 :
+Stats:    24 -   27    0 :
+Stats:    28 -   31    0 :
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0 :
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    0 :
+
+********** ********** ********** ********** ********** **********
+
+ELA:  Histogram by terminal of '0001635 Terminal shutdown - IPS exit' messages (EXCLUDES 750+)
+Stats:  mean 68/24 = 2.833333
+Stats:  deviation 4.039658
+Stats:  [ ( 0001) , 5118433] 0
+Stats:  [ ( 0001) , 5130530] 3
+Stats:  [ ( 0003) , 5105698] 1
+Stats:  [ ( 0003) , 5121310] 2
+Stats:  [ ( 0003) , 5128365] 0
+Stats:  [ ( 0003) , 5118412] 0
+Stats:  [ ( 0004) , 5125821] 8
+Stats:  [ ( 0004) , 5131350] 0
+Stats:  [ ( 0006) , 5118877] 1
+Stats:  [ ( 0006) , 5125636] 0
+Stats:  [ ( 0006) , 5138430] 0
+Stats:  [ ( 0008) , 5135415] 4
+Stats:  [ ( 0009) , 5126609] 0
+Stats:  [ ( 0009) , 5130325] 2
+Stats:  [ ( 0009) , 5127556] 0
+Stats:  [ ( 0010) , 5119262] 4
+Stats:  [ ( 0010) , 5127330] 16
+Stats:  [ ( 0010) , 5121678] 7
+Stats:  [ ( 0013) , 5122988] 1
+Stats:  [ ( 0013) , 5118291] 0
+Stats:  [ ( 0014) , 5102655] 8
+Stats:  [ ( 0014) , 5122418] 1
+Stats:  [ ( 0015) , 5129509] 1
+Stats:  [ ( 0015) , 5124081] 9
+Stats:  The following are all larger than the mean
+Stats:    ( 0008) 
+Stats:    ( 0010) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0003) 
+Stats:    ( 0006) 
+Stats:    ( 0009) 
+Stats:    ( 0013) 
+Stats:  min and max 0 16
+Stats:  The max value in any bin is 17 
+Stats:     0 -    3   17M:*****************
+Stats:     4 -    7    3D:***
+Stats:     8 -   11    3 :***
+Stats:    12 -   15    0 :
+Stats:    16 -   19    1 :*
+Stats:    20 -   23    0 :
+Stats:    24 -   27    0 :
+Stats:    28 -   31    0 :
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0 :
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    0 :
+
+ELA:  Histogram by precinct of '0001635 Terminal shutdown' messages (EXCLUDES 750+)
+Stats:  mean 68/10 = 6.800000
+Stats:  deviation 7.828722
+Stats:  [ ( 0001) ] 3
+Stats:  [ ( 0003) ] 3
+Stats:  [ ( 0004) ] 8
+Stats:  [ ( 0006) ] 1
+Stats:  [ ( 0008) ] 4
+Stats:  [ ( 0009) ] 2
+Stats:  [ ( 0010) ] 27
+Stats:  [ ( 0013) ] 1
+Stats:  [ ( 0014) ] 9
+Stats:  [ ( 0015) ] 10
+Stats:  The following are all larger than the mean
+Stats:    ( 0004) 
+Stats:    ( 0010) 
+Stats:    ( 0014) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0009) 
+Stats:    ( 0013) 
+Stats:  min and max 1 27
+Stats:  The max value in any bin is 5 
+Stats:     0 -    3    5 :*****
+Stats:     4 -    7    1M:*
+Stats:     8 -   11    3 :***
+Stats:    12 -   15    0D:
+Stats:    16 -   19    0 :
+Stats:    20 -   23    0 :
+Stats:    24 -   27    1 :*
+Stats:    28 -   31    0 :
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0 :
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    0 :
+
+********** ********** ********** ********** ********** **********
+
+ELA:  Histogram of '2400 2400 0706 1635' messages (includes 750+)
+
+ELA:  Histogram by terminal of '2400 2400 0706 1635' messages (includes 750+)
+Stats:  mean 40/26 = 1.538462
+Stats:  deviation 3.301282
+Stats:  [ ( 0001) , 5118433] 0
+Stats:  [ ( 0001) , 5130530] 1
+Stats:  [ ( 0003) , 5105698] 0
+Stats:  [ ( 0003) , 5121310] 1
+Stats:  [ ( 0003) , 5128365] 0
+Stats:  [ ( 0003) , 5118412] 0
+Stats:  [ ( 0004) , 5125821] 8
+Stats:  [ ( 0004) , 5131350] 0
+Stats:  [ ( 0006) , 5118877] 0
+Stats:  [ ( 0006) , 5125636] 0
+Stats:  [ ( 0006) , 5138430] 0
+Stats:  [ ( 0008) , 5135415] 1
+Stats:  [ ( 0009) , 5126609] 0
+Stats:  [ ( 0009) , 5130325] 1
+Stats:  [ ( 0009) , 5127556] 0
+Stats:  [ ( 0010) , 5119262] 2
+Stats:  [ ( 0010) , 5127330] 15
+Stats:  [ ( 0010) , 5121678] 5
+Stats:  [ ( 0013) , 5122988] 1
+Stats:  [ ( 0013) , 5118291] 0
+Stats:  [ ( 0014) , 5102655] 1
+Stats:  [ ( 0014) , 5122418] 0
+Stats:  [ ( 0015) , 5129509] 0
+Stats:  [ ( 0015) , 5124081] 3
+Stats:  [ ( 0750) , 5124376] 0
+Stats:  [ ( 0750) , 5130430] 1
+Stats:  The following are all larger than the mean
+Stats:    ( 0010) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0009) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:  min and max 0 15
+Stats:  The max value in any bin is 23 
+Stats:     0 -    3   23M:***********************
+Stats:     4 -    7    1D:*
+Stats:     8 -   11    1 :*
+Stats:    12 -   15    1 :*
+Stats:    16 -   19    0 :
+Stats:    20 -   23    0 :
+Stats:    24 -   27    0 :
+Stats:    28 -   31    0 :
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0 :
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    0 :
+
+ELA:  Histogram by precinct of '2400 2400 0706 1635' messages (includes 750+)
+Stats:  mean 40/11 = 3.636364
+Stats:  deviation 6.469509
+Stats:  [ ( 0001) ] 1
+Stats:  [ ( 0003) ] 1
+Stats:  [ ( 0004) ] 8
+Stats:  [ ( 0006) ] 0
+Stats:  [ ( 0008) ] 1
+Stats:  [ ( 0009) ] 1
+Stats:  [ ( 0010) ] 22
+Stats:  [ ( 0013) ] 1
+Stats:  [ ( 0014) ] 1
+Stats:  [ ( 0015) ] 3
+Stats:  [ ( 0750) ] 1
+Stats:  The following are all larger than the mean
+Stats:    ( 0004) 
+Stats:    ( 0010) 
+Stats:  The following are all smaller than the mean
+Stats:    ( 0001) 
+Stats:    ( 0003) 
+Stats:    ( 0006) 
+Stats:    ( 0008) 
+Stats:    ( 0009) 
+Stats:    ( 0013) 
+Stats:    ( 0014) 
+Stats:    ( 0015) 
+Stats:  min and max 0 22
+Stats:  The max value in any bin is 9 
+Stats:     0 -    3    9M:*********
+Stats:     4 -    7    0 :
+Stats:     8 -   11    1D:*
+Stats:    12 -   15    0 :
+Stats:    16 -   19    0 :
+Stats:    20 -   23    1 :*
+Stats:    24 -   27    0 :
+Stats:    28 -   31    0 :
+Stats:    32 -   35    0 :
+Stats:    36 -   39    0 :
+Stats:    40 -   43    0 :
+Stats:    44 -   47    0 :
+Stats:    48 -   51    0 :
+Stats:    52 -   55    0 :
+Stats:    56 -   59    0 :
+Stats:    60 -   63    0 :
+Stats:    64 -   67    0 :
+Stats:    68 -   71    0 :
+Stats:    72 -   75    0 :
+Stats:    76 -   79    0 :
+Stats:    80 -   83    0 :
+Stats:    84 -   87    0 :
+Stats:    88 -   91    0 :
+Stats:    92 -   95    0 :
+Stats:    96 -   99    0 :
+Stats:   100 -  103    0 :

@@ -1,0 +1,83 @@
+Event text list is for mccormick
+
+Event texts
+ 0000100 Select: General Information Menu
+ 0000101 Select: View Terminal Settings
+ 0000104 Select: View Election Settings
+ 0000107 Select: Election Services Menu
+ 0000109 Select: Print Polling Place Zero Tape
+ 0000114 Select: Setup & Configuration Menu
+ 0000116 Select: Configure Terminal
+ 0000117 Select: Set Time and Date
+ 0000118 Select: Enable Audio Ballot
+ 0000126 Select: Election Administration Menu
+ 0000169 Select: Calibrate Screen
+ 0000203 Option: Print Zero Tape(s)
+ 0000300 Start password procedure
+ 0000302 Password procedure cancelled
+ 0000601 Zero terminal config data
+ 0000706 Failed to retrieve EQC from PEB
+ 0000712 Election ID data mismatch - PEB vs CF
+ 0001001 Confirm PEB ballot failed by user
+ 0001003 Failed to get PEB ballot header block
+ 0001101 Vote header - data version mismatch
+ 0001102 Vote header - invalid password
+ 0001103 Vote header - location ID mismatch
+ 0001206 Vote data transfer to non-master PEB
+ 0001208 Merge terminal & PEB vote data
+ 0001210 Transfer terminal vote data to PEB
+ 0001211 Terminal votes to PEB successful
+ 0001214 Transfer terminal writein data to PEB
+ 0001215 Terminal write-in data to PEB successful
+ 0001221 Collect terminal vote data to PEB
+ 0001222 Terminal vote collection successful
+ 0001302 Failed to get PEB vote header block
+ 0001303 Transfer PEB vote data to terminal
+ 0001317 Transfer PEB term data to terminal
+ 0001319 Update PEB's terminal record
+ 0001400 Verify terminal flash audit data
+ 0001401 Copy terminal flash audit data to CF
+ 0001416 Copy audit data from TF 1 to CF
+ 0001510 Vote cast by voter
+ 0001511 Vote cast by poll worker
+ 0001513 Vote cancelled - wrong ballot
+ 0001514 Vote cancelled - voter left after ballot
+ 0001516 Vote cancelled - voter request
+ 0001517 Vote cancelled - printer problem
+ 0001518 Vote cancelled - terminal problem
+ 0001519 Vote cancelled - other reason
+ 0001607 Clear-n-test term flash successful
+ 0001610 Terminal clear fail - invalid PEB
+ 0001613 Opening terminal cancelled by user
+ 0001626 Close terminal
+ 0001633 Terminal shutdown
+ 0001635 Terminal shutdown - IPS exit
+ 0001649 Term - entered service menus
+ 0001650 Term - exited service menus
+ 0001651 Warning - cannot read terminal screen
+ 0001652 Terminal touch-screen test
+ 0001654 Cancel terminal screen calibration
+ 0001655 Terminal touch-screen recalibrated
+ 0001656 Set terminal date and/or time
+ 0001672 Terminal Opened
+ 0001673 Terminal Closed
+ 0001715 Super PEB type - clear and test
+ 0001718 PEB pulled during PEB block read
+ 0001720 PEB pulled during PEB block verify
+ 0001721 PEB pulled while getting PEB type
+ 0001722 PEB pulled while getting PEB revision
+ 0001723 PEB pulled while getting aux info
+ 0002010 Print cumulative zeros tape
+ 0002210 PEB block CRC error
+ 0002400 PEB access failed
+ 0002405 Failed to get PEB type
+ 0002406 Failed to get PEB revision
+ 0002500 CF - not found
+ 0002802 Terminal - open state
+ 0002803 Terminal - closed state
+ 0002804 Terminal - blank state
+ 0002808 Terminal - opening state
+ 0002809 Terminal - closing state
+ 0002810 Terminal - time to close voting
+Total number of event texts:       78
+

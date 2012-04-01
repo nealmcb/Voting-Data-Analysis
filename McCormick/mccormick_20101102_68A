@@ -1,0 +1,445 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+SYSTEM LOG LISTING                                McCormick County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/28/11 12:17 PM                                                                                  ELECTION ID: 33110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    10-28  09:12 am  DATABASE CREATED
+    10-28  09:13 am  PRECINCT REPORT-GROUP DETAIL WAS PRINTED TO EL30A.LST
+    10-28  09:14 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-28  10:48 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-28  10:48 pm  DATABASE RESET
+    10-28  10:49 pm  THERE ARE NO VOTING TERMINAL AUDIT DATA TO BE CLEARED
+    10-28  10:49 pm  THERE ARE NO CONSOLIDATED AUDIT DATA TO BE CLEARED
+    10-28  10:49 pm  CLEARED PEBS DATA
+    10-28  10:49 pm  THERE ARE NO CODED BALLOTS FILES TO BE CLEARED
+    10-28  10:49 pm  THERE ARE NO CODED BALLOTS FILES TO BE CLEARED
+    10-28  10:57 pm  START PROCESS PEBS
+    10-28  10:57 pm  P??????? - Failed to read PEB
+    10-28  10:57 pm  SPP file create failed
+    10-28  10:57 pm  STOP PROCESS PEBS
+    10-28  10:57 pm  START PROCESS PEBS
+    10-28  10:57 pm  PEB votes retrieved for P0154345
+    10-28  10:57 pm  SPP file record created for P0154345
+    10-28  10:58 pm  STOP PROCESS PEBS
+    10-28  10:58 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    10-28  10:58 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    10-28  10:58 pm  0001-Time stamp mismatch (Reply was: Update)
+    10-28  10:58 pm                                                   PRC 0001 PACK RECEIVED VTR  (BALS=3  TOT=3)
+    10-28  10:58 pm  STOP PACK ACCUMULATION
+    10-28  10:59 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-30  10:31 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-30  10:39 am  DATABASE RESET
+    10-30  10:41 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-30  10:42 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-30  10:43 am  DATABASE RESET
+    10-30  10:44 am  Optical GROUP 2 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE 100 - UPDATE PRECINCTS COUNTED:Y
+
+    10-30  10:46 am  START PACK READING
+    10-30  10:46 am                                                   PRC 0750 PACK RECEIVED 100  (BALS=3  TOT=3)
+    10-30  10:46 am  0750-Precinct already updated (Reply was: Update)
+    10-30  10:46 am                                                   PRC 0750 REPLACED BY PACK 100
+    10-30  10:46 am  STOP PACK READING
+    10-30  10:47 am  ELECTION SUMMARY WAS PRINTED TO EL45.LST
+    10-30  10:50 am                                                   PRC 0750 MANUAL ADJUSTMENT
+    10-30  10:53 am                                                   PRC 0750 MANUAL ADJUSTMENT
+    10-30  10:55 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  04:35 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  04:36 pm  DATABASE RESET
+    11-02  04:37 pm  THERE ARE NO VOTING TERMINAL AUDIT DATA TO BE CLEARED
+    11-02  04:37 pm  THERE ARE NO CONSOLIDATED AUDIT DATA TO BE CLEARED
+    11-02  04:38 pm  CLEARED PEBS DATA
+    11-02  04:38 pm  THERE ARE NO CODED BALLOTS FILES TO BE CLEARED
+    11-02  04:39 pm  ELECTION SUMMARY WAS PRINTED TO LPT1
+    11-02  06:12 pm  Optical GROUP 2 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE 100 - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  06:13 pm  START PACK READING
+    11-02  06:14 pm                                                   PRC 0750 PACK RECEIVED 100  (BALS=243  TOT=243)
+SYSTEM LOG LISTING                                McCormick County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/28/11 12:17 PM                                                                                  ELECTION ID: 33110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  06:15 pm  STOP PACK READING
+    11-02  06:29 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+    11-02  07:05 pm                                                   PRC 0750 MANUAL ENTRY-REG VTRS ONLY
+    11-02  07:05 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+    11-02  07:06 pm  PRECINCT REPORT WAS PRINTED TO LPT1
+    11-02  07:09 pm  START PROCESS PEBS
+    11-02  07:10 pm  PEB votes retrieved for P0154442
+    11-02  07:10 pm  SPP file record created for P0154442
+    11-02  07:10 pm  STOP PROCESS PEBS
+    11-02  07:10 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  07:11 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  07:12 am  SPP record has wrong equipment type   (Reply was: Exit update)
+    11-02  07:12 pm  STOP PACK ACCUMULATION
+    11-02  07:13 pm  PRECINCT REPORT WAS PRINTED TO LPT1
+    11-02  07:14 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+    11-02  07:22 pm  START PROCESS PEBS
+    11-02  07:23 pm  P??????? - Failed to read PEB
+    11-02  07:23 pm  SPP file create failed
+    11-02  07:23 pm  STOP PROCESS PEBS
+    11-02  07:23 pm  START PROCESS PEBS
+    11-02  07:23 pm  PEB votes retrieved for P0154442
+    11-02  07:23 pm  SPP file record created for P0154442
+    11-02  07:23 pm  STOP PROCESS PEBS
+    11-02  07:24 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  07:24 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  07:25 pm  STOP PACK ACCUMULATION
+    11-02  07:26 pm  START PROCESS PEBS
+    11-02  07:27 pm  STOP PROCESS PEBS
+    11-02  07:27 pm  START PROCESS PEBS
+    11-02  07:27 pm  PEB votes retrieved for P0154442
+    11-02  07:27 pm  SPP file record created for P0154442
+    11-02  07:27 pm  STOP PROCESS PEBS
+    11-02  07:28 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  07:28 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  07:29 pm  STOP PACK ACCUMULATION
+    11-02  07:42 pm                                                   PRC 0004 MANUAL ENTRY
+    11-02  07:51 pm                                                   PRC 0014 MANUAL ENTRY
+    11-02  07:59 pm                                                   PRC 0013 MANUAL ENTRY
+    11-02  08:06 pm                                                   PRC 0001 MANUAL ENTRY
+    11-02  08:14 pm                                                   PRC 0015 MANUAL ENTRY
+    11-02  08:22 pm                                                   PRC 0010 MANUAL ENTRY
+    11-02  08:36 pm                                                   PRC 0006 MANUAL ENTRY
+    11-02  08:38 pm  START PROCESS PEBS
+    11-02  08:39 pm  PEB votes retrieved for P0153627
+    11-02  08:39 pm  SPP file record created for P0153627
+    11-02  08:39 pm  STOP PROCESS PEBS
+    11-02  08:39 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  08:40 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  08:41 am  SPP record has wrong equipment type   (Reply was: Skip one record)
+    11-02  08:41 pm  0004-Time stamp mismatch (Reply was: Update)
+    11-02  08:41 pm  0004-Precinct already updated (Reply was: Update)
+    11-02  08:41 pm                                                   PRC 0004 REPLACED BY PACK VTR
+SYSTEM LOG LISTING                                McCormick County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/28/11 12:17 PM                                                                                  ELECTION ID: 33110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  08:41 pm  0003-Time stamp mismatch (Reply was: Update)
+    11-02  08:41 pm                                                   PRC 0003 PACK RECEIVED VTR  (BALS=799  TOT=799)
+    11-02  08:43 pm  STOP PACK ACCUMULATION
+    11-02  09:23 pm  Optical GROUP 2 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE 100 - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  09:24 pm  START PACK READING
+    11-02  09:24 pm                                                   PRC 0800 PACK RECEIVED 100  (BALS=40  TOT=40)
+    11-02  09:24 pm  STOP PACK READING
+    11-02  09:25 pm  START PROCESS PEBS
+    11-02  09:25 pm  PEB votes retrieved for P0153832
+    11-02  09:25 pm  SPP file record created for P0153832
+    11-02  09:25 pm  STOP PROCESS PEBS
+    11-02  09:25 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  09:26 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  09:26 pm  STOP PACK ACCUMULATION
+    11-02  09:26 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  09:27 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  09:27 pm  STOP PACK ACCUMULATION
+    11-02  09:28 pm  START PROCESS PEBS
+    11-02  09:28 pm  PEB votes retrieved for P0153832
+    11-02  09:28 pm  SPP file record created for P0153832
+    11-02  09:28 pm  PEB votes retrieved for P0153832
+    11-02  09:28 pm  SPP file record created for P0153832
+    11-02  09:28 pm  STOP PROCESS PEBS
+    11-02  09:28 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  09:28 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  09:29 pm  STOP PACK ACCUMULATION
+    11-02  09:39 pm                                                   PRC 0009 MANUAL ENTRY
+    11-02  09:40 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+    11-02  09:43 pm  START PROCESS PEBS
+    11-02  09:43 pm  PEB votes retrieved for P0153832
+    11-02  09:43 pm  SPP file record created for P0153832
+    11-02  09:43 pm  STOP PROCESS PEBS
+    11-02  09:43 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  09:44 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  09:45 pm  STOP PACK ACCUMULATION
+    11-02  09:45 pm  CLEARED PEBS DATA
+    11-02  09:46 pm  START PROCESS PEBS
+    11-02  09:46 pm  PEB votes retrieved for P0153832
+    11-02  09:46 pm  SPP file record created for P0153832
+    11-02  09:46 pm  STOP PROCESS PEBS
+    11-02  09:46 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  09:46 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  09:46 pm  0009-Time stamp mismatch (Reply was: Update)
+    11-02  09:46 pm                                                   PRC 0009 PACK RECEIVED VTR  (BALS=340  TOT=375)
+    11-02  09:46 pm  STOP PACK ACCUMULATION
+    11-02  09:47 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+    11-02  09:48 pm  START PROCESS PEBS
+    11-02  09:48 pm  PEB votes retrieved for P0153600
+SYSTEM LOG LISTING                                McCormick County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/28/11 12:17 PM                                                                                  ELECTION ID: 33110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  09:48 pm  SPP file record created for P0153600
+    11-02  09:48 pm  STOP PROCESS PEBS
+    11-02  09:48 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  09:48 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  09:48 pm  0008-Time stamp mismatch (Reply was: Update)
+    11-02  09:48 pm                                                   PRC 0008 PACK RECEIVED VTR  (BALS=122  TOT=122)
+    11-02  09:48 pm  STOP PACK ACCUMULATION
+    11-02  09:48 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+    11-02  09:54 pm                                                   PRC 0008 MANUAL ENTRY
+    11-02  09:54 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+    11-02  09:56 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+    11-02  10:06 pm  PRECINCT REPORT-GROUP DETAIL WAS PRINTED TO LPT1
+    11-02  10:11 pm  PRECINCT REPORT WAS PRINTED TO LPT1
+    11-02  10:14 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+    11-02  11:37 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-05  09:30 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-05  09:52 am  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+    11-05  09:53 am  CREATE EVENT LOG FAILED - No binary files in directory
+    11-05  09:54 am  CREATE VOTE IMAGE LOG FAILED - No binary files in directory
+    11-05  09:54 am  iVOTRONIC VOTE IMAGE REPORT WAS PRINTED TO LPT1
+    11-05  10:14 am                                                   PRC 0750 MANUAL ENTRY
+    11-05  10:17 am                                                   PRC 0009 MANUAL ADJUSTMENT
+    11-05  10:18 am                                                   PRC 0006 MANUAL ADJUSTMENT
+    11-05  10:21 am  PRECINCT REPORT WAS PRINTED TO LPT1
+    11-05  10:24 am  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+    11-05  10:27 am                                                   PRC 0750 MANUAL ADJUSTMENT
+    11-05  10:33 am  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+    11-05  10:33 am  PRECINCT REPORT-GROUP DETAIL WAS PRINTED TO LPT1
+    11-05  10:33 am  PRECINCT REPORT WAS PRINTED TO LPT1
+    11-05  11:08 am  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+    11-05  11:34 am                                                   PRC 0750 MANUAL ADJUSTMENT
+    11-05  11:36 am  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+    11-05  12:29 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-05  03:20 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-05  03:21 am  CANVASS - BLOCK STYLE WAS PRINTED TO LPT1
+    11-05  03:25 am  CANVASS - BLOCK STYLE WAS PRINTED TO LPT1
+    11-05  03:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    03-28  10:05 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    03-28  10:05 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:05 am  Audit Data collected for V5124376
+    03-28  10:05 am  V5124376.SPV created
+    03-28  10:05 am  V5124376.COD created
+    03-28  10:05 am
+    03-28  10:06 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:06 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:06 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:06 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:06 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:06 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:06 am  Audit Data collected for V5130430
+    03-28  10:06 am  V5130430.SPV created
+    03-28  10:06 am  V5130430.COD created
+    03-28  10:06 am
+    03-28  10:07 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+SYSTEM LOG LISTING                                McCormick County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/28/11 12:17 PM                                                                                  ELECTION ID: 33110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    03-28  10:07 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:07 am  Audit Data collected for V5130530
+    03-28  10:07 am  V5130530.SPV created
+    03-28  10:07 am  V5130530.COD created
+    03-28  10:07 am
+    03-28  10:07 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:07 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:07 am  Audit Data collected for V5118433
+    03-28  10:07 am  V5118433.SPV created
+    03-28  10:07 am  V5118433.COD created
+    03-28  10:07 am
+    03-28  10:07 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:08 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:08 am  Audit Data collected for V5105698
+    03-28  10:08 am  V5105698.SPV created
+    03-28  10:08 am  V5105698.COD created
+    03-28  10:08 am
+    03-28  10:08 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:08 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:08 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:08 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:08 am  Audit Data collected for V5128365
+    03-28  10:08 am  V5128365.SPV created
+    03-28  10:08 am  V5128365.COD created
+    03-28  10:08 am
+    03-28  10:09 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:09 am  CONSOLIDATED AUDIT DATA
+    03-28  10:09 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:09 am  Audit Data collected for V5118412
+    03-28  10:09 am  V5118412.SPV created
+    03-28  10:09 am  V5118412.COD created
+    03-28  10:09 am
+    03-28  10:09 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:09 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:09 am  Audit Data collected for V5121310
+    03-28  10:09 am  V5121310.SPV created
+    03-28  10:09 am  V5121310.COD created
+    03-28  10:09 am
+    03-28  10:09 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:10 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:10 am  Audit Data collected for V5131350
+    03-28  10:10 am  V5131350.SPV created
+    03-28  10:10 am  V5131350.COD created
+    03-28  10:10 am
+    03-28  10:10 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:10 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:10 am  Audit Data collected for V5125821
+    03-28  10:10 am  V5125821.SPV created
+    03-28  10:10 am  V5125821.COD created
+    03-28  10:10 am
+    03-28  10:10 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:10 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:10 am  Audit Data collected for V5138430
+    03-28  10:10 am  V5138430.SPV created
+    03-28  10:10 am  V5138430.COD created
+    03-28  10:10 am
+    03-28  10:11 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:11 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:11 am  Audit Data collected for V5125636
+    03-28  10:11 am  V5125636.SPV created
+SYSTEM LOG LISTING                                McCormick County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/28/11 12:17 PM                                                                                  ELECTION ID: 33110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    03-28  10:11 am  V5125636.COD created
+    03-28  10:11 am
+    03-28  10:11 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:11 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:11 am  Audit Data collected for V5118877
+    03-28  10:11 am  V5118877.SPV created
+    03-28  10:11 am  V5118877.COD created
+    03-28  10:11 am
+    03-28  10:11 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:12 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:12 am  Audit Data collected for V5126609
+    03-28  10:12 am  V5126609.SPV created
+    03-28  10:12 am  V5126609.COD created
+    03-28  10:12 am
+    03-28  10:12 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:12 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:12 am  Audit Data collected for V5130325
+    03-28  10:12 am  V5130325.SPV created
+    03-28  10:12 am  V5130325.COD created
+    03-28  10:12 am
+    03-28  10:12 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:12 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:12 am  Audit Data collected for V5127556
+    03-28  10:12 am  V5127556.SPV created
+    03-28  10:12 am  V5127556.COD created
+    03-28  10:12 am
+    03-28  10:12 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:13 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:13 am  Audit Data collected for V5135415
+    03-28  10:13 am  V5135415.SPV created
+    03-28  10:13 am  V5135415.COD created
+    03-28  10:13 am
+    03-28  10:13 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:13 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:13 am  Audit Data collected for V5127330
+    03-28  10:13 am  V5127330.SPV created
+    03-28  10:13 am  V5127330.COD created
+    03-28  10:13 am
+    03-28  10:13 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:13 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:13 am  Audit Data collected for V5119262
+    03-28  10:13 am  V5119262.SPV created
+    03-28  10:13 am  V5119262.COD created
+    03-28  10:13 am
+    03-28  10:14 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:14 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:14 am  Audit Data collected for V5121678
+    03-28  10:14 am  V5121678.SPV created
+    03-28  10:14 am  V5121678.COD created
+    03-28  10:14 am
+    03-28  10:14 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:14 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:14 am  Audit Data collected for V5118291
+    03-28  10:14 am  V5118291.SPV created
+    03-28  10:14 am  V5118291.COD created
+    03-28  10:14 am
+    03-28  10:14 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:14 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:15 am  Audit Data collected for V5122988
+    03-28  10:15 am  V5122988.SPV created
+SYSTEM LOG LISTING                                McCormick County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/28/11 12:17 PM                                                                                  ELECTION ID: 33110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    03-28  10:15 am  V5122988.COD created
+    03-28  10:15 am
+    03-28  10:15 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:15 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:15 am  Audit Data collected for V5102655
+    03-28  10:15 am  V5102655.SPV created
+    03-28  10:15 am  V5102655.COD created
+    03-28  10:15 am
+    03-28  10:15 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:15 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:15 am  Audit Data collected for V5122418
+    03-28  10:15 am  V5122418.SPV created
+    03-28  10:15 am  V5122418.COD created
+    03-28  10:15 am
+    03-28  10:15 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:16 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:16 am  Audit Data collected for V5124081
+    03-28  10:16 am  V5124081.SPV created
+    03-28  10:16 am  V5124081.COD created
+    03-28  10:16 am
+    03-28  10:16 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:16 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:16 am  Audit Data collected for V5129509
+    03-28  10:16 am  V5129509.SPV created
+    03-28  10:16 am  V5129509.COD created
+    03-28  10:16 am
+    03-28  10:16 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    03-28  10:17 am  EVENT LOG FILE CREATED
+    03-28  10:17 am  VOTE IMAGE FILE CREATED
+    03-28  10:19 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    03-28  10:19 am  iVOTRONIC VOTE IMAGE REPORT WAS PRINTED TO EL155.LST
+    03-28  10:21 am  iVOTRONIC VOTE IMAGE REPORT WAS PRINTED TO EL155.LST
+    03-28  10:22 am  iVOTRONIC EVENT LOG WAS PRINTED TO EL152.LST
+    03-28  10:24 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    03-28  12:11 pm  EXITED ELECTION IN ELECTION REPORTING MANAGER
+    03-28  12:12 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+    03-28  12:12 pm  VOTE IMAGE FILE CREATED
+    03-28  12:15 pm  iVOTRONIC VOTE IMAGE REPORT WAS PRINTED TO EL155.LST
+    03-28  12:16 pm  EVENT LOG FILE CREATED
+    03-28  12:16 pm  iVOTRONIC EVENT LOG WAS PRINTED TO EL152.LST
+    03-28  12:16 pm  PRECINCT REPORT-GROUP DETAIL WAS PRINTED TO EL30A.LST
+    03-28  12:17 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+E

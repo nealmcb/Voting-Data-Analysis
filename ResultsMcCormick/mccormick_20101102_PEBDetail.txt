@@ -1,0 +1,41 @@
+PEB list for mccormick
+
+PEBs not used in closing in 152 and not in 68A
+      0 UNK   Closing in 152, In 68A: NO  NO 
+ 135798 SUP   Closing in 152, In 68A: NO  NO 
+ 136562 SUP   Closing in 152, In 68A: NO  NO 
+ 136789 SUP   Closing in 152, In 68A: NO  NO 
+ 142812 SUP   Closing in 152, In 68A: NO  NO 
+ 146862 SUP   Closing in 152, In 68A: NO  NO 
+ 147626 SUP   Closing in 152, In 68A: NO  NO 
+ 153598 SUP   Closing in 152, In 68A: NO  NO 
+ 153690 SUP   Closing in 152, In 68A: NO  NO 
+ 153702 SUP   Closing in 152, In 68A: NO  NO 
+ 154037 SUP   Closing in 152, In 68A: NO  NO 
+ 154099 SUP   Closing in 152, In 68A: NO  NO 
+ 154120 SUP   Closing in 152, In 68A: NO  NO 
+ 154209 SUP   Closing in 152, In 68A: NO  NO 
+ 154235 SUP   Closing in 152, In 68A: NO  NO 
+ 154259 SUP   Closing in 152, In 68A: NO  NO 
+ 154674 SUP   Closing in 152, In 68A: NO  NO 
+ 154941 SUP   Closing in 152, In 68A: NO  NO 
+ 155507 SUP   Closing in 152, In 68A: NO  NO 
+
+PEBs used in closing in 152 but not in 68A
+ 137566 SUP   Closing in 152, In 68A: YES NO 
+ 140607 SUP   Closing in 152, In 68A: YES NO 
+ 153503 SUP   Closing in 152, In 68A: YES NO 
+ 153700 SUP   Closing in 152, In 68A: YES NO 
+ 153779 SUP   Closing in 152, In 68A: YES NO 
+ 154104 SUP   Closing in 152, In 68A: YES NO 
+
+PEBs not used in closing in 152 but present in 68A
+
+PEBs used in closing in 152 and present in 68A
+ 153600 SUP   Closing in 152, In 68A: YES YES (11-02  09:48 pm)
+ 153627 SUP   Closing in 152, In 68A: YES YES (11-02  08:39 pm)
+ 153832 SUP   Closing in 152, In 68A: YES YES (11-02  09:25 pm)(11-02  09:28 pm)(11-02  09:28 pm)(11-02  09:43 pm)(11-02  09:46 pm)
+ 154345 SUP   Closing in 152, In 68A: YES YES (10-28  10:57 pm)
+ 154442 SUP   Closing in 152, In 68A: YES YES (11-02  07:10 pm)(11-02  07:23 pm)(11-02  07:27 pm)
+Total number of PEBs:       30
+

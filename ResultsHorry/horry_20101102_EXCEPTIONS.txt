@@ -1,0 +1,182 @@
+
+
+
+
+
+********** ********** ********** ********** ********** **********
+********** ********** ********** ********** ********** **********
+
+EXCEPTIONS file for horry
+
+Ballot total in 152:      59079
+Ballot total in 155:      59079
+
+********** ********** ********** ********** ********** **********
+
+Listing terminals found only in 152 or in 155 (includes 750+)
+No exceptions of this type.
+
+********** ********** ********** ********** ********** **********
+
+Listing terminals opened and closed with different PEBs (includes 750+)
+This list comes from the 152 file
+5114570 Opening PEB  147628 not closing PEB  149386:  ( 0175) 
+5121192 Opening PEB  140029 not closing PEB  149386:  ( 0175) 
+5124204 Opening PEB  124490 not closing PEB  154989:  ( 0189) 
+5126144 Opening PEB  125270 not closing PEB dummyclosepeb:  ( 0148) 
+5126677 Opening PEB  146854 not closing PEB  155580:  ( 0115) 
+5127457 Opening PEB  155056 not closing PEB  155580:  ( 0115) 
+5128557 Opening PEB  133748 not closing PEB  154989:  ( 0189) 
+
+Listing precincts with multiple PEBs used for closing (includes 750+)
+0101 ADRIAN
+     ( 5101306 5124263 5128601 5132829 5138324)
+     (  143322  153706)  (  143322  153706) 
+0103 ATLANTIC_BEACH
+     ( 5101306 5122355 5128562)
+     (  112600  153706)  (  112600  153706) 
+0106 BROOKSVILLE
+     ( 5119263 5122616 5124318 5125531 5133000 5134301)
+     (  142261  143523  192641)  (  142261  143523  192641) 
+0110 CAROLINA_FOREST_#1
+     ( 5101306 5116979 5119820 5125014 5129211 5131822 5131986 5136157)
+     (  105754  153706)  (  105754  153706) 
+0148 HORRY
+     ( 5120871 5126144 5133603)
+     (  125270)  (  125270 dummyclosepeb) 
+0175 NIXONS_XROADS_#2
+     ( 5114570 5121192 5127248 5184040)
+     (  140029  147628  149386)  (  147628  149386) 
+0189 RACEPATH_#1
+     ( 5111151 5124204 5125701 5128557)
+     (  124490  133748  154989)  (  133748  154989) 
+
+********** ********** ********** ********** ********** **********
+
+Listing PEBs found only in 68A or in 152 (includes 750+)
+PEB  133748 not in 68A but closed terminals in 152
+PEB  147628 not in 68A but closed terminals in 152
+PEB  151275 not in 68A but closed terminals in 152
+PEB  153706 not in 68A but closed terminals in 152
+
+          PEB  114207 in 68A but not in the 152 file
+          PEB  119617 in 68A but not in the 152 file
+          PEB  124010 in 68A but not in the 152 file
+          PEB  139413 in 68A but not in the 152 file
+          PEB  140374 in 68A but not in the 152 file
+          PEB  147450 in 68A but not in the 152 file
+          PEB  153512 in 68A but not in the 152 file
+          PEB  229444 in 68A but not in the 152 file
+          PEB  229445 in 68A but not in the 152 file
+
+********** ********** ********** ********** ********** **********
+
+Listing terminals with anomalous opening/closing times
+Early time means time before 2010_11_02 05:30:00
+Late time means time after   2010_11_02 19:45:00
+
+Listing terminals with no opening/closing times (includes 750+)
+All terminals not in the 152 will appear here
+NO CLOSETIME    5126144 1970_01_01 00:00:00  ( 0148) 
+
+Listing terminals with early opening times (EXCLUDES 750+)
+Early opentime  5122195 2010_11_01 07:16:40  ( 0108) 
+Early opentime  5129290 2010_11_02 05:26:06  ( 0140) 
+Early opentime  5131646 2010_02_23 06:35:46  ( 0138) 
+
+Listing terminals with late opening times (EXCLUDES 750+)
+Late opentime  5101306 2012_11_18 14:13:13  ( 0101 0103 0110) 
+Late opentime  5126374 2011_11_02 07:36:41  ( 0182) 
+Late opentime  5129059 2010_11_06 07:49:48  ( 0139) 
+
+Listing terminals with early closing times (EXCLUDES 750+)
+No exceptions of this type.
+
+Listing terminals with late closing times (EXCLUDES 750+)
+
+Listing terminals by serial number (EXCLUDES 750+)
+Late closetime  5101306 2012_11_18 14:21:09  ( 0101 0103 0110) 
+Late closetime  5119263 2010_11_02 20:39:41  ( 0106) 
+Late closetime  5122195 2010_11_02 19:47:18  ( 0108) 
+Late closetime  5122616 2010_11_02 20:59:44  ( 0106) 
+Late closetime  5124318 2010_11_02 20:31:03  ( 0106) 
+Late closetime  5125531 2010_11_02 20:45:47  ( 0106) 
+Late closetime  5129059 2010_11_06 20:11:54  ( 0139) 
+Late closetime  5133000 2010_11_02 20:29:07  ( 0106) 
+Late closetime  5134301 2010_11_02 20:57:07  ( 0106) 
+
+Listing terminals by late closing time (EXCLUDES 750+)
+Late closetime  5122195 2010_11_02 19:47:18  ( 0108) 
+Late closetime  5133000 2010_11_02 20:29:07  ( 0106) 
+Late closetime  5124318 2010_11_02 20:31:03  ( 0106) 
+Late closetime  5119263 2010_11_02 20:39:41  ( 0106) 
+Late closetime  5125531 2010_11_02 20:45:47  ( 0106) 
+Late closetime  5134301 2010_11_02 20:57:07  ( 0106) 
+Late closetime  5122616 2010_11_02 20:59:44  ( 0106) 
+Late closetime  5129059 2010_11_06 20:11:54  ( 0139) 
+Late closetime  5101306 2012_11_18 14:21:09  ( 0101 0103 0110) 
+
+********** ********** ********** ********** ********** **********
+
+Listing of terminals whose memory card data was not collected (includes 750+)
+This list is of all known terminals that are not in the 68A file
+No 68A mem card data coll for term 5101306, pct  ( 0101 0103 0110) 
+
+Dates of 68A first coll of mem card data (includes 750+)
+      1 11-03
+    501 11-04
+      1 never
+
+Listing of precincts with missing memory card data (EXCLUDES 750+)
+DATA MISSING 0101 ADRIAN                             111 vote(s)
+DATA MISSING 0103 ATLANTIC_BEACH                      -1 vote(s)
+DATA MISSING 0105 BAYBORO                            124 vote(s)
+DATA MISSING 0106 BROOKSVILLE                        401 vote(s)
+DATA MISSING 0107 BROWNWAY                           337 vote(s)
+DATA MISSING 0109 BURGESS_#2                         235 vote(s)
+DATA MISSING 0110 CAROLINA_FOREST_#1                 109 vote(s)
+DATA MISSING 0111 CAROLINA_FOREST_#2                 110 vote(s)
+DATA MISSING 0115 COASTAL_CAROLINA                   190 vote(s)
+DATA MISSING 0119 CRESENT                            307 vote(s)
+DATA MISSING 0122 DOGBLUFF                            86 vote(s)
+DATA MISSING 0123 DOGWOOD                            151 vote(s)
+DATA MISSING 0124 DUNES_#1                           301 vote(s)
+DATA MISSING 0126 DUNES_#3                           125 vote(s)
+DATA MISSING 0127 EAST_CONWAY                        130 vote(s)
+DATA MISSING 0128 EAST_LORIS                          92 vote(s)
+DATA MISSING 0130 EMERALD_FOREST_#1                   88 vote(s)
+DATA MISSING 0131 EMERALD_FOREST_#2                  111 vote(s)
+DATA MISSING 0132 EMERALD_FOREST_#3                    2 vote(s)
+DATA MISSING 0135 FORESTBROOK                         94 vote(s)
+DATA MISSING 0136 FOUR_MILE                            7 vote(s)
+DATA MISSING 0139 GARDEN_CITY_#2                     114 vote(s)
+DATA MISSING 0141 GARDEN_CITY_#4                     323 vote(s)
+DATA MISSING 0145 HICKORY_GROVE                      133 vote(s)
+DATA MISSING 0151 JAMESTOWN                           66 vote(s)
+DATA MISSING 0155 JORDANVILLE                        112 vote(s)
+DATA MISSING 0159 LEON                               126 vote(s)
+DATA MISSING 0165 MARLOWE                            154 vote(s)
+DATA MISSING 0171 MYRTLEWOOD_#1                      120 vote(s)
+DATA MISSING 0173 MYRTLEWOOD_#3                      141 vote(s)
+DATA MISSING 0175 NIXONS_XROADS_#2                   172 vote(s)
+DATA MISSING 0179 OCEAN_DRIVE_#1                     133 vote(s)
+DATA MISSING 0182 OCEAN_FOREST_#2                    159 vote(s)
+DATA MISSING 0183 OCEAN_FOREST_#3                    118 vote(s)
+DATA MISSING 0184 PALMETTO_BAYS                      254 vote(s)
+DATA MISSING 0187 POPLAR_HILL                         15 vote(s)
+DATA MISSING 0189 RACEPATH_#1                       -114 vote(s)
+DATA MISSING 0190 RACEPATH_#2                        153 vote(s)
+DATA MISSING 0198 SHELL                              108 vote(s)
+DATA MISSING 0199 SOCASTEE_#1                        229 vote(s)
+DATA MISSING 0201 SOCASTEE_#3                        139 vote(s)
+DATA MISSING 0207 SURFSIDE_#4                        102 vote(s)
+DATA MISSING 0212 WAMPEE                             154 vote(s)
+DATA MISSING 0214 WEST_LORIS                           7 vote(s)
+DATA MISSING 0216 WILD_WING                          119 vote(s)
+DATA MISSING 0217 WINDY_HILL_#1                      129 vote(s)
+DATA MISSING 0218 WINDY_HILL_#2                      167 vote(s)
+
+Listing of precincts entirely missing memory card data (EXCLUDES 750+)
+PCT MISSING  null LITTLE_RIVER_#1
+PCT MISSING  null LITTLE_RIVER_#2
+PCT MISSING  null RED_HILL_#1

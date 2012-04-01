@@ -1,0 +1,92 @@
+Globals:  election date is set to 2010_11_02
+Driver:  log file for mccormick
+Driver:  read the detail data
+DDT:  enter readpctdetail
+Globals:  open input file '../../VotingData/Data/mccormick/mccormick_20101102_detail.txt'
+DDT:  leave readpctdetail
+Driver:  read the 155 file
+Globals:  open input file '../../VotingData/Data/mccormick/mccormick_20101102_155'
+Driver:  read the 152 file
+Globals:  open input file '../../VotingData/Data/mccormick/mccormick_20101102_152'
+Driver:  read the 68A file
+Globals:  open input file '../../VotingData/Data/mccormick/mccormick_20101102_68A'
+SixEightA:  enter checkTimeStamps
+11-02  07:09 pm  START PROCESS PEBS
+11-02  07:10 pm  PEB votes retrieved for P0154442
+11-02  07:10 pm  SPP file record created for P0154442
+11-02  07:10 pm  STOP PROCESS PEBS
+11-02  07:10 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+11-02  07:11 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+11-02  07:12 am  SPP record has wrong equipment type   (Reply was: Exit update)
+11-02  07:12 pm  STOP PACK ACCUMULATION
+11-02  07:13 pm  PRECINCT REPORT WAS PRINTED TO LPT1
+11-02  07:14 pm  STATS CANVASS - NUMBERED KEY WAS PRINTED TO LPT1
+11-02  07:22 pm  START PROCESS PEBS
+
+11-02  08:38 pm  START PROCESS PEBS
+11-02  08:39 pm  PEB votes retrieved for P0153627
+11-02  08:39 pm  SPP file record created for P0153627
+11-02  08:39 pm  STOP PROCESS PEBS
+11-02  08:39 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+11-02  08:40 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+11-02  08:41 am  SPP record has wrong equipment type   (Reply was: Skip one record)
+11-02  08:41 pm  0004-Time stamp mismatch (Reply was: Update)
+11-02  08:41 pm  0004-Precinct already updated (Reply was: Update)
+11-02  08:41 pm                                                   PRC 0004 REPLACED BY PACK VTR
+11-02  08:41 pm  0003-Time stamp mismatch (Reply was: Update)
+
+11-05  10:33 am  PRECINCT REPORT WAS PRINTED TO LPT1
+11-05  11:08 am  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+11-05  11:34 am                                                   PRC 0750 MANUAL ADJUSTMENT
+11-05  11:36 am  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+11-05  12:29 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-05  03:20 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-05  03:21 am  CANVASS - BLOCK STYLE WAS PRINTED TO LPT1
+11-05  03:25 am  CANVASS - BLOCK STYLE WAS PRINTED TO LPT1
+11-05  03:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+03-28  10:05 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+03-28  10:05 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+
+11-05  11:36 am  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO LPT1
+11-05  12:29 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+11-05  03:20 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+11-05  03:21 am  CANVASS - BLOCK STYLE WAS PRINTED TO LPT1
+11-05  03:25 am  CANVASS - BLOCK STYLE WAS PRINTED TO LPT1
+11-05  03:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+03-28  10:05 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+03-28  10:05 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+03-28  10:05 am  Audit Data collected for V5124376
+03-28  10:05 am  V5124376.SPV created
+03-28  10:05 am  V5124376.COD created
+
+SixEightA:  leave checkTimeStamps
+Driver:  fill out the data across files
+ELA:  enter fillOutData
+ELA:  enter process152events
+ELA:  leave process152events
+ELA:  enter countTheVotes
+ELA:  leave countTheVotes
+ELA:  enter countOpenClosePerPct
+ELA:  leave countOpenClosePerPct
+ELA:  leave fillOutData
+Driver:  output the pct totals by ivo
+Driver:  process the data using ELA
+ELA:  enter doAnalysis
+ELA:  enter statisticsAnomalies
+ELA:  enter statisticsAnomaliesTerminalShutdown
+ELA:  leave statisticsAnomaliesTerminalShutdown
+ELA:  enter statistics2400240007061635
+ELA:  leave statistics2400240007061635
+ELA:  leave statisticsAnomalies
+ELA:  leave doAnalysis
+Driver:  output detail data
+Driver:  output the event text list
+Driver:  output the PEB list
+Driver:  output the event logs by ivo
+Driver:  output the event log counts by ivo
+Driver:  output the ivo terminal list
+Driver:  output the contest-candidate totals
+Driver:  output the pct-contest-candidate totals
+Driver:  output the pct-ivo-contest-candidate totals
+Driver:  output precinct list by name and number
+Driver:  output ballot counts by pct, style, and ivo

@@ -1,0 +1,3125 @@
+E&l2a0o7c067F(s0p16.66h3b6T&a00L
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    10-11  05:44 pm  DATABASE CREATED
+    10-11  05:45 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-11  07:18 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-11  07:18 pm  START PROCESS PEBS
+    10-11  07:18 pm  PEB votes retrieved for P0140374
+    10-11  07:18 pm  SPP file record created for P0140374
+    10-11  07:18 pm  STOP PROCESS PEBS
+    10-11  07:18 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    10-11  07:19 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    10-11  07:19 pm  No time stamp available (Reply was: Don't update)
+    10-11  07:19 pm  0125-Time stamp mismatch (Reply was: Don't update)
+    10-11  07:20 pm  0101-Time stamp mismatch (Reply was: Update)
+    10-11  07:20 pm                                                   PRC 0101 PACK RECEIVED VTR  (BALS=4  TOT=4)
+    10-11  07:20 pm  STOP PACK ACCUMULATION
+    10-11  07:20 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-11  07:21 pm  DATABASE RESET
+    10-11  07:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-12  08:09 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-12  08:09 am  START PROCESS PEBS
+    10-12  08:09 am  PEB votes retrieved for P0139413
+    10-12  08:09 am  SPP file record created for P0139413
+    10-12  08:09 am  STOP PROCESS PEBS
+    10-12  08:09 am  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    10-12  08:09 am  START PACK ACCUMULATION  (Replace Mode - restarting)
+    10-12  08:09 am  No time stamp available (Reply was: Don't update)
+    10-12  08:09 am  0125-Time stamp mismatch (Reply was: Don't update)
+    10-12  08:09 am  0101-Time stamp mismatch (Reply was: Update)
+    10-12  08:09 am                                                   PRC 0101 PACK RECEIVED VTR  (BALS=4  TOT=4)
+    10-12  08:09 am  0101-Time stamp mismatch (Reply was: Don't update)
+    10-12  08:10 am  STOP PACK ACCUMULATION
+    10-12  08:10 am  DATABASE RESET
+    10-12  08:10 am  START PROCESS PEBS
+    10-12  08:10 am  PEB votes retrieved for P0139413
+    10-12  08:10 am  SPP file record created for P0139413
+    10-12  08:10 am  STOP PROCESS PEBS
+    10-12  08:10 am  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    10-12  08:10 am  START PACK ACCUMULATION  (Replace Mode - restarting)
+    10-12  08:10 am  No time stamp available (Reply was: Don't update)
+    10-12  08:10 am  0125-Time stamp mismatch (Reply was: Don't update)
+    10-12  08:10 am  0101-Time stamp mismatch (Reply was: Update)
+    10-12  08:10 am                                                   PRC 0101 PACK RECEIVED VTR  (BALS=4  TOT=4)
+    10-12  08:10 am  0101-Time stamp mismatch (Reply was: Don't update)
+    10-12  08:10 am  0101-Time stamp mismatch (Reply was: Don't update)
+    10-12  08:11 am  STOP PACK ACCUMULATION
+    10-12  08:11 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-12  08:11 am  DATABASE RESET
+    10-12  08:12 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-12  08:12 am  START PROCESS PEBS
+    10-12  08:12 am  PEB votes retrieved for P0139413
+    10-12  08:12 am  SPP file record created for P0139413
+    10-12  08:12 am  STOP PROCESS PEBS
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    10-12  08:12 am  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    10-12  08:12 am  START PACK ACCUMULATION  (Replace Mode - restarting)
+    10-12  08:12 am  No time stamp available (Reply was: Update)
+    10-12  08:12 am  Precinct 0000 not on results database
+    10-12  08:12 am  0125-Time stamp mismatch (Reply was: Don't update)
+    10-12  08:12 am  0101-Time stamp mismatch (Reply was: Update)
+    10-12  08:12 am                                                   PRC 0101 PACK RECEIVED VTR  (BALS=4  TOT=4)
+    10-12  08:12 am  0101-Time stamp mismatch (Reply was: Update)
+    10-12  08:12 am                                                   PRC 0101 ADDED TO FROM PACK VTR  (BALS=3  TOT=7)
+    10-12  08:12 am  0101-Time stamp mismatch (Reply was: Update)
+    10-12  08:12 am  0101-Precinct already updated (Pack suspended)
+    10-12  08:13 am  0101-Time stamp mismatch (Reply was: Update)
+    10-12  08:13 am  0101-Precinct already updated (Pack suspended)
+    10-12  08:13 am  STOP PACK ACCUMULATION
+    10-12  08:13 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-12  08:16 am  DATABASE RESET
+    10-12  08:16 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-12  08:17 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-12  12:36 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-12  12:36 pm  DATABASE RESET
+    10-12  12:39 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-13  12:49 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-13  12:49 pm  EXITED ELECTION IN ELECTION REPORTING MANAGER
+    10-13  03:09 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+    10-13  03:10 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-13  03:11 pm  START PROCESS PEBS
+    10-13  03:12 pm  PEB votes retrieved for P0147450
+    10-13  03:12 pm  SPP file record created for P0147450
+    10-13  03:12 pm  STOP PROCESS PEBS
+    10-13  03:12 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    10-13  03:12 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    10-13  03:12 pm  No time stamp available (Reply was: Don't update)
+    10-13  03:12 pm  0125-Time stamp mismatch (Reply was: Update)
+    10-13  03:12 pm                                                   PRC 0125 PACK RECEIVED VTR  (BALS=7  TOT=7)
+    10-13  03:12 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:13 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:13 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:13 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:13 pm  0110-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:13 pm  STOP PACK ACCUMULATION
+    10-13  03:13 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-13  03:23 pm  DATABASE RESET
+    10-13  03:24 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+    10-13  03:24 am  CANVASS - BLOCK STYLE WAS PRINTED TO EL119.LST
+    10-13  03:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-13  03:27 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-13  03:34 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+    10-13  03:36 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    10-13  03:36 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    10-13  03:36 pm  No time stamp available (Reply was: Don't update)
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    10-13  03:36 pm  0125-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:36 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:36 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:36 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:36 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:36 pm  0110-Time stamp mismatch (Reply was: Don't update)
+    10-13  03:37 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-13  03:37 pm  START PROCESS PEBS
+    10-13  03:37 pm  PEB votes retrieved for P0229445
+    10-13  03:37 pm  SPP file record created for P0229445
+    10-13  03:37 pm  STOP PROCESS PEBS
+    10-13  03:38 pm  0119-Time stamp mismatch (Reply was: Update)
+    10-13  03:38 pm                                                   PRC 0119 PACK RECEIVED VTR  (BALS=2  TOT=2)
+    10-13  03:38 pm  STOP PACK ACCUMULATION
+    10-13  03:38 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-13  03:42 pm  DATABASE RESET
+    10-13  03:43 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-13  03:43 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-26  12:04 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-26  12:08 pm                                                   PRC 0101 MANUAL ENTRY
+    10-26  12:10 pm                                                   PRC 0220 MANUAL ENTRY
+    10-26  12:10 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+    10-26  12:15 pm  DATABASE RESET
+    10-26  12:15 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+    10-26  12:17 pm                                                   PRC 0101 MANUAL ENTRY
+    10-26  12:19 pm                                                   PRC 0121 MANUAL ENTRY
+    10-26  12:19 pm  ELECTION SUMMARY-GROUP DETAIL WAS PRINTED TO EL45A.LST
+    10-26  12:21 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    10-26  12:53 pm  DATABASE RESET
+    10-26  09:56 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-27  11:56 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-27  12:48 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-27  12:48 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-27  12:48 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-27  02:47 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+    10-27  03:09 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-27  03:09 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-27  03:34 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-28  02:55 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-28  02:58 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-28  03:21 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-28  03:21 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-29  01:33 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-29  01:33 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    10-29  01:35 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    10-29  01:35 pm  EXITED ELECTION IN ELECTION REPORTING MANAGER
+    11-01  03:02 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+    11-01  03:02 pm  DATABASE RESET
+    11-01  03:10 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-01  03:11 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  04:51 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  04:51 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  04:51 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  05:01 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  05:03 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  05:09 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  05:23 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  05:26 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  05:28 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  05:28 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  05:28 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  05:31 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  06:42 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  05:59 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  06:03 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+    11-02  06:07 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-02  06:08 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-02  06:08 pm  No time stamp available (Reply was: Don't update)
+    11-02  06:08 pm  0125-Time stamp mismatch (Reply was: Don't update)
+    11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    11-02  06:08 pm  0101-Time stamp mismatch (Reply was: Don't update)
+    11-02  06:08 pm  0110-Time stamp mismatch (Reply was: Don't update)
+    11-02  06:08 pm  0119-Time stamp mismatch (Reply was: Don't update)
+    11-02  06:06 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+    11-02  06:07 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  06:08 pm  START PROCESS PEBS
+    11-02  06:53 pm  PEB votes retrieved for P0146680
+    11-02  06:53 pm  SPP file record created for P0146680
+    11-02  06:56 pm                                                   PRC 0198 PACK RECEIVED VTR  (BALS=341  TOT=341)
+    11-02  07:05 pm                                                   PRC 0184 PACK RECEIVED VTR  (BALS=1024  TOT=1024)
+    11-02  07:01 pm  PEB votes retrieved for P0147562
+    11-02  07:01 pm  SPP file record created for P0147562
+    11-02  07:02 pm  PEB votes retrieved for P0232610
+    11-02  07:02 pm  SPP file record created for P0232610
+    11-02  07:05 pm                                                   PRC 0200 PACK RECEIVED VTR  (BALS=478  TOT=478)
+    11-02  07:02 pm  PEB votes retrieved for P0143322
+    11-02  07:02 pm  SPP file record created for P0143322
+    11-02  07:06 pm  0101-Time stamp mismatch (Reply was: Update)
+    11-02  07:06 pm                                                   PRC 0101 PACK RECEIVED VTR  (BALS=620  TOT=620)
+    11-02  07:03 pm  PEB votes retrieved for P0150117
+    11-02  07:03 pm  SPP file record created for P0150117
+    11-02  07:06 pm                                                   PRC 0213 PACK RECEIVED VTR  (BALS=236  TOT=236)
+    11-02  07:03 pm  PEB votes retrieved for P0117877
+    11-02  07:03 pm  SPP file record created for P0117877
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  07:08 pm  0147-Time stamp mismatch (Reply was: Update)
+    11-02  07:08 pm                                                   PRC 0147 PACK RECEIVED VTR  (BALS=424  TOT=424)
+    11-02  07:06 pm  PEB votes retrieved for P0154770
+    11-02  07:06 pm  SPP file record created for P0154770
+    11-02  07:09 pm  0149-Time stamp mismatch (Reply was: Update)
+    11-02  07:09 pm                                                   PRC 0149 PACK RECEIVED VTR  (BALS=174  TOT=174)
+    11-02  07:06 pm  PEB votes retrieved for P0149851
+    11-02  07:06 pm  SPP file record created for P0149851
+    11-02  07:10 pm  0150-Time stamp mismatch (Reply was: Update)
+    11-02  07:10 pm                                                   PRC 0150 PACK RECEIVED VTR  (BALS=217  TOT=217)
+    11-02  07:07 pm  PEB votes retrieved for P0143952
+    11-02  07:07 pm  SPP file record created for P0143952
+    11-02  07:10 pm  0177-Time stamp mismatch (Reply was: Update)
+    11-02  07:10 pm                                                   PRC 0177 PACK RECEIVED VTR  (BALS=484  TOT=484)
+    11-02  07:07 pm  PEB votes retrieved for P0155495
+    11-02  07:07 pm  SPP file record created for P0155495
+    11-02  07:11 pm                                                   PRC 0215 PACK RECEIVED VTR  (BALS=235  TOT=235)
+    11-02  07:08 pm  PEB votes retrieved for P0153604
+    11-02  07:08 pm  SPP file record created for P0153604
+    11-02  07:11 pm  0176-Time stamp mismatch (Reply was: Update)
+    11-02  07:11 pm                                                   PRC 0176 PACK RECEIVED VTR  (BALS=295  TOT=295)
+    11-02  07:08 pm  PEB votes retrieved for P0144031
+    11-02  07:08 pm  SPP file record created for P0144031
+    11-02  07:11 pm                                                   PRC 0210 PACK RECEIVED VTR  (BALS=404  TOT=404)
+    11-02  07:08 pm  PEB votes retrieved for P0114327
+    11-02  07:08 pm  SPP file record created for P0114327
+    11-02  07:12 pm  0146-Time stamp mismatch (Reply was: Update)
+    11-02  07:12 pm                                                   PRC 0146 PACK RECEIVED VTR  (BALS=78  TOT=78)
+    11-02  07:09 pm  PEB votes retrieved for P0145413
+    11-02  07:09 pm  SPP file record created for P0145413
+    11-02  07:12 pm  0136-Time stamp mismatch (Reply was: Update)
+    11-02  07:12 pm                                                   PRC 0136 PACK RECEIVED VTR  (BALS=527  TOT=527)
+    11-02  07:09 pm  PEB votes retrieved for P0152394
+    11-02  07:09 pm  SPP file record created for P0152394
+    11-02  07:13 pm  0105-Time stamp mismatch (Reply was: Update)
+    11-02  07:13 pm                                                   PRC 0105 PACK RECEIVED VTR  (BALS=357  TOT=357)
+    11-02  07:10 pm  PEB votes retrieved for P0145101
+    11-02  07:10 pm  SPP file record created for P0145101
+    11-02  07:13 pm  0133-Time stamp mismatch (Reply was: Update)
+    11-02  07:13 pm                                                   PRC 0133 PACK RECEIVED VTR  (BALS=768  TOT=768)
+    11-02  07:10 pm  PEB votes retrieved for P0153738
+    11-02  07:10 pm  SPP file record created for P0153738
+    11-02  07:14 pm  0111-Time stamp mismatch (Reply was: Update)
+    11-02  07:14 pm                                                   PRC 0111 PACK RECEIVED VTR  (BALS=512  TOT=512)
+    11-02  07:11 pm  PEB votes retrieved for P0154851
+    11-02  07:11 pm  SPP file record created for P0154851
+    11-02  07:14 pm  0123-Time stamp mismatch (Reply was: Update)
+    11-02  07:14 pm                                                   PRC 0123 PACK RECEIVED VTR  (BALS=492  TOT=492)
+    11-02  07:11 pm  PEB votes retrieved for P0148529
+    11-02  07:11 pm  SPP file record created for P0148529
+    11-02  07:14 pm  0169-Time stamp mismatch (Reply was: Update)
+    11-02  07:14 pm                                                   PRC 0169 PACK RECEIVED VTR  (BALS=229  TOT=229)
+    11-02  07:11 pm  PEB votes retrieved for P0147363
+    11-02  07:11 pm  SPP file record created for P0147363
+    11-02  07:14 pm  0157-Time stamp mismatch (Reply was: Update)
+    11-02  07:14 pm                                                   PRC 0157 PACK RECEIVED VTR  (BALS=507  TOT=507)
+    11-02  07:11 pm  PEB votes retrieved for P0154728
+    11-02  07:11 pm  SPP file record created for P0154728
+    11-02  07:15 pm  0131-Time stamp mismatch (Reply was: Update)
+    11-02  07:15 pm                                                   PRC 0131 PACK RECEIVED VTR  (BALS=527  TOT=527)
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  07:12 pm  PEB votes retrieved for P0154702
+    11-02  07:12 pm  SPP file record created for P0154702
+    11-02  07:15 pm  0170-Time stamp mismatch (Reply was: Update)
+    11-02  07:15 pm                                                   PRC 0170 PACK RECEIVED VTR  (BALS=608  TOT=608)
+    11-02  07:12 pm  PEB votes retrieved for P0124010
+    11-02  07:12 pm  SPP file record created for P0124010
+    11-02  07:15 pm  0141-Time stamp mismatch (Reply was: Update)
+    11-02  07:15 pm                                                   PRC 0141 PACK RECEIVED VTR
+    11-02  07:12 pm  PEB votes retrieved for P0155164
+    11-02  07:12 pm  SPP file record created for P0155164
+    11-02  07:15 pm                                                   PRC 0216 PACK RECEIVED VTR  (BALS=757  TOT=757)
+    11-02  07:12 pm  PEB votes retrieved for P0155580
+    11-02  07:12 pm  SPP file record created for P0155580
+    11-02  07:16 pm  0115-Time stamp mismatch (Reply was: Update)
+    11-02  07:16 pm                                                   PRC 0115 PACK RECEIVED VTR  (BALS=517  TOT=517)
+    11-02  07:13 pm  PEB votes retrieved for P0153512
+    11-02  07:13 pm  SPP file record created for P0153512
+    11-02  07:16 pm                                                   PRC 0192 PACK RECEIVED VTR  (BALS=302  TOT=302)
+    11-02  07:13 pm  PEB votes retrieved for P0149510
+    11-02  07:13 pm  SPP file record created for P0149510
+    11-02  07:16 pm                                                   PRC 0193 PACK RECEIVED VTR  (BALS=902  TOT=902)
+    11-02  07:13 pm  PEB votes retrieved for P0134406
+    11-02  07:13 pm  SPP file record created for P0134406
+    11-02  07:16 pm  0145-Time stamp mismatch (Reply was: Update)
+    11-02  07:16 pm                                                   PRC 0145 PACK RECEIVED VTR  (BALS=479  TOT=479)
+    11-02  07:13 pm  PEB votes retrieved for P0145094
+    11-02  07:13 pm  SPP file record created for P0145094
+    11-02  07:17 pm  0124-Time stamp mismatch (Reply was: Update)
+    11-02  07:17 pm                                                   PRC 0124 PACK RECEIVED VTR  (BALS=912  TOT=912)
+    11-02  07:13 pm  PEB votes retrieved for P0232683
+    11-02  07:13 pm  SPP file record created for P0232683
+    11-02  07:17 pm  0155-Time stamp mismatch (Reply was: Update)
+    11-02  07:17 pm                                                   PRC 0155 PACK RECEIVED VTR  (BALS=202  TOT=202)
+    11-02  07:14 pm  PEB votes retrieved for P0144755
+    11-02  07:14 pm  SPP file record created for P0144755
+    11-02  07:17 pm  0120-Time stamp mismatch (Reply was: Update)
+    11-02  07:17 pm                                                   PRC 0120 PACK RECEIVED VTR  (BALS=382  TOT=382)
+    11-02  07:14 pm  PEB votes retrieved for P0151573
+    11-02  07:14 pm  SPP file record created for P0151573
+    11-02  07:17 pm  0127-Time stamp mismatch (Reply was: Update)
+    11-02  07:17 pm                                                   PRC 0127 PACK RECEIVED VTR  (BALS=482  TOT=482)
+    11-02  07:14 pm  PEB votes retrieved for P0145044
+    11-02  07:14 pm  SPP file record created for P0145044
+    11-02  07:18 pm  0166-Time stamp mismatch (Reply was: Update)
+    11-02  07:18 pm                                                   PRC 0166 PACK RECEIVED VTR  (BALS=212  TOT=212)
+    11-02  07:14 pm  PEB votes retrieved for P0143854
+    11-02  07:14 pm  SPP file record created for P0143854
+    11-02  07:18 pm  0126-Time stamp mismatch (Reply was: Update)
+    11-02  07:18 pm                                                   PRC 0126 PACK RECEIVED VTR  (BALS=469  TOT=469)
+    11-02  07:15 pm  PEB votes retrieved for P0154595
+    11-02  07:15 pm  SPP file record created for P0154595
+    11-02  07:18 pm  0167-Time stamp mismatch (Reply was: Update)
+    11-02  07:18 pm                                                   PRC 0167 PACK RECEIVED VTR  (BALS=146  TOT=146)
+    11-02  07:15 pm  PEB votes retrieved for P0153967
+    11-02  07:15 pm  SPP file record created for P0153967
+    11-02  07:18 pm  0171-Time stamp mismatch (Reply was: Update)
+    11-02  07:18 pm                                                   PRC 0171 PACK RECEIVED VTR  (BALS=415  TOT=415)
+    11-02  07:15 pm  PEB votes retrieved for P0119865
+    11-02  07:15 pm  SPP file record created for P0119865
+    11-02  07:19 pm  0164-Time stamp mismatch (Reply was: Update)
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  07:19 pm                                                   PRC 0164 PACK RECEIVED VTR  (BALS=499  TOT=499)
+    11-02  07:26 pm  PEB votes retrieved for P0144333
+    11-02  07:26 pm  SPP file record created for P0144333
+    11-02  07:29 pm                                                   PRC 0185 PACK RECEIVED VTR  (BALS=188  TOT=188)
+    11-02  07:26 pm  PEB votes retrieved for P0153723
+    11-02  07:26 pm  SPP file record created for P0153723
+    11-02  07:29 pm  0102-Time stamp mismatch (Reply was: Update)
+    11-02  07:29 pm                                                   PRC 0102 PACK RECEIVED VTR  (BALS=232  TOT=232)
+    11-02  07:26 pm  PEB votes retrieved for P0123096
+    11-02  07:26 pm  SPP file record created for P0123096
+    11-02  07:29 pm                                                   PRC 0214 PACK RECEIVED VTR  (BALS=329  TOT=329)
+    11-02  07:26 pm  PEB votes retrieved for P0134467
+    11-02  07:26 pm  SPP file record created for P0134467
+    11-02  07:30 pm  0125-Time stamp mismatch (Reply was: Update)
+    11-02  07:30 pm                                                   PRC 0125 PACK RECEIVED VTR  (BALS=556  TOT=556)
+    11-02  07:27 pm  PEB votes retrieved for P0105754
+    11-02  07:27 pm  SPP file record created for P0105754
+    11-02  07:30 pm  0110-Time stamp mismatch (Reply was: Update)
+    11-02  07:30 pm                                                   PRC 0110 PACK RECEIVED VTR  (BALS=816  TOT=816)
+    11-02  07:27 pm  PEB votes retrieved for P0123059
+    11-02  07:27 pm  SPP file record created for P0123059
+    11-02  07:30 pm  0140-Time stamp mismatch (Reply was: Update)
+    11-02  07:30 pm                                                   PRC 0140 PACK RECEIVED VTR  (BALS=644  TOT=644)
+    11-02  07:27 pm  PEB votes retrieved for P0232692
+    11-02  07:27 pm  SPP file record created for P0232692
+    11-02  07:31 pm  0151-Time stamp mismatch (Reply was: Update)
+    11-02  07:31 pm                                                   PRC 0151 PACK RECEIVED VTR  (BALS=933  TOT=933)
+    11-02  07:28 pm  PEB votes retrieved for P0150779
+    11-02  07:28 pm  SPP file record created for P0150779
+    11-02  07:31 pm  0130-Time stamp mismatch (Reply was: Update)
+    11-02  07:31 pm                                                   PRC 0130 PACK RECEIVED VTR  (BALS=888  TOT=888)
+    11-02  07:28 pm  PEB votes retrieved for P0153513
+    11-02  07:28 pm  SPP file record created for P0153513
+    11-02  07:31 pm                                                   PRC 0208 PACK RECEIVED VTR  (BALS=284  TOT=284)
+    11-02  07:28 pm  PEB votes retrieved for P0154276
+    11-02  07:28 pm  SPP file record created for P0154276
+    11-02  07:32 pm                                                   PRC 0183 PACK RECEIVED VTR  (BALS=331  TOT=331)
+    11-02  07:29 pm  PEB votes retrieved for P0119320
+    11-02  07:29 pm  SPP file record created for P0119320
+    11-02  07:32 pm                                                   PRC 0219 PACK RECEIVED VTR  (BALS=867  TOT=867)
+    11-02  07:29 pm  PEB votes retrieved for P0232688
+    11-02  07:29 pm  SPP file record created for P0232688
+    11-02  07:32 pm  0117-Terminal(s) not closed (Reply was: Update)
+    11-02  07:29 pm  PEB votes retrieved for P0154640
+    11-02  07:29 pm  SPP file record created for P0154640
+    11-02  07:32 pm  0117-Time stamp mismatch (Reply was: Update)
+    11-02  07:32 pm                                                   PRC 0117 PACK RECEIVED VTR  (BALS=290  TOT=290)
+    11-02  07:33 pm  0118-Time stamp mismatch (Reply was: Update)
+    11-02  07:33 pm                                                   PRC 0118 PACK RECEIVED VTR  (BALS=167  TOT=167)
+    11-02  07:29 pm  PEB votes retrieved for P0143397
+    11-02  07:29 pm  SPP file record created for P0143397
+    11-02  07:33 pm  0179-Time stamp mismatch (Reply was: Update)
+    11-02  07:33 pm                                                   PRC 0179 PACK RECEIVED VTR  (BALS=629  TOT=629)
+    11-02  07:30 pm  PEB votes retrieved for P0154796
+    11-02  07:30 pm  SPP file record created for P0154796
+    11-02  07:33 pm                                                   PRC 0211 PACK RECEIVED VTR  (BALS=445  TOT=445)
+    11-02  07:30 pm  PEB votes retrieved for P0117629
+    11-02  07:30 pm  SPP file record created for P0117629
+    11-02  07:33 pm  0158-Time stamp mismatch (Reply was: Update)
+    11-02  07:33 pm                                                   PRC 0158 PACK RECEIVED VTR  (BALS=1411  TOT=1411)
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  07:30 pm  PEB votes retrieved for P0150731
+    11-02  07:30 pm  SPP file record created for P0150731
+    11-02  07:33 pm                                                   PRC 0181 PACK RECEIVED VTR  (BALS=622  TOT=622)
+    11-02  07:30 pm  PEB votes retrieved for P0141725
+    11-02  07:30 pm  SPP file record created for P0141725
+    11-02  07:34 pm  0159-Time stamp mismatch (Reply was: Update)
+    11-02  07:34 pm                                                   PRC 0159 PACK RECEIVED VTR  (BALS=477  TOT=477)
+    11-02  07:34 pm                                                   PRC 0209 PACK RECEIVED VTR  (BALS=152  TOT=152)
+    11-02  07:31 pm  PEB votes retrieved for P0144700
+    11-02  07:31 pm  SPP file record created for P0144700
+    11-02  07:31 pm  PEB votes retrieved for P0137874
+    11-02  07:31 pm  SPP file record created for P0137874
+    11-02  07:35 pm  0107-Time stamp mismatch (Reply was: Update)
+    11-02  07:35 pm                                                   PRC 0107 PACK RECEIVED VTR  (BALS=435  TOT=435)
+    11-02  07:32 pm  PEB votes retrieved for P0124003
+    11-02  07:32 pm  SPP file record created for P0124003
+    11-02  07:35 pm                                                   PRC 0206 PACK RECEIVED VTR  (BALS=699  TOT=699)
+    11-02  07:33 pm  PEB votes retrieved for P0155024
+    11-02  07:33 pm  SPP file record created for P0155024
+    11-02  07:36 pm  0163-Time stamp mismatch (Reply was: Update)
+    11-02  07:36 pm                                                   PRC 0163 PACK RECEIVED VTR  (BALS=180  TOT=180)
+    11-02  07:33 pm  PEB votes retrieved for P0153764
+    11-02  07:33 pm  SPP file record created for P0153764
+    11-02  07:36 pm  0116-Time stamp mismatch (Reply was: Update)
+    11-02  07:36 pm                                                   PRC 0116 PACK RECEIVED VTR  (BALS=388  TOT=388)
+    11-02  07:33 pm  PEB votes retrieved for P0153762
+    11-02  07:33 pm  SPP file record created for P0153762
+    11-02  07:37 pm  0156-Time stamp mismatch (Reply was: Update)
+    11-02  07:37 pm                                                   PRC 0156 PACK RECEIVED VTR  (BALS=130  TOT=130)
+    11-02  07:33 pm  PEB votes retrieved for P0145881
+    11-02  07:33 pm  SPP file record created for P0145881
+    11-02  07:37 pm  0144-Time stamp mismatch (Reply was: Update)
+    11-02  07:37 pm                                                   PRC 0144 PACK RECEIVED VTR  (BALS=83  TOT=83)
+    11-02  07:34 pm  PEB votes retrieved for P0100135
+    11-02  07:34 pm  SPP file record created for P0100135
+    11-02  07:37 pm  0137-Time stamp mismatch (Reply was: Update)
+    11-02  07:37 pm                                                   PRC 0137 PACK RECEIVED VTR  (BALS=79  TOT=79)
+    11-02  07:43 pm  PEB votes retrieved for P0140444
+    11-02  07:43 pm  SPP file record created for P0140444
+    11-02  07:46 pm  0122-Time stamp mismatch (Reply was: Update)
+    11-02  07:46 pm                                                   PRC 0122 PACK RECEIVED VTR  (BALS=328  TOT=328)
+    11-02  07:43 pm  PEB votes retrieved for P0155614
+    11-02  07:43 pm  SPP file record created for P0155614
+    11-02  07:46 pm                                                   PRC 0188 PACK RECEIVED VTR  (BALS=376  TOT=376)
+    11-02  07:43 pm  PEB votes retrieved for P0119324
+    11-02  07:43 pm  SPP file record created for P0119324
+    11-02  07:47 pm  0109-Time stamp mismatch (Reply was: Update)
+    11-02  07:47 pm                                                   PRC 0109 PACK RECEIVED VTR  (BALS=1034  TOT=1034)
+    11-02  07:44 pm  PEB votes retrieved for P0112600
+    11-02  07:44 pm  SPP file record created for P0112600
+    11-02  07:47 pm  0103-Time stamp mismatch (Reply was: Update)
+    11-02  07:47 pm                                                   PRC 0103 PACK RECEIVED VTR  (BALS=64  TOT=64)
+    11-02  07:44 pm  PEB votes retrieved for P0117971
+    11-02  07:44 pm  SPP file record created for P0117971
+    11-02  07:47 pm  0121-Time stamp mismatch (Reply was: Update)
+    11-02  07:47 pm                                                   PRC 0121 PACK RECEIVED VTR  (BALS=1068  TOT=1068)
+    11-02  07:44 pm  PEB votes retrieved for P0135177
+    11-02  07:44 pm  SPP file record created for P0135177
+    11-02  07:48 pm  0112-Time stamp mismatch (Reply was: Update)
+    11-02  07:48 pm                                                   PRC 0112 PACK RECEIVED VTR  (BALS=288  TOT=288)
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  07:44 pm  PEB votes retrieved for P0154966
+    11-02  07:44 pm  SPP file record created for P0154966
+    11-02  07:48 pm                                                   PRC 0207 PACK RECEIVED VTR  (BALS=829  TOT=829)
+    11-02  07:45 pm  PEB votes retrieved for P0145296
+    11-02  07:45 pm  SPP file record created for P0145296
+    11-02  07:48 pm                                                   PRC 0195 PACK RECEIVED VTR  (BALS=501  TOT=501)
+    11-02  07:45 pm  PEB votes retrieved for P0154989
+    11-02  07:45 pm  SPP file record created for P0154989
+    11-02  07:48 pm                                                   PRC 0189 PACK RECEIVED VTR  (BALS=317  TOT=317)
+    11-02  07:45 pm  PEB votes retrieved for P0152300
+    11-02  07:45 pm  SPP file record created for P0152300
+    11-02  07:48 pm                                                   PRC 0199 PACK RECEIVED VTR  (BALS=1025  TOT=1025)
+    11-02  07:45 pm  PEB votes retrieved for P0100455
+    11-02  07:45 pm  SPP file record created for P0100455
+    11-02  07:49 pm  0173-Time stamp mismatch (Reply was: Update)
+    11-02  07:49 pm                                                   PRC 0173 PACK RECEIVED VTR  (BALS=669  TOT=669)
+    11-02  07:46 pm  PEB votes retrieved for P0150433
+    11-02  07:46 pm  SPP file record created for P0150433
+    11-02  07:49 pm                                                   PRC 0182 PACK RECEIVED VTR  (BALS=610  TOT=610)
+    11-02  07:46 pm  PEB votes retrieved for P0154580
+    11-02  07:46 pm  SPP file record created for P0154580
+    11-02  07:49 pm                                                   PRC 0201 PACK RECEIVED VTR  (BALS=855  TOT=855)
+    11-02  07:46 pm  PEB votes retrieved for P0141218
+    11-02  07:46 pm  SPP file record created for P0141218
+    11-02  07:49 pm  0172-Time stamp mismatch (Reply was: Update)
+    11-02  07:50 pm                                                   PRC 0172 PACK RECEIVED VTR  (BALS=751  TOT=751)
+    11-02  07:46 pm  PEB votes retrieved for P0145355
+    11-02  07:46 pm  SPP file record created for P0145355
+    11-02  07:50 pm                                                   PRC 0217 PACK RECEIVED VTR  (BALS=377  TOT=377)
+    11-02  07:47 pm  PEB votes retrieved for P0154090
+    11-02  07:47 pm  SPP file record created for P0154090
+    11-02  07:50 pm                                                   PRC 0194 PACK RECEIVED VTR  (BALS=637  TOT=637)
+    11-02  07:47 pm  PEB votes retrieved for P0115488
+    11-02  07:47 pm  SPP file record created for P0115488
+    11-02  07:50 pm  0153-Time stamp mismatch (Reply was: Update)
+    11-02  07:50 pm                                                   PRC 0153 PACK RECEIVED VTR  (BALS=382  TOT=382)
+    11-02  07:47 pm  PEB votes retrieved for P0145463
+    11-02  07:47 pm  SPP file record created for P0145463
+    11-02  07:51 pm                                                   PRC 0197 PACK RECEIVED VTR  (BALS=1041  TOT=1041)
+    11-02  07:48 pm  PEB votes retrieved for P0141006
+    11-02  07:48 pm  SPP file record created for P0141006
+    11-02  07:51 pm  0114-Time stamp mismatch (Reply was: Update)
+    11-02  07:51 pm                                                   PRC 0114 PACK RECEIVED VTR  (BALS=762  TOT=762)
+    11-02  07:48 pm  PEB votes retrieved for P0145280
+    11-02  07:48 pm  SPP file record created for P0145280
+    11-02  07:51 pm  0154-Time stamp mismatch (Reply was: Update)
+    11-02  07:51 pm                                                   PRC 0154 PACK RECEIVED VTR  (BALS=573  TOT=573)
+    11-02  07:48 pm  PEB votes retrieved for P0155732
+    11-02  07:48 pm  SPP file record created for P0155732
+    11-02  07:51 pm  0162-Time stamp mismatch (Reply was: Update)
+    11-02  07:51 pm                                                   PRC 0162 PACK RECEIVED VTR  (BALS=902  TOT=902)
+    11-02  07:48 pm  PEB votes retrieved for P0145569
+    11-02  07:48 pm  SPP file record created for P0145569
+    11-02  07:51 pm                                                   PRC 0218 PACK RECEIVED VTR  (BALS=564  TOT=564)
+    11-02  07:49 pm  PEB votes retrieved for P0145516
+    11-02  07:49 pm  SPP file record created for P0145516
+    11-02  07:52 pm                                                   PRC 0202 PACK RECEIVED VTR  (BALS=1029  TOT=1029)
+    11-02  07:49 pm  PEB votes retrieved for P0116621
+    11-02  07:49 pm  SPP file record created for P0116621
+    11-02  07:52 pm  0168-Time stamp mismatch (Reply was: Update)
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  07:52 pm                                                   PRC 0168 PACK RECEIVED VTR  (BALS=161  TOT=161)
+    11-02  07:52 pm                                                   PRC 0204 PACK RECEIVED VTR  (BALS=798  TOT=798)
+    11-02  07:49 pm  PEB votes retrieved for P0229438
+    11-02  07:49 pm  SPP file record created for P0229438
+    11-02  07:59 pm  PEB votes retrieved for P0147727
+    11-02  07:59 pm  SPP file record created for P0147727
+    11-02  08:02 pm  0135-Time stamp mismatch (Reply was: Update)
+    11-02  08:02 pm                                                   PRC 0135 PACK RECEIVED VTR  (BALS=859  TOT=859)
+    11-02  07:59 pm  PEB votes retrieved for P0145262
+    11-02  07:59 pm  SPP file record created for P0145262
+    11-02  08:03 pm                                                   PRC 0205 PACK RECEIVED VTR  (BALS=433  TOT=433)
+    11-02  08:00 pm  PEB votes retrieved for P0100325
+    11-02  08:00 pm  SPP file record created for P0100325
+    11-02  08:03 pm  0119-Time stamp mismatch (Reply was: Update)
+    11-02  08:03 pm                                                   PRC 0119 PACK RECEIVED VTR  (BALS=555  TOT=555)
+    11-02  08:00 pm  PEB votes retrieved for P0149386
+    11-02  08:00 pm  SPP file record created for P0149386
+    11-02  08:03 pm  0175-Time stamp mismatch (Reply was: Update)
+    11-02  08:03 pm                                                   PRC 0175 PACK RECEIVED VTR  (BALS=627  TOT=627)
+    11-02  08:00 pm  PEB votes retrieved for P0154159
+    11-02  08:00 pm  SPP file record created for P0154159
+    11-02  08:04 pm  0165-Time stamp mismatch (Reply was: Update)
+    11-02  08:04 pm                                                   PRC 0165 PACK RECEIVED VTR  (BALS=1349  TOT=1349)
+    11-02  08:00 pm  PEB votes retrieved for P0154480
+    11-02  08:00 pm  SPP file record created for P0154480
+    11-02  08:04 pm                                                   PRC 0186 PACK RECEIVED VTR  (BALS=96  TOT=96)
+    11-02  08:01 pm  PEB votes retrieved for P0140432
+    11-02  08:01 pm  SPP file record created for P0140432
+    11-02  08:04 pm                                                   PRC 0196 PACK RECEIVED VTR  (BALS=486  TOT=486)
+    11-02  08:01 pm  PEB votes retrieved for P0101272
+    11-02  08:01 pm  SPP file record created for P0101272
+    11-02  08:04 pm  0152-Time stamp mismatch (Reply was: Update)
+    11-02  08:04 pm                                                   PRC 0152 PACK RECEIVED VTR  (BALS=215  TOT=215)
+    11-02  08:01 pm  PEB votes retrieved for P0142837
+    11-02  08:01 pm  SPP file record created for P0142837
+    11-02  08:04 pm  0174-Time stamp mismatch (Reply was: Update)
+    11-02  08:04 pm                                                   PRC 0174 PACK RECEIVED VTR  (BALS=1311  TOT=1311)
+    11-02  08:01 pm  PEB votes retrieved for P0145143
+    11-02  08:01 pm  SPP file record created for P0145143
+    11-02  08:05 pm                                                   PRC 0220 PACK RECEIVED VTR  (BALS=684  TOT=684)
+    11-02  08:02 pm  PEB votes retrieved for P0112099
+    11-02  08:02 pm  SPP file record created for P0112099
+    11-02  08:05 pm  0143-Time stamp mismatch (Reply was: Update)
+    11-02  08:05 pm                                                   PRC 0143 PACK RECEIVED VTR  (BALS=318  TOT=318)
+    11-02  08:02 pm  PEB votes retrieved for P0151002
+    11-02  08:02 pm  SPP file record created for P0151002
+    11-02  08:06 pm  0128-Time stamp mismatch (Reply was: Update)
+    11-02  08:06 pm                                                   PRC 0128 PACK RECEIVED VTR  (BALS=936  TOT=936)
+    11-02  08:04 pm  PEB votes retrieved for P0113466
+    11-02  08:04 pm  SPP file record created for P0113466
+    11-02  08:07 pm                                                   PRC 0203 PACK RECEIVED VTR  (BALS=109  TOT=109)
+    11-02  08:04 pm  PEB votes retrieved for P0137057
+    11-02  08:04 pm  SPP file record created for P0137057
+    11-02  08:08 pm  0129-Time stamp mismatch (Reply was: Update)
+    11-02  08:08 pm                                                   PRC 0129 PACK RECEIVED VTR  (BALS=638  TOT=638)
+    11-02  08:04 pm  PEB votes retrieved for P0100218
+    11-02  08:04 pm  SPP file record created for P0100218
+    11-02  08:08 pm  0132-Time stamp mismatch (Reply was: Update)
+    11-02  08:08 pm                                                   PRC 0132 PACK RECEIVED VTR  (BALS=933  TOT=933)
+    11-02  08:06 pm  PEB votes retrieved for P0229444
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  08:06 pm  SPP file record created for P0229444
+    11-02  08:10 pm  0160-Time stamp mismatch (Reply was: Update)
+    11-02  08:10 pm                                                   PRC 0160 PACK RECEIVED VTR  (BALS=680  TOT=680)
+    11-02  08:06 pm  PEB votes retrieved for P0146571
+    11-02  08:06 pm  SPP file record created for P0146571
+    11-02  08:10 pm  0178-Time stamp mismatch (Reply was: Update)
+    11-02  08:10 pm                                                   PRC 0178 PACK RECEIVED VTR  (BALS=72  TOT=72)
+    11-02  08:07 pm  PEB votes retrieved for P0146451
+    11-02  08:07 pm  SPP file record created for P0146451
+    11-02  08:10 pm  0138-Time stamp mismatch (Reply was: Update)
+    11-02  08:10 pm                                                   PRC 0138 PACK RECEIVED VTR  (BALS=698  TOT=698)
+    11-02  08:07 pm  PEB votes retrieved for P0147856
+    11-02  08:07 pm  SPP file record created for P0147856
+    11-02  08:12 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+    11-02  08:09 pm  PEB votes retrieved for P0147856
+    11-02  08:09 pm  SPP file record created for P0147856
+    11-02  08:13 pm  0190-Terminal(s) not closed (Reply was: Don't update)
+    11-02  08:10 pm  PEB votes retrieved for P0124085
+    11-02  08:10 pm  SPP file record created for P0124085
+    11-02  08:13 pm  0113-Time stamp mismatch (Reply was: Update)
+    11-02  08:13 pm                                                   PRC 0113 PACK RECEIVED VTR  (BALS=531  TOT=531)
+    11-02  08:10 pm  PEB votes retrieved for P0229437
+    11-02  08:10 pm  SPP file record created for P0229437
+    11-02  08:13 pm  0108-Time stamp mismatch (Reply was: Update)
+    11-02  08:13 pm                                                   PRC 0108 PACK RECEIVED VTR  (BALS=1421  TOT=1421)
+    11-02  08:10 pm  PEB votes retrieved for P0119617
+    11-02  08:10 pm  SPP file record created for P0119617
+    11-02  08:15 pm  0161-Time stamp mismatch (Reply was: Update)
+    11-02  08:15 pm                                                   PRC 0161 PACK RECEIVED VTR  (BALS=935  TOT=935)
+    11-02  08:12 pm  PEB votes retrieved for P0117704
+    11-02  08:12 pm  SPP file record created for P0117704
+    11-02  08:15 pm  0104-Time stamp mismatch (Reply was: Update)
+    11-02  08:15 pm                                                   PRC 0104 PACK RECEIVED VTR  (BALS=583  TOT=583)
+    11-02  08:12 pm  PEB votes retrieved for P0149336
+    11-02  08:12 pm  SPP file record created for P0149336
+    11-02  08:15 pm  0180-Time stamp mismatch (Reply was: Update)
+    11-02  08:15 pm                                                   PRC 0180 PACK RECEIVED VTR  (BALS=1146  TOT=1146)
+    11-02  08:12 pm  PEB votes retrieved for P0151323
+    11-02  08:12 pm  SPP file record created for P0151323
+    11-02  08:16 pm  0191-Terminal(s) not closed (Reply was: Update)
+    11-02  08:16 pm                                                   PRC 0191 PACK RECEIVED VTR  (BALS=285  TOT=285)
+    11-02  08:13 pm  PEB votes retrieved for P0153674
+    11-02  08:13 pm  SPP file record created for P0153674
+    11-02  08:16 pm  0139-Time stamp mismatch (Reply was: Update)
+    11-02  08:16 pm                                                   PRC 0139 PACK RECEIVED VTR  (BALS=567  TOT=567)
+    11-02  08:18 pm  PEB votes retrieved for P0147856
+    11-02  08:18 pm  SPP file record created for P0147856
+    11-02  08:21 pm  0190-Terminal(s) not closed (Reply was: Update)
+    11-02  08:21 pm                                                   PRC 0190 PACK RECEIVED VTR  (BALS=578  TOT=578)
+    11-02  08:41 pm  PEB votes retrieved for P0104174
+    11-02  08:41 pm  SPP file record created for P0104174
+    11-02  08:44 pm  0142-Time stamp mismatch (Reply was: Update)
+    11-02  08:44 pm                                                   PRC 0142 PACK RECEIVED VTR  (BALS=769  TOT=769)
+    11-02  08:41 pm  PEB votes retrieved for P0133402
+    11-02  08:41 pm  SPP file record created for P0133402
+    11-02  08:44 pm                                                   PRC 0212 PACK RECEIVED VTR  (BALS=635  TOT=635)
+    11-02  08:45 pm                                                   PRC 0187 PACK RECEIVED VTR  (BALS=303  TOT=303)
+    11-02  08:41 pm  PEB votes retrieved for P0150414
+    11-02  08:41 pm  SPP file record created for P0150414
+    11-02  08:42 pm  PEB votes retrieved for P0154352
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  08:42 pm  SPP file record created for P0154352
+    11-02  08:45 pm  0134-Time stamp mismatch (Reply was: Update)
+    11-02  08:45 pm                                                   PRC 0134 PACK RECEIVED VTR  (BALS=184  TOT=184)
+    11-02  08:42 pm  STOP PROCESS PEBS
+    11-02  08:48 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  08:48 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  08:49 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  08:49 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  08:50 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  08:51 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:05 pm                                                   PRC 0750 MANUAL ENTRY
+    11-02  09:12 pm                                                   PRC 0850 MANUAL ENTRY
+    11-02  09:13 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:13 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:13 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:13 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:16 pm                                                   PRC 0900 MANUAL ENTRY
+    11-02  09:17 pm                                                   PRC 0950 MANUAL ENTRY
+    11-02  09:20 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:20 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:21 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:21 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:21 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:21 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:28 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-02  09:38 pm  START PROCESS PEBS
+    11-02  09:38 pm  PEB votes retrieved for P0124010
+    11-02  09:38 pm  SPP file record created for P0124010
+    11-02  09:41 pm  0141-Time stamp mismatch (Reply was: Update)
+    11-02  09:41 pm  0141-Precinct already updated (Pack suspended)
+    11-02  09:39 pm  STOP PROCESS PEBS
+    11-02  09:39 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-02  09:39 am  CANVASS - BLOCK STYLE WAS PRINTED TO EL119.LST
+    11-02  09:44 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  09:44 pm  START PROCESS PEBS
+    11-02  09:45 pm  P??????? - The encrypted EQC block CRC check failed
+    11-02  09:45 pm  SPP file create failed
+    11-02  09:46 pm  STOP PROCESS PEBS
+    11-02  09:46 pm  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:46 pm  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-02  09:48 pm  START PROCESS PEBS
+    11-02  09:48 pm  PEB votes retrieved for P0125270
+    11-02  09:48 pm  SPP file record created for P0125270
+    11-02  09:52 pm  0148-Terminal(s) not closed (Pack suspended)
+    11-02  09:52 pm  0148-Time stamp mismatch (Reply was: Update)
+    11-02  09:52 pm                                                   PRC 0148 PACK RECEIVED VTR  (BALS=375  TOT=375)
+    11-02  09:49 pm  STOP PROCESS PEBS
+    11-02  09:58 pm                                                   PRC 0750 MANUAL ENTRY
+    11-02  10:17 pm  START PROCESS PEBS
+    11-02  10:18 pm  PEB votes retrieved for P0142261
+    11-02  10:18 pm  SPP file record created for P0142261
+    11-02  10:21 pm  0106-Time stamp mismatch (Reply was: Update)
+    11-02  10:21 pm                                                   PRC 0106 PACK RECEIVED VTR  (BALS=282  TOT=282)
+    11-02  10:18 pm  PEB votes retrieved for P0114207
+    11-02  10:18 pm  SPP file record created for P0114207
+    11-02  10:22 pm  0141-Time stamp mismatch (Reply was: Update)
+    11-02  10:22 pm  0141-Precinct already updated (Pack suspended)
+    11-02  10:19 pm  PEB votes retrieved for P0117873
+    11-02  10:19 pm  SPP file record created for P0117873
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-02  10:22 pm  0141-Time stamp mismatch (Reply was: Update)
+    11-02  10:22 pm                                                   PRC 0141 ADDED TO FROM PACK VTR  (BALS=505  TOT=505)
+    11-02  10:19 pm  STOP PROCESS PEBS
+    11-02  10:19 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-02  10:27 pm                                                   PRC 0800 MANUAL ENTRY
+    11-02  10:27 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-02  10:30 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+    11-02  10:31 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+    11-02  11:00 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  11:00 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-02  11:03 pm  STOP PACK ACCUMULATION
+    11-02  11:03 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-02  09:03 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-03  09:58 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-03  10:38 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-03  10:49 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-03  10:50 am  Audit Data collected for V5126144
+    11-03  10:50 am  V5126144.SPV created
+    11-03  10:50 am  V5126144.COD created
+    11-03  10:50 am
+    11-03  10:50 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-03  10:50 am  CONSOLIDATED AUDIT DATA
+    11-03  10:51 am  Flash Data GROUP 4 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-03  10:52 am  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-03  10:54 am  0101-Time stamp mismatch (Reply was: Don't update)
+    11-03  10:54 am  0103-Time stamp mismatch (Reply was: Don't update)
+    11-03  10:54 am  0110-Time stamp mismatch (Reply was: Don't update)
+    11-03  10:54 am  0148-Time stamp mismatch (Reply was: Update & stop checking)
+    11-03  10:54 am                                                   PRC 0148 PACK RECEIVED VTR  (BALS=31  TOT=406)
+    11-03  10:55 am  STOP PACK ACCUMULATION
+    11-03  10:55 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-03  11:00 am                                                   PRC 0148 RESET
+    11-03  11:00 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-03  11:09 am                                                   PRC 0148 MANUAL ENTRY-WITHOUT OV/UN
+    11-03  11:09 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-03  01:33 pm  START PROCESS PEBS
+    11-03  01:37 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-03  01:37 pm  iVotronic GROUP 3 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+
+    11-03  01:37 pm  START PACK ACCUMULATION  (Replace Mode - restarting)
+    11-03  01:34 pm  PEB votes retrieved for P0192641
+    11-03  01:34 pm  SPP file record created for P0192641
+    11-03  01:37 pm  0106-Time stamp mismatch (Reply was: Update)
+    11-03  01:37 pm                                                   PRC 0106 ADDED TO FROM PACK VTR  (BALS=276  TOT=558)
+    11-03  01:34 pm  PEB votes retrieved for P0143523
+    11-03  01:34 pm  SPP file record created for P0143523
+    11-03  01:38 pm  0106-Time stamp mismatch (Reply was: Update)
+    11-03  01:38 pm                                                   PRC 0106 ADDED TO FROM PACK VTR  (BALS=528  TOT=1086)
+    11-03  01:39 pm  STOP PACK ACCUMULATION
+    11-03  01:36 pm  STOP PROCESS PEBS
+    11-03  01:37 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-03  01:38 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+    11-03  02:27 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-03  02:27 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:24 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-04  11:24 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-04  11:26 am  START COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-04  11:27 am  Audit Data collected for V5101542
+    11-04  11:27 am  V5101542.SPV created
+    11-04  11:27 am  V5101542.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5102666
+    11-04  11:27 am  V5102666.SPV created
+    11-04  11:27 am  V5102666.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5103022
+    11-04  11:27 am  V5103022.SPV created
+    11-04  11:27 am  V5103022.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5103948
+    11-04  11:27 am  V5103948.SPV created
+    11-04  11:27 am  V5103948.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5104064
+    11-04  11:27 am  V5104064.SPV created
+    11-04  11:27 am  V5104064.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5104848
+    11-04  11:27 am  V5104848.SPV created
+    11-04  11:27 am  V5104848.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5104997
+    11-04  11:27 am  V5104997.SPV created
+    11-04  11:27 am  V5104997.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5104999
+    11-04  11:27 am  V5104999.SPV created
+    11-04  11:27 am  V5104999.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5105235
+    11-04  11:27 am  V5105235.SPV created
+    11-04  11:27 am  V5105235.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5105360
+    11-04  11:27 am  V5105360.SPV created
+    11-04  11:27 am  V5105360.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5105613
+    11-04  11:27 am  V5105613.SPV created
+    11-04  11:27 am  V5105613.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5106246
+    11-04  11:27 am  V5106246.SPV created
+    11-04  11:27 am  V5106246.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5106491
+    11-04  11:27 am  V5106491.SPV created
+    11-04  11:27 am  V5106491.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5106608
+    11-04  11:27 am  V5106608.SPV created
+    11-04  11:27 am  V5106608.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5106798
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:27 am  V5106798.SPV created
+    11-04  11:27 am  V5106798.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5106915
+    11-04  11:27 am  V5106915.SPV created
+    11-04  11:27 am  V5106915.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5107382
+    11-04  11:27 am  V5107382.SPV created
+    11-04  11:27 am  V5107382.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5108328
+    11-04  11:27 am  V5108328.SPV created
+    11-04  11:27 am  V5108328.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5109127
+    11-04  11:27 am  V5109127.SPV created
+    11-04  11:27 am  V5109127.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5109542
+    11-04  11:27 am  V5109542.SPV created
+    11-04  11:27 am  V5109542.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5110987
+    11-04  11:27 am  V5110987.SPV created
+    11-04  11:27 am  V5110987.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5111150
+    11-04  11:27 am  V5111150.SPV created
+    11-04  11:27 am  V5111150.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5111151
+    11-04  11:27 am  V5111151.SPV created
+    11-04  11:27 am  V5111151.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5111168
+    11-04  11:27 am  V5111168.SPV created
+    11-04  11:27 am  V5111168.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5111659
+    11-04  11:27 am  V5111659.SPV created
+    11-04  11:27 am  V5111659.COD created
+    11-04  11:27 am
+    11-04  11:27 am  Audit Data collected for V5112265
+    11-04  11:27 am  V5112265.SPV created
+    11-04  11:27 am  V5112265.COD created
+    11-04  11:27 am
+    11-04  11:28 am  Audit Data collected for V5113532
+    11-04  11:28 am  V5113532.SPV created
+    11-04  11:28 am  V5113532.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5113577
+    11-04  11:28 am  V5113577.SPV created
+    11-04  11:28 am  V5113577.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5113678
+    11-04  11:28 am  V5113678.SPV created
+    11-04  11:28 am  V5113678.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5113802
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:28 am  V5113802.SPV created
+    11-04  11:28 am  V5113802.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5114217
+    11-04  11:28 am  V5114217.SPV created
+    11-04  11:28 am  V5114217.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5114443
+    11-04  11:28 am  V5114443.SPV created
+    11-04  11:28 am  V5114443.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5114570
+    11-04  11:28 am  V5114570.SPV created
+    11-04  11:28 am  V5114570.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5114990
+    11-04  11:28 am  V5114990.SPV created
+    11-04  11:28 am  V5114990.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5115369
+    11-04  11:28 am  V5115369.SPV created
+    11-04  11:28 am  V5115369.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5116710
+    11-04  11:28 am  V5116710.SPV created
+    11-04  11:28 am  V5116710.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5116979
+    11-04  11:28 am  V5116979.SPV created
+    11-04  11:28 am  V5116979.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5117980
+    11-04  11:28 am  V5117980.SPV created
+    11-04  11:28 am  V5117980.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118035
+    11-04  11:28 am  V5118035.SPV created
+    11-04  11:28 am  V5118035.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118048
+    11-04  11:28 am  V5118048.SPV created
+    11-04  11:28 am  V5118048.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118101
+    11-04  11:28 am  V5118101.SPV created
+    11-04  11:28 am  V5118101.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118200
+    11-04  11:28 am  V5118200.SPV created
+    11-04  11:28 am  V5118200.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118205
+    11-04  11:28 am  V5118205.SPV created
+    11-04  11:28 am  V5118205.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118240
+    11-04  11:28 am  V5118240.SPV created
+    11-04  11:28 am  V5118240.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118322
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:28 am  V5118322.SPV created
+    11-04  11:28 am  V5118322.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118388
+    11-04  11:28 am  V5118388.SPV created
+    11-04  11:28 am  V5118388.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118414
+    11-04  11:28 am  V5118414.SPV created
+    11-04  11:28 am  V5118414.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118415
+    11-04  11:28 am  V5118415.SPV created
+    11-04  11:28 am  V5118415.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118429
+    11-04  11:28 am  V5118429.SPV created
+    11-04  11:28 am  V5118429.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118590
+    11-04  11:28 am  V5118590.SPV created
+    11-04  11:28 am  V5118590.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118592
+    11-04  11:28 am  V5118592.SPV created
+    11-04  11:28 am  V5118592.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118614
+    11-04  11:28 am  V5118614.SPV created
+    11-04  11:28 am  V5118614.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118620
+    11-04  11:28 am  V5118620.SPV created
+    11-04  11:28 am  V5118620.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118695
+    11-04  11:28 am  V5118695.SPV created
+    11-04  11:28 am  V5118695.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118735
+    11-04  11:28 am  V5118735.SPV created
+    11-04  11:28 am  V5118735.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118842
+    11-04  11:28 am  V5118842.SPV created
+    11-04  11:28 am  V5118842.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118862
+    11-04  11:28 am  V5118862.SPV created
+    11-04  11:28 am  V5118862.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5118974
+    11-04  11:28 am  V5118974.SPV created
+    11-04  11:28 am  V5118974.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119018
+    11-04  11:28 am  V5119018.SPV created
+    11-04  11:28 am  V5119018.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119070
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:28 am  V5119070.SPV created
+    11-04  11:28 am  V5119070.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119109
+    11-04  11:28 am  V5119109.SPV created
+    11-04  11:28 am  V5119109.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119110
+    11-04  11:28 am  V5119110.SPV created
+    11-04  11:28 am  V5119110.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119235
+    11-04  11:28 am  V5119235.SPV created
+    11-04  11:28 am  V5119235.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119263
+    11-04  11:28 am  V5119263.SPV created
+    11-04  11:28 am  V5119263.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119264
+    11-04  11:28 am  V5119264.SPV created
+    11-04  11:28 am  V5119264.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119570
+    11-04  11:28 am  V5119570.SPV created
+    11-04  11:28 am  V5119570.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119581
+    11-04  11:28 am  V5119581.SPV created
+    11-04  11:28 am  V5119581.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119617
+    11-04  11:28 am  V5119617.SPV created
+    11-04  11:28 am  V5119617.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119818
+    11-04  11:28 am  V5119818.SPV created
+    11-04  11:28 am  V5119818.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119820
+    11-04  11:28 am  V5119820.SPV created
+    11-04  11:28 am  V5119820.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119886
+    11-04  11:28 am  V5119886.SPV created
+    11-04  11:28 am  V5119886.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119904
+    11-04  11:28 am  V5119904.SPV created
+    11-04  11:28 am  V5119904.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5119972
+    11-04  11:28 am  V5119972.SPV created
+    11-04  11:28 am  V5119972.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120031
+    11-04  11:28 am  V5120031.SPV created
+    11-04  11:28 am  V5120031.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120128
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:28 am  V5120128.SPV created
+    11-04  11:28 am  V5120128.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120152
+    11-04  11:28 am  V5120152.SPV created
+    11-04  11:28 am  V5120152.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120228
+    11-04  11:28 am  V5120228.SPV created
+    11-04  11:28 am  V5120228.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120426
+    11-04  11:28 am  V5120426.SPV created
+    11-04  11:28 am  V5120426.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120566
+    11-04  11:28 am  V5120566.SPV created
+    11-04  11:28 am  V5120566.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120575
+    11-04  11:28 am  V5120575.SPV created
+    11-04  11:28 am  V5120575.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120616
+    11-04  11:28 am  V5120616.SPV created
+    11-04  11:28 am  V5120616.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120741
+    11-04  11:28 am  V5120741.SPV created
+    11-04  11:28 am  V5120741.COD created
+    11-04  11:28 am
+    11-04  11:28 am  Audit Data collected for V5120771
+    11-04  11:28 am  V5120771.SPV created
+    11-04  11:28 am  V5120771.COD created
+    11-04  11:28 am
+    11-04  11:29 am  Audit Data collected for V5120785
+    11-04  11:29 am  V5120785.SPV created
+    11-04  11:29 am  V5120785.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5120821
+    11-04  11:29 am  V5120821.SPV created
+    11-04  11:29 am  V5120821.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5120871
+    11-04  11:29 am  V5120871.SPV created
+    11-04  11:29 am  V5120871.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5120963
+    11-04  11:29 am  V5120963.SPV created
+    11-04  11:29 am  V5120963.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5120996
+    11-04  11:29 am  V5120996.SPV created
+    11-04  11:29 am  V5120996.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121026
+    11-04  11:29 am  V5121026.SPV created
+    11-04  11:29 am  V5121026.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121038
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:29 am  V5121038.SPV created
+    11-04  11:29 am  V5121038.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121108
+    11-04  11:29 am  V5121108.SPV created
+    11-04  11:29 am  V5121108.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121159
+    11-04  11:29 am  V5121159.SPV created
+    11-04  11:29 am  V5121159.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121192
+    11-04  11:29 am  V5121192.SPV created
+    11-04  11:29 am  V5121192.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121208
+    11-04  11:29 am  V5121208.SPV created
+    11-04  11:29 am  V5121208.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121235
+    11-04  11:29 am  V5121235.SPV created
+    11-04  11:29 am  V5121235.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121265
+    11-04  11:29 am  V5121265.SPV created
+    11-04  11:29 am  V5121265.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121280
+    11-04  11:29 am  V5121280.SPV created
+    11-04  11:29 am  V5121280.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121289
+    11-04  11:29 am  V5121289.SPV created
+    11-04  11:29 am  V5121289.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121362
+    11-04  11:29 am  V5121362.SPV created
+    11-04  11:29 am  V5121362.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121390
+    11-04  11:29 am  V5121390.SPV created
+    11-04  11:29 am  V5121390.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121457
+    11-04  11:29 am  V5121457.SPV created
+    11-04  11:29 am  V5121457.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121479
+    11-04  11:29 am  V5121479.SPV created
+    11-04  11:29 am  V5121479.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121502
+    11-04  11:29 am  V5121502.SPV created
+    11-04  11:29 am  V5121502.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121522
+    11-04  11:29 am  V5121522.SPV created
+    11-04  11:29 am  V5121522.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121540
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:29 am  V5121540.SPV created
+    11-04  11:29 am  V5121540.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121592
+    11-04  11:29 am  V5121592.SPV created
+    11-04  11:29 am  V5121592.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121605
+    11-04  11:29 am  V5121605.SPV created
+    11-04  11:29 am  V5121605.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121612
+    11-04  11:29 am  V5121612.SPV created
+    11-04  11:29 am  V5121612.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121658
+    11-04  11:29 am  V5121658.SPV created
+    11-04  11:29 am  V5121658.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121680
+    11-04  11:29 am  V5121680.SPV created
+    11-04  11:29 am  V5121680.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121725
+    11-04  11:29 am  V5121725.SPV created
+    11-04  11:29 am  V5121725.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121777
+    11-04  11:29 am  V5121777.SPV created
+    11-04  11:29 am  V5121777.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121802
+    11-04  11:29 am  V5121802.SPV created
+    11-04  11:29 am  V5121802.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121820
+    11-04  11:29 am  V5121820.SPV created
+    11-04  11:29 am  V5121820.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121822
+    11-04  11:29 am  V5121822.SPV created
+    11-04  11:29 am  V5121822.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5121995
+    11-04  11:29 am  V5121995.SPV created
+    11-04  11:29 am  V5121995.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122005
+    11-04  11:29 am  V5122005.SPV created
+    11-04  11:29 am  V5122005.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122107
+    11-04  11:29 am  V5122107.SPV created
+    11-04  11:29 am  V5122107.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122114
+    11-04  11:29 am  V5122114.SPV created
+    11-04  11:29 am  V5122114.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122195
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:29 am  V5122195.SPV created
+    11-04  11:29 am  V5122195.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122200
+    11-04  11:29 am  V5122200.SPV created
+    11-04  11:29 am  V5122200.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122355
+    11-04  11:29 am  V5122355.SPV created
+    11-04  11:29 am  V5122355.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122386
+    11-04  11:29 am  V5122386.SPV created
+    11-04  11:29 am  V5122386.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122417
+    11-04  11:29 am  V5122417.SPV created
+    11-04  11:29 am  V5122417.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122468
+    11-04  11:29 am  V5122468.SPV created
+    11-04  11:29 am  V5122468.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122471
+    11-04  11:29 am  V5122471.SPV created
+    11-04  11:29 am  V5122471.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122550
+    11-04  11:29 am  V5122550.SPV created
+    11-04  11:29 am  V5122550.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122562
+    11-04  11:29 am  V5122562.SPV created
+    11-04  11:29 am  V5122562.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122568
+    11-04  11:29 am  V5122568.SPV created
+    11-04  11:29 am  V5122568.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122616
+    11-04  11:29 am  V5122616.SPV created
+    11-04  11:29 am  V5122616.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122714
+    11-04  11:29 am  V5122714.SPV created
+    11-04  11:29 am  V5122714.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122717
+    11-04  11:29 am  V5122717.SPV created
+    11-04  11:29 am  V5122717.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122737
+    11-04  11:29 am  V5122737.SPV created
+    11-04  11:29 am  V5122737.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122756
+    11-04  11:29 am  V5122756.SPV created
+    11-04  11:29 am  V5122756.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122808
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:29 am  V5122808.SPV created
+    11-04  11:29 am  V5122808.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122866
+    11-04  11:29 am  V5122866.SPV created
+    11-04  11:29 am  V5122866.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122907
+    11-04  11:29 am  V5122907.SPV created
+    11-04  11:29 am  V5122907.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122924
+    11-04  11:29 am  V5122924.SPV created
+    11-04  11:29 am  V5122924.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122927
+    11-04  11:29 am  V5122927.SPV created
+    11-04  11:29 am  V5122927.COD created
+    11-04  11:29 am
+    11-04  11:29 am  Audit Data collected for V5122956
+    11-04  11:29 am  V5122956.SPV created
+    11-04  11:29 am  V5122956.COD created
+    11-04  11:29 am
+    11-04  11:30 am  Audit Data collected for V5122999
+    11-04  11:30 am  V5122999.SPV created
+    11-04  11:30 am  V5122999.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123044
+    11-04  11:30 am  V5123044.SPV created
+    11-04  11:30 am  V5123044.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123086
+    11-04  11:30 am  V5123086.SPV created
+    11-04  11:30 am  V5123086.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123191
+    11-04  11:30 am  V5123191.SPV created
+    11-04  11:30 am  V5123191.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123224
+    11-04  11:30 am  V5123224.SPV created
+    11-04  11:30 am  V5123224.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123230
+    11-04  11:30 am  V5123230.SPV created
+    11-04  11:30 am  V5123230.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123330
+    11-04  11:30 am  V5123330.SPV created
+    11-04  11:30 am  V5123330.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123333
+    11-04  11:30 am  V5123333.SPV created
+    11-04  11:30 am  V5123333.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123336
+    11-04  11:30 am  V5123336.SPV created
+    11-04  11:30 am  V5123336.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123343
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:30 am  V5123343.SPV created
+    11-04  11:30 am  V5123343.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123372
+    11-04  11:30 am  V5123372.SPV created
+    11-04  11:30 am  V5123372.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123418
+    11-04  11:30 am  V5123418.SPV created
+    11-04  11:30 am  V5123418.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123428
+    11-04  11:30 am  V5123428.SPV created
+    11-04  11:30 am  V5123428.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123433
+    11-04  11:30 am  V5123433.SPV created
+    11-04  11:30 am  V5123433.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123446
+    11-04  11:30 am  V5123446.SPV created
+    11-04  11:30 am  V5123446.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123459
+    11-04  11:30 am  V5123459.SPV created
+    11-04  11:30 am  V5123459.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123495
+    11-04  11:30 am  V5123495.SPV created
+    11-04  11:30 am  V5123495.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123498
+    11-04  11:30 am  V5123498.SPV created
+    11-04  11:30 am  V5123498.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123560
+    11-04  11:30 am  V5123560.SPV created
+    11-04  11:30 am  V5123560.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123565
+    11-04  11:30 am  V5123565.SPV created
+    11-04  11:30 am  V5123565.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123620
+    11-04  11:30 am  V5123620.SPV created
+    11-04  11:30 am  V5123620.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123682
+    11-04  11:30 am  V5123682.SPV created
+    11-04  11:30 am  V5123682.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123684
+    11-04  11:30 am  V5123684.SPV created
+    11-04  11:30 am  V5123684.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123685
+    11-04  11:30 am  V5123685.SPV created
+    11-04  11:30 am  V5123685.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123724
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:30 am  V5123724.SPV created
+    11-04  11:30 am  V5123724.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123802
+    11-04  11:30 am  V5123802.SPV created
+    11-04  11:30 am  V5123802.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123809
+    11-04  11:30 am  V5123809.SPV created
+    11-04  11:30 am  V5123809.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123823
+    11-04  11:30 am  V5123823.SPV created
+    11-04  11:30 am  V5123823.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123839
+    11-04  11:30 am  V5123839.SPV created
+    11-04  11:30 am  V5123839.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123911
+    11-04  11:30 am  V5123911.SPV created
+    11-04  11:30 am  V5123911.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123919
+    11-04  11:30 am  V5123919.SPV created
+    11-04  11:30 am  V5123919.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123936
+    11-04  11:30 am  V5123936.SPV created
+    11-04  11:30 am  V5123936.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123982
+    11-04  11:30 am  V5123982.SPV created
+    11-04  11:30 am  V5123982.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123984
+    11-04  11:30 am  V5123984.SPV created
+    11-04  11:30 am  V5123984.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123992
+    11-04  11:30 am  V5123992.SPV created
+    11-04  11:30 am  V5123992.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123993
+    11-04  11:30 am  V5123993.SPV created
+    11-04  11:30 am  V5123993.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5123997
+    11-04  11:30 am  V5123997.SPV created
+    11-04  11:30 am  V5123997.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124004
+    11-04  11:30 am  V5124004.SPV created
+    11-04  11:30 am  V5124004.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124071
+    11-04  11:30 am  V5124071.SPV created
+    11-04  11:30 am  V5124071.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124073
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:30 am  V5124073.SPV created
+    11-04  11:30 am  V5124073.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124097
+    11-04  11:30 am  V5124097.SPV created
+    11-04  11:30 am  V5124097.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124119
+    11-04  11:30 am  V5124119.SPV created
+    11-04  11:30 am  V5124119.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124176
+    11-04  11:30 am  V5124176.SPV created
+    11-04  11:30 am  V5124176.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124204
+    11-04  11:30 am  V5124204.SPV created
+    11-04  11:30 am  V5124204.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124228
+    11-04  11:30 am  V5124228.SPV created
+    11-04  11:30 am  V5124228.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124263
+    11-04  11:30 am  V5124263.SPV created
+    11-04  11:30 am  V5124263.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124298
+    11-04  11:30 am  V5124298.SPV created
+    11-04  11:30 am  V5124298.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124318
+    11-04  11:30 am  V5124318.SPV created
+    11-04  11:30 am  V5124318.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124325
+    11-04  11:30 am  V5124325.SPV created
+    11-04  11:30 am  V5124325.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124333
+    11-04  11:30 am  V5124333.SPV created
+    11-04  11:30 am  V5124333.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124340
+    11-04  11:30 am  V5124340.SPV created
+    11-04  11:30 am  V5124340.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124396
+    11-04  11:30 am  V5124396.SPV created
+    11-04  11:30 am  V5124396.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124403
+    11-04  11:30 am  V5124403.SPV created
+    11-04  11:30 am  V5124403.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124406
+    11-04  11:30 am  V5124406.SPV created
+    11-04  11:30 am  V5124406.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124410
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:30 am  V5124410.SPV created
+    11-04  11:30 am  V5124410.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124490
+    11-04  11:30 am  V5124490.SPV created
+    11-04  11:30 am  V5124490.COD created
+    11-04  11:30 am
+    11-04  11:30 am  Audit Data collected for V5124548
+    11-04  11:30 am  V5124548.SPV created
+    11-04  11:30 am  V5124548.COD created
+    11-04  11:30 am
+    11-04  11:31 am  Audit Data collected for V5124553
+    11-04  11:31 am  V5124553.SPV created
+    11-04  11:31 am  V5124553.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124567
+    11-04  11:31 am  V5124567.SPV created
+    11-04  11:31 am  V5124567.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124618
+    11-04  11:31 am  V5124618.SPV created
+    11-04  11:31 am  V5124618.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124663
+    11-04  11:31 am  V5124663.SPV created
+    11-04  11:31 am  V5124663.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124695
+    11-04  11:31 am  V5124695.SPV created
+    11-04  11:31 am  V5124695.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124724
+    11-04  11:31 am  V5124724.SPV created
+    11-04  11:31 am  V5124724.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124763
+    11-04  11:31 am  V5124763.SPV created
+    11-04  11:31 am  V5124763.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124793
+    11-04  11:31 am  V5124793.SPV created
+    11-04  11:31 am  V5124793.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124824
+    11-04  11:31 am  V5124824.SPV created
+    11-04  11:31 am  V5124824.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124856
+    11-04  11:31 am  V5124856.SPV created
+    11-04  11:31 am  V5124856.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124872
+    11-04  11:31 am  V5124872.SPV created
+    11-04  11:31 am  V5124872.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124876
+    11-04  11:31 am  V5124876.SPV created
+    11-04  11:31 am  V5124876.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124880
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:31 am  V5124880.SPV created
+    11-04  11:31 am  V5124880.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124882
+    11-04  11:31 am  V5124882.SPV created
+    11-04  11:31 am  V5124882.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124967
+    11-04  11:31 am  V5124967.SPV created
+    11-04  11:31 am  V5124967.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5124986
+    11-04  11:31 am  V5124986.SPV created
+    11-04  11:31 am  V5124986.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125014
+    11-04  11:31 am  V5125014.SPV created
+    11-04  11:31 am  V5125014.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125027
+    11-04  11:31 am  V5125027.SPV created
+    11-04  11:31 am  V5125027.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125058
+    11-04  11:31 am  V5125058.SPV created
+    11-04  11:31 am  V5125058.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125063
+    11-04  11:31 am  V5125063.SPV created
+    11-04  11:31 am  V5125063.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125174
+    11-04  11:31 am  V5125174.SPV created
+    11-04  11:31 am  V5125174.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125191
+    11-04  11:31 am  V5125191.SPV created
+    11-04  11:31 am  V5125191.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125200
+    11-04  11:31 am  V5125200.SPV created
+    11-04  11:31 am  V5125200.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125251
+    11-04  11:31 am  V5125251.SPV created
+    11-04  11:31 am  V5125251.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125271
+    11-04  11:31 am  V5125271.SPV created
+    11-04  11:31 am  V5125271.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125276
+    11-04  11:31 am  V5125276.SPV created
+    11-04  11:31 am  V5125276.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125288
+    11-04  11:31 am  V5125288.SPV created
+    11-04  11:31 am  V5125288.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125331
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:31 am  V5125331.SPV created
+    11-04  11:31 am  V5125331.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125343
+    11-04  11:31 am  V5125343.SPV created
+    11-04  11:31 am  V5125343.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125369
+    11-04  11:31 am  V5125369.SPV created
+    11-04  11:31 am  V5125369.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125397
+    11-04  11:31 am  V5125397.SPV created
+    11-04  11:31 am  V5125397.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125436
+    11-04  11:31 am  V5125436.SPV created
+    11-04  11:31 am  V5125436.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125500
+    11-04  11:31 am  V5125500.SPV created
+    11-04  11:31 am  V5125500.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125531
+    11-04  11:31 am  V5125531.SPV created
+    11-04  11:31 am  V5125531.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125532
+    11-04  11:31 am  V5125532.SPV created
+    11-04  11:31 am  V5125532.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125548
+    11-04  11:31 am  V5125548.SPV created
+    11-04  11:31 am  V5125548.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125561
+    11-04  11:31 am  V5125561.SPV created
+    11-04  11:31 am  V5125561.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125628
+    11-04  11:31 am  V5125628.SPV created
+    11-04  11:31 am  V5125628.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125701
+    11-04  11:31 am  V5125701.SPV created
+    11-04  11:31 am  V5125701.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125704
+    11-04  11:31 am  V5125704.SPV created
+    11-04  11:31 am  V5125704.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125776
+    11-04  11:31 am  V5125776.SPV created
+    11-04  11:31 am  V5125776.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125788
+    11-04  11:31 am  V5125788.SPV created
+    11-04  11:31 am  V5125788.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125827
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:31 am  V5125827.SPV created
+    11-04  11:31 am  V5125827.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125850
+    11-04  11:31 am  V5125850.SPV created
+    11-04  11:31 am  V5125850.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125887
+    11-04  11:31 am  V5125887.SPV created
+    11-04  11:31 am  V5125887.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125906
+    11-04  11:31 am  V5125906.SPV created
+    11-04  11:31 am  V5125906.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125925
+    11-04  11:31 am  V5125925.SPV created
+    11-04  11:31 am  V5125925.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5125994
+    11-04  11:31 am  V5125994.SPV created
+    11-04  11:31 am  V5125994.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126031
+    11-04  11:31 am  V5126031.SPV created
+    11-04  11:31 am  V5126031.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126047
+    11-04  11:31 am  V5126047.SPV created
+    11-04  11:31 am  V5126047.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126084
+    11-04  11:31 am  V5126084.SPV created
+    11-04  11:31 am  V5126084.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126086
+    11-04  11:31 am  V5126086.SPV created
+    11-04  11:31 am  V5126086.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126205
+    11-04  11:31 am  V5126205.SPV created
+    11-04  11:31 am  V5126205.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126237
+    11-04  11:31 am  V5126237.SPV created
+    11-04  11:31 am  V5126237.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126254
+    11-04  11:31 am  V5126254.SPV created
+    11-04  11:31 am  V5126254.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126348
+    11-04  11:31 am  V5126348.SPV created
+    11-04  11:31 am  V5126348.COD created
+    11-04  11:31 am
+    11-04  11:31 am  Audit Data collected for V5126355
+    11-04  11:31 am  V5126355.SPV created
+    11-04  11:31 am  V5126355.COD created
+    11-04  11:31 am
+    11-04  11:32 am  Audit Data collected for V5126374
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:32 am  V5126374.SPV created
+    11-04  11:32 am  V5126374.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126415
+    11-04  11:32 am  V5126415.SPV created
+    11-04  11:32 am  V5126415.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126432
+    11-04  11:32 am  V5126432.SPV created
+    11-04  11:32 am  V5126432.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126458
+    11-04  11:32 am  V5126458.SPV created
+    11-04  11:32 am  V5126458.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126497
+    11-04  11:32 am  V5126497.SPV created
+    11-04  11:32 am  V5126497.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126677
+    11-04  11:32 am  V5126677.SPV created
+    11-04  11:32 am  V5126677.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126698
+    11-04  11:32 am  V5126698.SPV created
+    11-04  11:32 am  V5126698.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126705
+    11-04  11:32 am  V5126705.SPV created
+    11-04  11:32 am  V5126705.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126758
+    11-04  11:32 am  V5126758.SPV created
+    11-04  11:32 am  V5126758.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5126938
+    11-04  11:32 am  V5126938.SPV created
+    11-04  11:32 am  V5126938.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127036
+    11-04  11:32 am  V5127036.SPV created
+    11-04  11:32 am  V5127036.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127048
+    11-04  11:32 am  V5127048.SPV created
+    11-04  11:32 am  V5127048.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127092
+    11-04  11:32 am  V5127092.SPV created
+    11-04  11:32 am  V5127092.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127136
+    11-04  11:32 am  V5127136.SPV created
+    11-04  11:32 am  V5127136.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127164
+    11-04  11:32 am  V5127164.SPV created
+    11-04  11:32 am  V5127164.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127184
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:32 am  V5127184.SPV created
+    11-04  11:32 am  V5127184.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127240
+    11-04  11:32 am  V5127240.SPV created
+    11-04  11:32 am  V5127240.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127248
+    11-04  11:32 am  V5127248.SPV created
+    11-04  11:32 am  V5127248.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127266
+    11-04  11:32 am  V5127266.SPV created
+    11-04  11:32 am  V5127266.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127292
+    11-04  11:32 am  V5127292.SPV created
+    11-04  11:32 am  V5127292.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127310
+    11-04  11:32 am  V5127310.SPV created
+    11-04  11:32 am  V5127310.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127356
+    11-04  11:32 am  V5127356.SPV created
+    11-04  11:32 am  V5127356.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127371
+    11-04  11:32 am  V5127371.SPV created
+    11-04  11:32 am  V5127371.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127388
+    11-04  11:32 am  V5127388.SPV created
+    11-04  11:32 am  V5127388.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127415
+    11-04  11:32 am  V5127415.SPV created
+    11-04  11:32 am  V5127415.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127424
+    11-04  11:32 am  V5127424.SPV created
+    11-04  11:32 am  V5127424.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127449
+    11-04  11:32 am  V5127449.SPV created
+    11-04  11:32 am  V5127449.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127457
+    11-04  11:32 am  V5127457.SPV created
+    11-04  11:32 am  V5127457.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127472
+    11-04  11:32 am  V5127472.SPV created
+    11-04  11:32 am  V5127472.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127500
+    11-04  11:32 am  V5127500.SPV created
+    11-04  11:32 am  V5127500.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127516
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:32 am  V5127516.SPV created
+    11-04  11:32 am  V5127516.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127525
+    11-04  11:32 am  V5127525.SPV created
+    11-04  11:32 am  V5127525.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127574
+    11-04  11:32 am  V5127574.SPV created
+    11-04  11:32 am  V5127574.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127690
+    11-04  11:32 am  V5127690.SPV created
+    11-04  11:32 am  V5127690.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127736
+    11-04  11:32 am  V5127736.SPV created
+    11-04  11:32 am  V5127736.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127740
+    11-04  11:32 am  V5127740.SPV created
+    11-04  11:32 am  V5127740.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127866
+    11-04  11:32 am  V5127866.SPV created
+    11-04  11:32 am  V5127866.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127927
+    11-04  11:32 am  V5127927.SPV created
+    11-04  11:32 am  V5127927.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127929
+    11-04  11:32 am  V5127929.SPV created
+    11-04  11:32 am  V5127929.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127943
+    11-04  11:32 am  V5127943.SPV created
+    11-04  11:32 am  V5127943.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127957
+    11-04  11:32 am  V5127957.SPV created
+    11-04  11:32 am  V5127957.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127984
+    11-04  11:32 am  V5127984.SPV created
+    11-04  11:32 am  V5127984.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5127989
+    11-04  11:32 am  V5127989.SPV created
+    11-04  11:32 am  V5127989.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128009
+    11-04  11:32 am  V5128009.SPV created
+    11-04  11:32 am  V5128009.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128013
+    11-04  11:32 am  V5128013.SPV created
+    11-04  11:32 am  V5128013.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128055
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:32 am  V5128055.SPV created
+    11-04  11:32 am  V5128055.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128098
+    11-04  11:32 am  V5128098.SPV created
+    11-04  11:32 am  V5128098.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128134
+    11-04  11:32 am  V5128134.SPV created
+    11-04  11:32 am  V5128134.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128160
+    11-04  11:32 am  V5128160.SPV created
+    11-04  11:32 am  V5128160.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128192
+    11-04  11:32 am  V5128192.SPV created
+    11-04  11:32 am  V5128192.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128200
+    11-04  11:32 am  V5128200.SPV created
+    11-04  11:32 am  V5128200.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128213
+    11-04  11:32 am  V5128213.SPV created
+    11-04  11:32 am  V5128213.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128214
+    11-04  11:32 am  V5128214.SPV created
+    11-04  11:32 am  V5128214.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128263
+    11-04  11:32 am  V5128263.SPV created
+    11-04  11:32 am  V5128263.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128305
+    11-04  11:32 am  V5128305.SPV created
+    11-04  11:32 am  V5128305.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128328
+    11-04  11:32 am  V5128328.SPV created
+    11-04  11:32 am  V5128328.COD created
+    11-04  11:32 am
+    11-04  11:32 am  Audit Data collected for V5128343
+    11-04  11:32 am  V5128343.SPV created
+    11-04  11:32 am  V5128343.COD created
+    11-04  11:32 am
+    11-04  11:33 am  Audit Data collected for V5128458
+    11-04  11:33 am  V5128458.SPV created
+    11-04  11:33 am  V5128458.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128491
+    11-04  11:33 am  V5128491.SPV created
+    11-04  11:33 am  V5128491.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128519
+    11-04  11:33 am  V5128519.SPV created
+    11-04  11:33 am  V5128519.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128537
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:33 am  V5128537.SPV created
+    11-04  11:33 am  V5128537.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128557
+    11-04  11:33 am  V5128557.SPV created
+    11-04  11:33 am  V5128557.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128562
+    11-04  11:33 am  V5128562.SPV created
+    11-04  11:33 am  V5128562.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128585
+    11-04  11:33 am  V5128585.SPV created
+    11-04  11:33 am  V5128585.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128601
+    11-04  11:33 am  V5128601.SPV created
+    11-04  11:33 am  V5128601.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128607
+    11-04  11:33 am  V5128607.SPV created
+    11-04  11:33 am  V5128607.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128615
+    11-04  11:33 am  V5128615.SPV created
+    11-04  11:33 am  V5128615.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128647
+    11-04  11:33 am  V5128647.SPV created
+    11-04  11:33 am  V5128647.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128695
+    11-04  11:33 am  V5128695.SPV created
+    11-04  11:33 am  V5128695.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128701
+    11-04  11:33 am  V5128701.SPV created
+    11-04  11:33 am  V5128701.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128734
+    11-04  11:33 am  V5128734.SPV created
+    11-04  11:33 am  V5128734.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128771
+    11-04  11:33 am  V5128771.SPV created
+    11-04  11:33 am  V5128771.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128885
+    11-04  11:33 am  V5128885.SPV created
+    11-04  11:33 am  V5128885.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128959
+    11-04  11:33 am  V5128959.SPV created
+    11-04  11:33 am  V5128959.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128968
+    11-04  11:33 am  V5128968.SPV created
+    11-04  11:33 am  V5128968.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5128973
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:33 am  V5128973.SPV created
+    11-04  11:33 am  V5128973.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129021
+    11-04  11:33 am  V5129021.SPV created
+    11-04  11:33 am  V5129021.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129059
+    11-04  11:33 am  V5129059.SPV created
+    11-04  11:33 am  V5129059.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129068
+    11-04  11:33 am  V5129068.SPV created
+    11-04  11:33 am  V5129068.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129211
+    11-04  11:33 am  V5129211.SPV created
+    11-04  11:33 am  V5129211.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129236
+    11-04  11:33 am  V5129236.SPV created
+    11-04  11:33 am  V5129236.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129242
+    11-04  11:33 am  V5129242.SPV created
+    11-04  11:33 am  V5129242.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129278
+    11-04  11:33 am  V5129278.SPV created
+    11-04  11:33 am  V5129278.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129290
+    11-04  11:33 am  V5129290.SPV created
+    11-04  11:33 am  V5129290.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129389
+    11-04  11:33 am  V5129389.SPV created
+    11-04  11:33 am  V5129389.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129410
+    11-04  11:33 am  V5129410.SPV created
+    11-04  11:33 am  V5129410.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129535
+    11-04  11:33 am  V5129535.SPV created
+    11-04  11:33 am  V5129535.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129606
+    11-04  11:33 am  V5129606.SPV created
+    11-04  11:33 am  V5129606.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129859
+    11-04  11:33 am  V5129859.SPV created
+    11-04  11:33 am  V5129859.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5129916
+    11-04  11:33 am  V5129916.SPV created
+    11-04  11:33 am  V5129916.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5130165
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:33 am  V5130165.SPV created
+    11-04  11:33 am  V5130165.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5130669
+    11-04  11:33 am  V5130669.SPV created
+    11-04  11:33 am  V5130669.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5130802
+    11-04  11:33 am  V5130802.SPV created
+    11-04  11:33 am  V5130802.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5130873
+    11-04  11:33 am  V5130873.SPV created
+    11-04  11:33 am  V5130873.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5130944
+    11-04  11:33 am  V5130944.SPV created
+    11-04  11:33 am  V5130944.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131136
+    11-04  11:33 am  V5131136.SPV created
+    11-04  11:33 am  V5131136.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131254
+    11-04  11:33 am  V5131254.SPV created
+    11-04  11:33 am  V5131254.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131457
+    11-04  11:33 am  V5131457.SPV created
+    11-04  11:33 am  V5131457.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131561
+    11-04  11:33 am  V5131561.SPV created
+    11-04  11:33 am  V5131561.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131593
+    11-04  11:33 am  V5131593.SPV created
+    11-04  11:33 am  V5131593.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131646
+    11-04  11:33 am  V5131646.SPV created
+    11-04  11:33 am  V5131646.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131822
+    11-04  11:33 am  V5131822.SPV created
+    11-04  11:33 am  V5131822.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131832
+    11-04  11:33 am  V5131832.SPV created
+    11-04  11:33 am  V5131832.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131844
+    11-04  11:33 am  V5131844.SPV created
+    11-04  11:33 am  V5131844.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131904
+    11-04  11:33 am  V5131904.SPV created
+    11-04  11:33 am  V5131904.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131962
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:33 am  V5131962.SPV created
+    11-04  11:33 am  V5131962.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5131986
+    11-04  11:33 am  V5131986.SPV created
+    11-04  11:33 am  V5131986.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132079
+    11-04  11:33 am  V5132079.SPV created
+    11-04  11:33 am  V5132079.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132082
+    11-04  11:33 am  V5132082.SPV created
+    11-04  11:33 am  V5132082.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132106
+    11-04  11:33 am  V5132106.SPV created
+    11-04  11:33 am  V5132106.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132110
+    11-04  11:33 am  V5132110.SPV created
+    11-04  11:33 am  V5132110.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132125
+    11-04  11:33 am  V5132125.SPV created
+    11-04  11:33 am  V5132125.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132323
+    11-04  11:33 am  V5132323.SPV created
+    11-04  11:33 am  V5132323.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132349
+    11-04  11:33 am  V5132349.SPV created
+    11-04  11:33 am  V5132349.COD created
+    11-04  11:33 am
+    11-04  11:33 am  Audit Data collected for V5132466
+    11-04  11:33 am  V5132466.SPV created
+    11-04  11:33 am  V5132466.COD created
+    11-04  11:33 am
+    11-04  11:34 am  Audit Data collected for V5132491
+    11-04  11:34 am  V5132491.SPV created
+    11-04  11:34 am  V5132491.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5132494
+    11-04  11:34 am  V5132494.SPV created
+    11-04  11:34 am  V5132494.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5132564
+    11-04  11:34 am  V5132564.SPV created
+    11-04  11:34 am  V5132564.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5132665
+    11-04  11:34 am  V5132665.SPV created
+    11-04  11:34 am  V5132665.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5132736
+    11-04  11:34 am  V5132736.SPV created
+    11-04  11:34 am  V5132736.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5132829
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:34 am  V5132829.SPV created
+    11-04  11:34 am  V5132829.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5132978
+    11-04  11:34 am  V5132978.SPV created
+    11-04  11:34 am  V5132978.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5132989
+    11-04  11:34 am  V5132989.SPV created
+    11-04  11:34 am  V5132989.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133000
+    11-04  11:34 am  V5133000.SPV created
+    11-04  11:34 am  V5133000.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133021
+    11-04  11:34 am  V5133021.SPV created
+    11-04  11:34 am  V5133021.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133024
+    11-04  11:34 am  V5133024.SPV created
+    11-04  11:34 am  V5133024.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133028
+    11-04  11:34 am  V5133028.SPV created
+    11-04  11:34 am  V5133028.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133046
+    11-04  11:34 am  V5133046.SPV created
+    11-04  11:34 am  V5133046.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133068
+    11-04  11:34 am  V5133068.SPV created
+    11-04  11:34 am  V5133068.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133104
+    11-04  11:34 am  V5133104.SPV created
+    11-04  11:34 am  V5133104.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133110
+    11-04  11:34 am  V5133110.SPV created
+    11-04  11:34 am  V5133110.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133121
+    11-04  11:34 am  V5133121.SPV created
+    11-04  11:34 am  V5133121.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133178
+    11-04  11:34 am  V5133178.SPV created
+    11-04  11:34 am  V5133178.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133184
+    11-04  11:34 am  V5133184.SPV created
+    11-04  11:34 am  V5133184.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133199
+    11-04  11:34 am  V5133199.SPV created
+    11-04  11:34 am  V5133199.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133244
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:34 am  V5133244.SPV created
+    11-04  11:34 am  V5133244.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133250
+    11-04  11:34 am  V5133250.SPV created
+    11-04  11:34 am  V5133250.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133301
+    11-04  11:34 am  V5133301.SPV created
+    11-04  11:34 am  V5133301.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133392
+    11-04  11:34 am  V5133392.SPV created
+    11-04  11:34 am  V5133392.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133425
+    11-04  11:34 am  V5133425.SPV created
+    11-04  11:34 am  V5133425.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133454
+    11-04  11:34 am  V5133454.SPV created
+    11-04  11:34 am  V5133454.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133523
+    11-04  11:34 am  V5133523.SPV created
+    11-04  11:34 am  V5133523.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133588
+    11-04  11:34 am  V5133588.SPV created
+    11-04  11:34 am  V5133588.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133603
+    11-04  11:34 am  V5133603.SPV created
+    11-04  11:34 am  V5133603.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133613
+    11-04  11:34 am  V5133613.SPV created
+    11-04  11:34 am  V5133613.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133620
+    11-04  11:34 am  V5133620.SPV created
+    11-04  11:34 am  V5133620.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133731
+    11-04  11:34 am  V5133731.SPV created
+    11-04  11:34 am  V5133731.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133765
+    11-04  11:34 am  V5133765.SPV created
+    11-04  11:34 am  V5133765.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133795
+    11-04  11:34 am  V5133795.SPV created
+    11-04  11:34 am  V5133795.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133922
+    11-04  11:34 am  V5133922.SPV created
+    11-04  11:34 am  V5133922.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5133936
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:34 am  V5133936.SPV created
+    11-04  11:34 am  V5133936.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134019
+    11-04  11:34 am  V5134019.SPV created
+    11-04  11:34 am  V5134019.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134247
+    11-04  11:34 am  V5134247.SPV created
+    11-04  11:34 am  V5134247.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134301
+    11-04  11:34 am  V5134301.SPV created
+    11-04  11:34 am  V5134301.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134524
+    11-04  11:34 am  V5134524.SPV created
+    11-04  11:34 am  V5134524.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134607
+    11-04  11:34 am  V5134607.SPV created
+    11-04  11:34 am  V5134607.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134611
+    11-04  11:34 am  V5134611.SPV created
+    11-04  11:34 am  V5134611.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134621
+    11-04  11:34 am  V5134621.SPV created
+    11-04  11:34 am  V5134621.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134647
+    11-04  11:34 am  V5134647.SPV created
+    11-04  11:34 am  V5134647.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134658
+    11-04  11:34 am  V5134658.SPV created
+    11-04  11:34 am  V5134658.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134670
+    11-04  11:34 am  V5134670.SPV created
+    11-04  11:34 am  V5134670.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134687
+    11-04  11:34 am  V5134687.SPV created
+    11-04  11:34 am  V5134687.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134697
+    11-04  11:34 am  V5134697.SPV created
+    11-04  11:34 am  V5134697.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134732
+    11-04  11:34 am  V5134732.SPV created
+    11-04  11:34 am  V5134732.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134760
+    11-04  11:34 am  V5134760.SPV created
+    11-04  11:34 am  V5134760.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134765
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:34 am  V5134765.SPV created
+    11-04  11:34 am  V5134765.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134776
+    11-04  11:34 am  V5134776.SPV created
+    11-04  11:34 am  V5134776.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134786
+    11-04  11:34 am  V5134786.SPV created
+    11-04  11:34 am  V5134786.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134807
+    11-04  11:34 am  V5134807.SPV created
+    11-04  11:34 am  V5134807.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134832
+    11-04  11:34 am  V5134832.SPV created
+    11-04  11:34 am  V5134832.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5134867
+    11-04  11:34 am  V5134867.SPV created
+    11-04  11:34 am  V5134867.COD created
+    11-04  11:34 am
+    11-04  11:34 am  Audit Data collected for V5135499
+    11-04  11:34 am  V5135499.SPV created
+    11-04  11:34 am  V5135499.COD created
+    11-04  11:34 am
+    11-04  11:35 am  Audit Data collected for V5135519
+    11-04  11:35 am  V5135519.SPV created
+    11-04  11:35 am  V5135519.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5135561
+    11-04  11:35 am  V5135561.SPV created
+    11-04  11:35 am  V5135561.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5135581
+    11-04  11:35 am  V5135581.SPV created
+    11-04  11:35 am  V5135581.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5135808
+    11-04  11:35 am  V5135808.SPV created
+    11-04  11:35 am  V5135808.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5135975
+    11-04  11:35 am  V5135975.SPV created
+    11-04  11:35 am  V5135975.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5135985
+    11-04  11:35 am  V5135985.SPV created
+    11-04  11:35 am  V5135985.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5135986
+    11-04  11:35 am  V5135986.SPV created
+    11-04  11:35 am  V5135986.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136003
+    11-04  11:35 am  V5136003.SPV created
+    11-04  11:35 am  V5136003.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136101
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:35 am  V5136101.SPV created
+    11-04  11:35 am  V5136101.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136157
+    11-04  11:35 am  V5136157.SPV created
+    11-04  11:35 am  V5136157.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136466
+    11-04  11:35 am  V5136466.SPV created
+    11-04  11:35 am  V5136466.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136478
+    11-04  11:35 am  V5136478.SPV created
+    11-04  11:35 am  V5136478.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136520
+    11-04  11:35 am  V5136520.SPV created
+    11-04  11:35 am  V5136520.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136608
+    11-04  11:35 am  V5136608.SPV created
+    11-04  11:35 am  V5136608.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5136796
+    11-04  11:35 am  V5136796.SPV created
+    11-04  11:35 am  V5136796.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137376
+    11-04  11:35 am  V5137376.SPV created
+    11-04  11:35 am  V5137376.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137789
+    11-04  11:35 am  V5137789.SPV created
+    11-04  11:35 am  V5137789.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137799
+    11-04  11:35 am  V5137799.SPV created
+    11-04  11:35 am  V5137799.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137801
+    11-04  11:35 am  V5137801.SPV created
+    11-04  11:35 am  V5137801.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137845
+    11-04  11:35 am  V5137845.SPV created
+    11-04  11:35 am  V5137845.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137846
+    11-04  11:35 am  V5137846.SPV created
+    11-04  11:35 am  V5137846.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137849
+    11-04  11:35 am  V5137849.SPV created
+    11-04  11:35 am  V5137849.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5137885
+    11-04  11:35 am  V5137885.SPV created
+    11-04  11:35 am  V5137885.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138012
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:35 am  V5138012.SPV created
+    11-04  11:35 am  V5138012.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138070
+    11-04  11:35 am  V5138070.SPV created
+    11-04  11:35 am  V5138070.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138095
+    11-04  11:35 am  V5138095.SPV created
+    11-04  11:35 am  V5138095.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138141
+    11-04  11:35 am  V5138141.SPV created
+    11-04  11:35 am  V5138141.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138298
+    11-04  11:35 am  V5138298.SPV created
+    11-04  11:35 am  V5138298.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138324
+    11-04  11:35 am  V5138324.SPV created
+    11-04  11:35 am  V5138324.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138373
+    11-04  11:35 am  V5138373.SPV created
+    11-04  11:35 am  V5138373.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138389
+    11-04  11:35 am  V5138389.SPV created
+    11-04  11:35 am  V5138389.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138394
+    11-04  11:35 am  V5138394.SPV created
+    11-04  11:35 am  V5138394.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138399
+    11-04  11:35 am  V5138399.SPV created
+    11-04  11:35 am  V5138399.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138513
+    11-04  11:35 am  V5138513.SPV created
+    11-04  11:35 am  V5138513.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138519
+    11-04  11:35 am  V5138519.SPV created
+    11-04  11:35 am  V5138519.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138589
+    11-04  11:35 am  V5138589.SPV created
+    11-04  11:35 am  V5138589.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138630
+    11-04  11:35 am  V5138630.SPV created
+    11-04  11:35 am  V5138630.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138738
+    11-04  11:35 am  V5138738.SPV created
+    11-04  11:35 am  V5138738.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138756
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:35 am  V5138756.SPV created
+    11-04  11:35 am  V5138756.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138758
+    11-04  11:35 am  V5138758.SPV created
+    11-04  11:35 am  V5138758.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138783
+    11-04  11:35 am  V5138783.SPV created
+    11-04  11:35 am  V5138783.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138825
+    11-04  11:35 am  V5138825.SPV created
+    11-04  11:35 am  V5138825.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5138856
+    11-04  11:35 am  V5138856.SPV created
+    11-04  11:35 am  V5138856.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5142197
+    11-04  11:35 am  V5142197.SPV created
+    11-04  11:35 am  V5142197.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5142634
+    11-04  11:35 am  V5142634.SPV created
+    11-04  11:35 am  V5142634.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5143227
+    11-04  11:35 am  V5143227.SPV created
+    11-04  11:35 am  V5143227.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5143629
+    11-04  11:35 am  V5143629.SPV created
+    11-04  11:35 am  V5143629.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5143810
+    11-04  11:35 am  V5143810.SPV created
+    11-04  11:35 am  V5143810.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5143834
+    11-04  11:35 am  V5143834.SPV created
+    11-04  11:35 am  V5143834.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5143979
+    11-04  11:35 am  V5143979.SPV created
+    11-04  11:35 am  V5143979.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5144022
+    11-04  11:35 am  V5144022.SPV created
+    11-04  11:35 am  V5144022.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5151477
+    11-04  11:35 am  V5151477.SPV created
+    11-04  11:35 am  V5151477.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5170595
+    11-04  11:35 am  V5170595.SPV created
+    11-04  11:35 am  V5170595.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5180425
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:35 am  V5180425.SPV created
+    11-04  11:35 am  V5180425.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5181701
+    11-04  11:35 am  V5181701.SPV created
+    11-04  11:35 am  V5181701.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5182366
+    11-04  11:35 am  V5182366.SPV created
+    11-04  11:35 am  V5182366.COD created
+    11-04  11:35 am
+    11-04  11:35 am  Audit Data collected for V5183366
+    11-04  11:35 am  V5183366.SPV created
+    11-04  11:35 am  V5183366.COD created
+    11-04  11:35 am
+    11-04  11:36 am  Audit Data collected for V5183735
+    11-04  11:36 am  V5183735.SPV created
+    11-04  11:36 am  V5183735.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5184040
+    11-04  11:36 am  V5184040.SPV created
+    11-04  11:36 am  V5184040.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5184473
+    11-04  11:36 am  V5184473.SPV created
+    11-04  11:36 am  V5184473.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5185017
+    11-04  11:36 am  V5185017.SPV created
+    11-04  11:36 am  V5185017.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5185389
+    11-04  11:36 am  V5185389.SPV created
+    11-04  11:36 am  V5185389.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5185390
+    11-04  11:36 am  V5185390.SPV created
+    11-04  11:36 am  V5185390.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5185481
+    11-04  11:36 am  V5185481.SPV created
+    11-04  11:36 am  V5185481.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5185693
+    11-04  11:36 am  V5185693.SPV created
+    11-04  11:36 am  V5185693.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5185895
+    11-04  11:36 am  V5185895.SPV created
+    11-04  11:36 am  V5185895.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5186344
+    11-04  11:36 am  V5186344.SPV created
+    11-04  11:36 am  V5186344.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5186795
+    11-04  11:36 am  V5186795.SPV created
+    11-04  11:36 am  V5186795.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5187136
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+
+    11-04  11:36 am  V5187136.SPV created
+    11-04  11:36 am  V5187136.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5187667
+    11-04  11:36 am  V5187667.SPV created
+    11-04  11:36 am  V5187667.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5187743
+    11-04  11:36 am  V5187743.SPV created
+    11-04  11:36 am  V5187743.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5187879
+    11-04  11:36 am  V5187879.SPV created
+    11-04  11:36 am  V5187879.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5187941
+    11-04  11:36 am  V5187941.SPV created
+    11-04  11:36 am  V5187941.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5188049
+    11-04  11:36 am  V5188049.SPV created
+    11-04  11:36 am  V5188049.COD created
+    11-04  11:36 am
+    11-04  11:36 am  Audit Data collected for V5188106
+    11-04  11:36 am  V5188106.SPV created
+    11-04  11:36 am  V5188106.COD created
+    11-04  11:36 am
+    11-04  11:39 am  STOP COLLECT AUDIT DATA FROM COMPACT FLASH
+    11-04  11:39 am  CONSOLIDATED AUDIT DATA
+    11-04  11:40 am  EVENT LOG FILE CREATED
+    11-04  11:40 am  VOTE IMAGE FILE CREATED
+    11-04  11:42 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-04  11:42 am  CODED BALLOTS FILE CREATED
+    11-04  11:42 am  Flash Data GROUP 4 SELECTED FOR UPDATE
+                     EQUIPMENT TYPE VTR - UPDATE PRECINCTS COUNTED:Y
+    11-04  11:42 am  START PROCESS CODED BALLOTS
+    11-04  11:42 am  STOP PROCESS CODED BALLOTS
+    11-04  11:43 am  CODED BALLOTS WRITE-IN SUMMARY REPORT WAS PRINTED TO EL164.LST
+    11-04  11:43 am  iVOTRONIC WRITE-IN REPORT WAS PRINTED TO EL159.LST
+    11-04  11:44 am  iVOTRONIC VOTE IMAGE REPORT WAS PRINTED TO EL155.LST
+    11-04  11:46 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-04  03:06 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-04  03:06 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-04  03:20 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-05  10:28 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-05  10:33 am                                                   PRC 0800 MANUAL ADJUSTMENT
+    11-05  10:39 am                                                   PRC 0750 MANUAL ADJUSTMENT
+    11-05  10:39 am  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+    11-05  11:10 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    11-08  11:33 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    11-08  11:34 am  CANVASS - CANDIDATE NAME WAS PRINTED TO EL116.LST
+    11-08  12:52 pm  EXITED ELECTION REPORTING MANAGER SYSTEM
+    12-03  10:34 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    12-03  10:34 am  EXITED ELECTION IN ELECTION REPORTING MANAGER
+    12-28  12:19 pm  ENTERED ELECTION IN ELECTION REPORTING MANAGER
+SYSTEM LOG LISTING                                Horry County
+                                                  General Election
+                                                  November 2, 2010
+RUN DATE:03/08/11 12:40 PM                                                                                  ELECTION ID: 26110210
+
+USER DATE   TIME     SYSTEM ACTION OR ERROR INFORMATION                        COUNTED INFORMATION
+    12-28  12:20 pm  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+    12-28  11:18 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    12-30  11:18 am  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+    12-30  11:19 am  CANVASS - CANDIDATE NAME WAS PRINTED TO LPT1
+    12-30  11:23 am  EXITED ELECTION REPORTING MANAGER SYSTEM
+    03-08  12:40 pm  ENTERED ELECTION REPORTING MANAGER SYSTEM - REL 7.1.2.1
+E

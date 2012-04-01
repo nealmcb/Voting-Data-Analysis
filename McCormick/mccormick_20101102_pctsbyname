@@ -1,0 +1,19 @@
+Driver:  Precinct list by name
+Pcts By Name
+ 0750 ABSENTEE                              0     1107    0.00%
+ 0008 BETHANY                             318      122   38.36%
+ 0015 CLARKS_HILL                         489      238   48.67%
+ null EMERGENCY                             0       40    0.00% MISSING
+ null FAILSAFE                              0        0    0.00% MISSING
+ null FAILSAFE_PROVISIONAL                  0        0    0.00% MISSING
+ 0006 MCCORMICK_NO._1                    1094      470   42.96%
+ 0009 MCCORMICK_NO._2                    1041      375   36.02%
+ 0014 MODOC                               213      108   50.70%
+ 0001 MT_CARMEL                           255      131   51.37%
+ 0013 PARKSVILLE                          189      107   56.61%
+ 0010 PLUM_BRANCH                         793      412   51.95%
+ null PROVISIONAL                           0        0    0.00% MISSING
+ 0003 SAVANNAH                           1887      799   42.34%
+ null TOTAL                              6490     4018   61.91% MISSING
+ 0004 WILLINGTON                          211      109   51.66%
+

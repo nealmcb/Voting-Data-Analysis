@@ -1,0 +1,151 @@
+Event text list is for horry
+
+Event texts
+ 0000100 Select: General Information Menu
+ 0000101 Select: View Terminal Settings
+ 0000102 Select: Print Terminal Settings
+ 0000104 Select: View Election Settings
+ 0000105 Select: Print Election Settings
+ 0000106 Select: Save Election Settings
+ 0000107 Select: Election Services Menu
+ 0000109 Select: Print Polling Place Zero Tape
+ 0000110 Select: Close Terminal Early
+ 0000112 Select: Print Poll Place Results Tape
+ 0000114 Select: Setup & Configuration Menu
+ 0000115 Select: Clear and Test Terminal
+ 0000116 Select: Configure Terminal
+ 0000117 Select: Set Time and Date
+ 0000118 Select: Enable Audio Ballot
+ 0000119 Select: Set Volume
+ 0000125 Select: Color Option Numbers
+ 0000126 Select: Election Administration Menu
+ 0000136 Select: Upload PEB to Compact Flash
+ 0000138 Select: Upload Term Audit Data Serial
+ 0000139 Select: Upload Terminal Audit Data to CF
+ 0000142 Select: Print Zero Tape Options Menu
+ 0000143 Select: Print Terminal Zero Tape
+ 0000145 Select: Print Results Options Menu
+ 0000146 Select: Display Polling Place Report
+ 0000152 Select: Upload 3 Flash Memories to CF
+ 0000167 Select: Lock Terminal
+ 0000169 Select: Calibrate Screen
+ 0000170 Select: Upload Data Menu
+ 0000171 Select: Diagnostics Menu
+ 0000177 Select: Output Event Logs To CF File
+ 0000202 Option: Recollect term votes to PEB
+ 0000203 Option: Print Zero Tape(s)
+ 0000204 Option: Print Results Tape(s)
+ 0000300 Start password procedure
+ 0000301 Start override password procedure
+ 0000302 Password procedure cancelled
+ 0000303 User failed password check
+ 0000304 Cancel override password procedure
+ 0000305 Write PEB passwords to terminal
+ 0000601 Zero terminal config data
+ 0000706 Failed to retrieve EQC from PEB
+ 0000710 PEB EQC mismatch to term config EQC
+ 0000713 Failed to get PEB EQC block
+ 0000715 No zero tape - PEB has vote data
+ 0000807 Ballot header - wrong DB type
+ 0001001 Confirm PEB ballot failed by user
+ 0001003 Failed to get PEB ballot header block
+ 0001006 Ballot - PEB vs terminal crc error
+ 0001009 Transfer PEB ballot to terminal failed
+ 0001101 Vote header - data version mismatch
+ 0001102 Vote header - invalid password
+ 0001103 Vote header - location ID mismatch
+ 0001104 Vote header - time stamp mismatch
+ 0001200 Clear terminal vote data
+ 0001204 Terminal vote image is corrupted
+ 0001206 Vote data transfer to non-master PEB
+ 0001208 Merge terminal & PEB vote data
+ 0001210 Transfer terminal vote data to PEB
+ 0001211 Terminal votes to PEB successful
+ 0001214 Transfer terminal writein data to PEB
+ 0001215 Terminal write-in data to PEB successful
+ 0001217 Re-Collect terminal vote data to PEB
+ 0001218 Terminal vote re-collection successful
+ 0001219 Terminal vote re-collection cancelled
+ 0001221 Collect terminal vote data to PEB
+ 0001222 Terminal vote collection successful
+ 0001302 Failed to get PEB vote header block
+ 0001303 Transfer PEB vote data to terminal
+ 0001311 Cancel modeming PEB vote data
+ 0001317 Transfer PEB term data to terminal
+ 0001319 Update PEB's terminal record
+ 0001320 Check vote collection of all terminals
+ 0001321 Override - vote collect w/open term(s)
+ 0001400 Verify terminal flash audit data
+ 0001401 Copy terminal flash audit data to CF
+ 0001402 Term flash audit data to CF successful
+ 0001403 Cancel term audit data copy to CF
+ 0001404 Warning - no valid term audit data
+ 0001410 Transmit terminal audit data to host
+ 0001412 Cancel terminal audit data to host
+ 0001416 Copy audit data from TF 1 to CF
+ 0001417 Copy audit data from TF 2 to CF
+ 0001418 Copy audit data from TF 3 to CF
+ 0001421 Output terminal event logs to CF file
+ 0001422 Event logs to CF file was successful
+ 0001424 Output event data from TF 3 to CF
+ 0001510 Vote cast by voter
+ 0001511 Vote cast by poll worker
+ 0001513 Vote cancelled - wrong ballot
+ 0001514 Vote cancelled - voter left after ballot
+ 0001515 Vote canceled - voter left before ballot
+ 0001516 Vote cancelled - voter request
+ 0001517 Vote cancelled - printer problem
+ 0001518 Vote cancelled - terminal problem
+ 0001519 Vote cancelled - other reason
+ 0001537 UNKNOWN
+ 0001607 Clear-n-test term flash successful
+ 0001608 Cancel clear and test terminal
+ 0001610 Terminal clear fail - invalid PEB
+ 0001613 Opening terminal cancelled by user
+ 0001625 Vote collection with term open
+ 0001626 Close terminal
+ 0001627 Cancel terminal closing
+ 0001628 Warning - terminal closed early
+ 0001630 Handling closed terminal operations
+ 0001633 Terminal shutdown
+ 0001634 Terminal shutdown - DIE exit
+ 0001635 Terminal shutdown - IPS exit
+ 0001649 Term - entered service menus
+ 0001650 Term - exited service menus
+ 0001651 Warning - cannot read terminal screen
+ 0001652 Terminal touch-screen test
+ 0001654 Cancel terminal screen calibration
+ 0001655 Terminal touch-screen recalibrated
+ 0001656 Set terminal date and/or time
+ 0001672 Terminal Opened
+ 0001673 Terminal Closed
+ 0001702 Invalid PEB for procedure
+ 0001703 Warning - PEB I/O flag set
+ 0001714 Super PEB type - audit data to CF
+ 0001715 Super PEB type - clear and test
+ 0001718 PEB pulled during PEB block read
+ 0001719 PEB pulled during PEB block write
+ 0001720 PEB pulled during PEB block verify
+ 0001721 PEB pulled while getting PEB type
+ 0001722 PEB pulled while getting PEB revision
+ 0001723 PEB pulled while getting aux info
+ 0001729 Transfer PEB flash data to CF
+ 0002006 Print task was cancelled
+ 0002010 Print cumulative zeros tape
+ 0002011 Print cumulative results tape
+ 0002012 Print terminal zero tape
+ 0002207 TF - chip vs chip crc error
+ 0002210 PEB block CRC error
+ 0002400 PEB access failed
+ 0002402 PEB read failed
+ 0002405 Failed to get PEB type
+ 0002406 Failed to get PEB revision
+ 0002500 CF - not found
+ 0002802 Terminal - open state
+ 0002803 Terminal - closed state
+ 0002804 Terminal - blank state
+ 0002808 Terminal - opening state
+ 0002809 Terminal - closing state
+ 0002810 Terminal - time to close voting
+Total number of event texts:      146
+

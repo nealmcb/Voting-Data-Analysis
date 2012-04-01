@@ -1,0 +1,741 @@
+Precinct Detail List By Name and Number for horry
+
+Pcts By Name
+ 0750 ABSENTEE                              0     5652    0.00% DATA MISSING
+     terminals:  ( 5106798 5114443 5121289 5127740 5131561 5131593 5132564 5137801 5138783 5182366 5187136)
+     open/close pebs:  (  151275)  (  151275)
+ 0101 ADRIAN                             1455      620   42.61% DATA MISSING
+     terminals:  ( 5101306 5124263 5128601 5132829 5138324)
+     open/close pebs:  (  143322  153706)  (  143322  153706)
+ 0102 ALLSBROOK                           506      232   45.85%
+     terminals:  ( 5126348 5138519)
+     open/close pebs:  (  153723)  (  153723)
+ 0103 ATLANTIC_BEACH                      300       64   21.33% DATA MISSING
+     terminals:  ( 5101306 5122355 5128562)
+     open/close pebs:  (  112600  153706)  (  112600  153706)
+ 0104 AYNOR                              1173      583   49.70%
+     terminals:  ( 5122568 5123802 5123993 5133110)
+     open/close pebs:  (  117704)  (  117704)
+ 0105 BAYBORO                             924      357   38.64% DATA MISSING
+     terminals:  ( 5120741 5128013)
+     open/close pebs:  (  152394)  (  152394)
+ 0106 BROOKSVILLE                        2427     1086   44.75% DATA MISSING
+     terminals:  ( 5119263 5122616 5124318 5125531 5133000 5134301)
+     open/close pebs:  (  142261  143523  192641)  (  142261  143523  192641)
+ 0107 BROWNWAY                           1101      435   39.51% DATA MISSING
+     terminals:  ( 5127310)
+     open/close pebs:  (  137874)  (  137874)
+ 0108 BURGESS_#1                         3054     1421   46.53%
+     terminals:  ( 5103022 5105613 5122195 5123724 5124097 5124228 5124325 5125271 5125850 5126084 5132466 5138070)
+     open/close pebs:  (  229437)  (  229437)
+ 0109 BURGESS_#2                         2056     1034   50.29% DATA MISSING
+     terminals:  ( 5119570 5121822 5122756 5126458 5131844 5185389)
+     open/close pebs:  (  119324)  (  119324)
+ 0219 BURGESS_#3                         1716      867   50.52%
+     terminals:  ( 5110987 5113577 5118974 5123984 5124298 5127415 5128585)
+     open/close pebs:  (  119320)  (  119320)
+ 0110 CAROLINA_FOREST_#1                 2186      816   37.33% DATA MISSING
+     terminals:  ( 5101306 5116979 5119820 5125014 5129211 5131822 5131986 5136157)
+     open/close pebs:  (  105754  153706)  (  105754  153706)
+ 0111 CAROLINA_FOREST_#2                 1472      512   34.78% DATA MISSING
+     terminals:  ( 5126938 5127500 5144022 5187743)
+     open/close pebs:  (  153738)  (  153738)
+ 0112 CEDAR_GROVE                         664      288   43.37%
+     terminals:  ( 5128009 5136478)
+     open/close pebs:  (  135177)  (  135177)
+ 0113 CHERRY_GROVE_#1                    1266      531   41.94%
+     terminals:  ( 5120426 5121280 5132323 5133024 5142634)
+     open/close pebs:  (  124085)  (  124085)
+ 0114 CHERRY_GROVE_#2                    1422      762   53.59%
+     terminals:  ( 5118205 5120963 5122468 5135561 5137885)
+     open/close pebs:  (  141006)  (  141006)
+ 0115 COASTAL_CAROLINA                   1365      517   37.88% DATA MISSING
+     terminals:  ( 5118429 5126677 5127457)
+     open/close pebs:  (  146854  155056  155580)  (  155580)
+ 0116 COASTAL_LANE_#1                    1032      388   37.60%
+     terminals:  ( 5121457 5124071 5125331 5132494)
+     open/close pebs:  (  153764)  (  153764)
+ 0117 COASTAL_LANE_#2                    1054      290   27.51%
+     terminals:  ( 5127690 5131136 5134687)
+     open/close pebs:  (  232688)  (  232688)
+ 0118 COOL_SPRINGS                        349      167   47.85%
+     terminals:  ( 5125174 5128647)
+     open/close pebs:  (  154640)  (  154640)
+ 0119 CRESENT                            1371      555   40.48% DATA MISSING
+     terminals:  ( 5126758 5133021)
+     open/close pebs:  (  100325)  (  100325)
+ 0120 DAISY                               952      382   40.13%
+     terminals:  ( 5116710 5132082 5133731)
+     open/close pebs:  (  144755)  (  144755)
+ 0121 DEERFIELD                          2279     1068   46.86%
+     terminals:  ( 5118735 5120128 5123191 5124618 5124872 5126031 5126237 5129535 5143810)
+     open/close pebs:  (  117971)  (  117971)
+ 0122 DOGBLUFF                            781      328   42.00% DATA MISSING
+     terminals:  ( 5125532 5127984)
+     open/close pebs:  (  140444)  (  140444)
+ 0123 DOGWOOD                            1069      492   46.02% DATA MISSING
+     terminals:  ( 5118200 5123809 5133922)
+     open/close pebs:  (  154851)  (  154851)
+ 0124 DUNES_#1                           1700      912   53.65% DATA MISSING
+     terminals:  ( 5124490 5124724 5130802 5133121)
+     open/close pebs:  (  145094)  (  145094)
+ 0125 DUNES_#2                           1355      556   41.03%
+     terminals:  ( 5111659 5115369 5119264 5121026 5122956)
+     open/close pebs:  (  134467)  (  134467)
+ 0126 DUNES_#3                            909      469   51.60% DATA MISSING
+     terminals:  ( 5124176 5128055 5138630)
+     open/close pebs:  (  143854)  (  143854)
+ 0127 EAST_CONWAY                        1019      482   47.30% DATA MISSING
+     terminals:  ( 5105360 5122114 5132349)
+     open/close pebs:  (  151573)  (  151573)
+ 0128 EAST_LORIS                         2105      936   44.47% DATA MISSING
+     terminals:  ( 5122927 5123498 5124856 5125369 5128771 5131962 5142197)
+     open/close pebs:  (  151002)  (  151002)
+ 0129 EBENEZER                           1164      638   54.81%
+     terminals:  ( 5125925 5130669 5133301 5135985)
+     open/close pebs:  (  137057)  (  137057)
+ 0130 EMERALD_FOREST_#1                  2712      888   32.74% DATA MISSING
+     terminals:  ( 5104848 5118035 5118862 5123560 5124410 5134621 5137789 5138513 5187941)
+     open/close pebs:  (  150779)  (  150779)
+ 0131 EMERALD_FOREST_#2                  1513      527   34.83% DATA MISSING
+     terminals:  ( 5127164 5131254 5138141 5185390)
+     open/close pebs:  (  154728)  (  154728)
+ 0132 EMERALD_FOREST_#3                  2628      933   35.50% DATA MISSING
+     terminals:  ( 5122907 5124340 5124406 5125906 5133178 5138589 5143227)
+     open/close pebs:  (  100218)  (  100218)
+ null EMERGENCY                             0      212    0.00% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0133 ENTERPRISE                         2000      768   38.40%
+     terminals:  ( 5106246 5119070 5121725 5123230 5123992 5125436)
+     open/close pebs:  (  145101)  (  145101)
+ 0850 FAILSAFE                              0       36    0.00%
+     terminals:  ( 5114443 5131561 5138783 5187136)
+     open/close pebs:  (  151275)  (  151275)
+ null FAILSAFE_PROVISIONAL                  0        0    0.00% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0134 FLOYDS                              385      184   47.79%
+     terminals:  ( 5123565 5135808)
+     open/close pebs:  (  154352)  (  154352)
+ 0135 FORESTBROOK                        2008      859   42.78% DATA MISSING
+     terminals:  ( 5113532 5124567 5127048 5129242 5136003 5138394)
+     open/close pebs:  (  147727)  (  147727)
+ 0136 FOUR_MILE                          1444      527   36.50% DATA MISSING
+     terminals:  ( 5119617 5123086 5128098 5135581)
+     open/close pebs:  (  145413)  (  145413)
+ 0137 GALLIVANTS_FERRY                    153       79   51.63%
+     terminals:  ( 5133795 5143629)
+     open/close pebs:  (  100135)  (  100135)
+ 0138 GARDEN_CITY_#1                     1612      698   43.30%
+     terminals:  ( 5112265 5131646 5134765 5170595 5185693)
+     open/close pebs:  (  146451)  (  146451)
+ 0139 GARDEN_CITY_#2                     1174      567   48.30% DATA MISSING
+     terminals:  ( 5121777 5127516 5129059 5132978)
+     open/close pebs:  (  153674)  (  153674)
+ 0140 GARDEN_CITY_#3                     1428      644   45.10%
+     terminals:  ( 5122808 5126355 5127184 5128200 5129290)
+     open/close pebs:  (  123059)  (  123059)
+ 0141 GARDEN_CITY_#4                     1170      505   43.16% DATA MISSING
+     terminals:  ( 5118620 5138758)
+     open/close pebs:  (  117873)  (  117873)
+ 0142 GLENNS_BAY                         1812      769   42.44%
+     terminals:  ( 5105235 5109127 5120152 5123418 5127957 5138399 5188106)
+     open/close pebs:  (  104174)  (  104174)
+ 0143 GREEN_SEA                           792      318   40.15%
+     terminals:  ( 5119818 5134867 5185017)
+     open/close pebs:  (  112099)  (  112099)
+ 0144 GURLEY                              220       83   37.73%
+     terminals:  ( 5125288 5133104)
+     open/close pebs:  (  145881)  (  145881)
+ 0145 HICKORY_GROVE                      1141      479   41.98% DATA MISSING
+     terminals:  ( 5120996 5128328 5134807)
+     open/close pebs:  (  134406)  (  134406)
+ 0146 HICKORY_HILL                        137       78   56.93%
+     terminals:  ( 5127472 5129068)
+     open/close pebs:  (  114327)  (  114327)
+ 0147 HOMEWOOD                            986      424   43.00%
+     terminals:  ( 5128537 5128615 5134611 5181701)
+     open/close pebs:  (  117877)  (  117877)
+ 0148 HORRY                               783      375   47.89%
+     terminals:  ( 5120871 5126144 5133603)
+     open/close pebs:  (  125270)  (  125270 dummyclosepeb)
+ 0149 INLAND                              342      174   50.88%
+     terminals:  ( 5128263 5134786)
+     open/close pebs:  (  154770)  (  154770)
+ 0150 JACKSON_BLUFF                       500      217   43.40%
+     terminals:  ( 5128458 5134776)
+     open/close pebs:  (  149851)  (  149851)
+ 0151 JAMESTOWN                          2241      933   41.63% DATA MISSING
+     terminals:  ( 5104064 5123911 5124004 5125994 5127036 5186344)
+     open/close pebs:  (  232692)  (  232692)
+ 0152 JERIGANS_CROSSROADS                 497      215   43.26%
+     terminals:  ( 5135975 5137846)
+     open/close pebs:  (  101272)  (  101272)
+ 0153 JET_PORT_#1                        1176      382   32.48%
+     terminals:  ( 5124967 5128734 5131832 5185895)
+     open/close pebs:  (  115488)  (  115488)
+ 0154 JET_PORT_#2                        1468      573   39.03%
+     terminals:  ( 5123044 5124403 5127136 5132665 5137849)
+     open/close pebs:  (  145280)  (  145280)
+ 0155 JORDANVILLE                         426      202   47.42% DATA MISSING
+     terminals:  ( 5119886)
+     open/close pebs:  (  232683)  (  232683)
+ 0156 JOYNER_SWAMP                        294      130   44.22%
+     terminals:  ( 5127424 5186795)
+     open/close pebs:  (  153762)  (  153762)
+ 0157 JUNIPER_BAY                        1329      507   38.15%
+     terminals:  ( 5103948 5109542 5114217 5123459 5128134)
+     open/close pebs:  (  147363)  (  147363)
+ 0158 LAKE_PARK                          4208     1411   33.53%
+     terminals:  ( 5113678 5118322 5120575 5123620 5125191 5128214 5133244 5133765 5135986 5138389)
+     open/close pebs:  (  117629)  (  117629)
+ 0159 LEON                                987      477   48.33% DATA MISSING
+     terminals:  ( 5118101 5122737 5138738)
+     open/close pebs:  (  141725)  (  141725)
+ null LITTLE_RIVER_#1                    1339      680   50.78% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ null LITTLE_RIVER_#2                    2105      935   44.42% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0162 LITTLE_RIVER_#3                    1588      902   56.80%
+     terminals:  ( 5106608 5123682 5125628 5126205 5127866 5134019)
+     open/close pebs:  (  155732)  (  155732)
+ 0163 LIVE_OAK                            422      180   42.65%
+     terminals:  ( 5122417 5185481)
+     open/close pebs:  (  155024)  (  155024)
+ 0164 MAPLE                               952      499   52.42%
+     terminals:  ( 5123446 5124880 5136796 5138012)
+     open/close pebs:  (  119865)  (  119865)
+ 0165 MARLOWE                            2889     1349   46.69% DATA MISSING
+     terminals:  ( 5119110 5120821 5121802 5123684 5124695 5128192 5133425 5135519)
+     open/close pebs:  (  154159)  (  154159)
+ 0220 MARLOWE_#2                         1380      684   49.57%
+     terminals:  ( 5114990 5118592 5122924 5125343 5128343)
+     open/close pebs:  (  145143)  (  145143)
+ 0166 METHODIST_REHOBETH                  397      212   53.40%
+     terminals:  ( 5121502 5123685 5133936)
+     open/close pebs:  (  145044)  (  145044)
+ 0167 MILL_SWAMP                          253      146   57.71%
+     terminals:  ( 5123428 5134658 5136466)
+     open/close pebs:  (  154595)  (  154595)
+ 0168 MT._OLIVE                           336      161   47.92%
+     terminals:  ( 5121820 5129859)
+     open/close pebs:  (  116621)  (  116621)
+ 0169 MT._VERNON                          451      229   50.78%
+     terminals:  ( 5125200 5129278)
+     open/close pebs:  (  148529)  (  148529)
+ 0171 MYRTLEWOOD_#1                      1242      415   33.41% DATA MISSING
+     terminals:  ( 5126497 5133523 5133620)
+     open/close pebs:  (  153967)  (  153967)
+ 0172 MYRTLEWOOD_#2                      1513      751   49.64%
+     terminals:  ( 5122005 5123919 5126047 5130944 5133046)
+     open/close pebs:  (  141218)  (  141218)
+ 0173 MYRTLEWOOD_#3                      1353      669   49.45% DATA MISSING
+     terminals:  ( 5106915 5128213 5129410 5133184)
+     open/close pebs:  (  100455)  (  100455)
+ 0170 MYRTLE_TRACE                       1077      608   56.45%
+     terminals:  ( 5124073 5125397 5127525 5131457)
+     open/close pebs:  (  154702)  (  154702)
+ 0174 NIXONS_XROADS_#1                   2981     1311   43.98%
+     terminals:  ( 5118414 5119109 5121540 5122550 5123336 5126432 5128607 5128968 5129021 5132125 5138825)
+     open/close pebs:  (  142837)  (  142837)
+ 0175 NIXONS_XROADS_#2                   1533      627   40.90% DATA MISSING
+     terminals:  ( 5114570 5121192 5127248 5184040)
+     open/close pebs:  (  140029  147628  149386)  (  147628  149386)
+ 0176 NORTH_CONWAY_#1                     837      295   35.24%
+     terminals:  ( 5127929 5129606 5134832)
+     open/close pebs:  (  153604)  (  153604)
+ 0177 NORTH_CONWAY_#2                     980      484   49.39%
+     terminals:  ( 5120228 5124548 5124793 5133588)
+     open/close pebs:  (  143952)  (  143952)
+ 0178 NORTON                              133       72   54.14%
+     terminals:  ( 5121680 5122866)
+     open/close pebs:  (  146571)  (  146571)
+ 0179 OCEAN_DRIVE_#1                     1430      629   43.99% DATA MISSING
+     terminals:  ( 5122107 5125788 5134732 5143834)
+     open/close pebs:  (  143397)  (  143397)
+ 0180 OCEAN_DRIVE_#2                     2282     1146   50.22%
+     terminals:  ( 5102666 5120031 5126705 5127927 5128305 5128885 5130165 5151477 5183366)
+     open/close pebs:  (  149336)  (  149336)
+ 0181 OCEAN_FOREST_#1                    1253      622   49.64%
+     terminals:  ( 5111150 5118695 5123823 5129389 5134670)
+     open/close pebs:  (  150731)  (  150731)
+ 0182 OCEAN_FOREST_#2                    1292      610   47.21% DATA MISSING
+     terminals:  ( 5122386 5126374 5137799)
+     open/close pebs:  (  150433)  (  150433)
+ 0183 OCEAN_FOREST_#3                    1034      331   32.01% DATA MISSING
+     terminals:  ( 5121265 5136101)
+     open/close pebs:  (  154276)  (  154276)
+ 0184 PALMETTO_BAYS                      2434     1024   42.07% DATA MISSING
+     terminals:  ( 5104997 5121658 5122562 5123495 5125887 5126698 5127989)
+     open/close pebs:  (  147562)  (  147562)
+ 0185 PAWLEYS_SWAMP                       420      188   44.76%
+     terminals:  ( 5124824 5127371)
+     open/close pebs:  (  144333)  (  144333)
+ 0186 PLEASANT_VIEW                       206       96   46.60%
+     terminals:  ( 5128973 5136608)
+     open/close pebs:  (  154480)  (  154480)
+ 0187 POPLAR_HILL                         622      303   48.71% DATA MISSING
+     terminals:  ( 5126415 5132110)
+     open/close pebs:  (  150414)  (  150414)
+ 0188 PORT_HARRELSON                      709      376   53.03%
+     terminals:  ( 5108328 5125776 5133392)
+     open/close pebs:  (  155614)  (  155614)
+ null PROVISIONAL                           0        0    0.00% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0189 RACEPATH_#1                        1027      317   30.87% DATA MISSING
+     terminals:  ( 5111151 5124204 5125701 5128557)
+     open/close pebs:  (  124490  133748  154989)  (  133748  154989)
+ 0190 RACEPATH_#2                        1426      578   40.53% DATA MISSING
+     terminals:  ( 5111168 5121612 5125827)
+     open/close pebs:  (  147856)  (  147856)
+ 0191 RED_BLUFF                           633      285   45.02%
+     terminals:  ( 5120616 5120785)
+     open/close pebs:  (  151323)  (  151323)
+ null RED_HILL_#1                        1012      302   29.84% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0193 RED_HILL_#2                        1945      902   46.38%
+     terminals:  ( 5121038 5121522 5123997 5124553 5126254 5132079 5133250)
+     open/close pebs:  (  149510)  (  149510)
+ 0194 SALEM                              1466      637   43.45%
+     terminals:  ( 5118240 5121159 5122200 5125058 5132736)
+     open/close pebs:  (  154090)  (  154090)
+ 0195 SEA_OATS_#1                        1743      501   28.74%
+     terminals:  ( 5123936 5124333 5127388 5127736 5128491 5131904)
+     open/close pebs:  (  145296)  (  145296)
+ 0196 SEA_OATS_#2                        1367      486   35.55%
+     terminals:  ( 5104999 5106491 5123343 5137845 5188049)
+     open/close pebs:  (  140432)  (  140432)
+ 0197 SEA_WINDS                          2507     1041   41.52%
+     terminals:  ( 5117980 5119581 5119972 5122714 5122999 5127240 5128695 5128959 5138373 5183735)
+     open/close pebs:  (  145463)  (  145463)
+ 0198 SHELL                               774      341   44.06% DATA MISSING
+     terminals:  ( 5134647 5135499)
+     open/close pebs:  (  146680)  (  146680)
+ 0199 SOCASTEE_#1                        2698     1025   37.99% DATA MISSING
+     terminals:  ( 5118415 5121235 5123433 5125027 5127574 5133068 5134607)
+     open/close pebs:  (  152300)  (  152300)
+ 0200 SOCASTEE_#2                        1324      478   36.10%
+     terminals:  ( 5118590 5122471 5124763 5125251 5187667)
+     open/close pebs:  (  232610)  (  232610)
+ 0201 SOCASTEE_#3                        1971      855   43.38% DATA MISSING
+     terminals:  ( 5107382 5124876 5125276 5127092 5129236)
+     open/close pebs:  (  154580)  (  154580)
+ 0202 SOCASTEE_#4                        3019     1029   34.08%
+     terminals:  ( 5119235 5120566 5120771 5121108 5121592 5123982 5125704 5128160 5129916)
+     open/close pebs:  (  145516)  (  145516)
+ 0203 SPRING_BRANCH                       171      109   63.74%
+     terminals:  ( 5123333 5138756)
+     open/close pebs:  (  113466)  (  113466)
+ 0204 SURFSIDE_#1                        1921      798   41.54%
+     terminals:  ( 5113802 5121995 5125500 5127292 5127943 5128519 5132106 5138298)
+     open/close pebs:  (  229438)  (  229438)
+ 0205 SURFSIDE_#2                         869      433   49.83%
+     terminals:  ( 5118048 5121390 5134697)
+     open/close pebs:  (  145262)  (  145262)
+ 0206 SURFSIDE_#3                        1544      699   45.27%
+     terminals:  ( 5101542 5119018 5124882 5125561 5133199 5133454)
+     open/close pebs:  (  124003)  (  124003)
+ 0207 SURFSIDE_#4                        1989      829   41.68% DATA MISSING
+     terminals:  ( 5122717 5123224 5123839 5130873 5132989 5138856 5184473)
+     open/close pebs:  (  154966)  (  154966)
+ 0208 SWEET_HOME                          708      284   40.11%
+     terminals:  ( 5119904 5121208 5121605 5124119)
+     open/close pebs:  (  153513)  (  153513)
+ 0209 TAYLORSVILLE                        326      152   46.63%
+     terminals:  ( 5133028 5136520)
+     open/close pebs:  (  144700)  (  144700)
+ 0210 TILLY_SWAMP                         768      404   52.60%
+     terminals:  ( 5118388 5124396 5124663)
+     open/close pebs:  (  144031)  (  144031)
+ 0211 TODDVILLE                           950      445   46.84%
+     terminals:  ( 5123330 5127449 5134760)
+     open/close pebs:  (  154796)  (  154796)
+ null TOTAL                            152646    71211   46.65% PCT MISSING
+     terminals:  ()
+     open/close pebs:  ()  ()
+ 0212 WAMPEE                             1333      635   47.64% DATA MISSING
+     terminals:  ( 5123372 5126086 5137376)
+     open/close pebs:  (  133402)  (  133402)
+ 0213 WEST_CONWAY                         623      236   37.88%
+     terminals:  ( 5125548 5134247 5187879)
+     open/close pebs:  (  150117)  (  150117)
+ 0214 WEST_LORIS                          773      329   42.56% DATA MISSING
+     terminals:  ( 5118842 5143979)
+     open/close pebs:  (  123096)  (  123096)
+ 0215 WHITE_OAK                           565      235   41.59%
+     terminals:  ( 5121479 5133613)
+     open/close pebs:  (  155495)  (  155495)
+ 0216 WILD_WING                          1894      757   39.97% DATA MISSING
+     terminals:  ( 5118614 5124986 5128701 5134524 5138095 5180425)
+     open/close pebs:  (  155164)  (  155164)
+ 0217 WINDY_HILL_#1                       968      377   38.95% DATA MISSING
+     terminals:  ( 5121362 5125063)
+     open/close pebs:  (  145355)  (  145355)
+ 0218 WINDY_HILL_#2                      1097      564   51.41% DATA MISSING
+     terminals:  ( 5127266 5127356 5132491)
+     open/close pebs:  (  145569)  (  145569)
+
+Pcts By Number
+ 0101 ADRIAN                             1455      620   42.61% DATA MISSING
+     terminals:  ( 5101306 5124263 5128601 5132829 5138324)
+     open/close pebs:  (  143322  153706)  (  143322  153706)
+ 0102 ALLSBROOK                           506      232   45.85%
+     terminals:  ( 5126348 5138519)
+     open/close pebs:  (  153723)  (  153723)
+ 0103 ATLANTIC_BEACH                      300       64   21.33% DATA MISSING
+     terminals:  ( 5101306 5122355 5128562)
+     open/close pebs:  (  112600  153706)  (  112600  153706)
+ 0104 AYNOR                              1173      583   49.70%
+     terminals:  ( 5122568 5123802 5123993 5133110)
+     open/close pebs:  (  117704)  (  117704)
+ 0105 BAYBORO                             924      357   38.64% DATA MISSING
+     terminals:  ( 5120741 5128013)
+     open/close pebs:  (  152394)  (  152394)
+ 0106 BROOKSVILLE                        2427     1086   44.75% DATA MISSING
+     terminals:  ( 5119263 5122616 5124318 5125531 5133000 5134301)
+     open/close pebs:  (  142261  143523  192641)  (  142261  143523  192641)
+ 0107 BROWNWAY                           1101      435   39.51% DATA MISSING
+     terminals:  ( 5127310)
+     open/close pebs:  (  137874)  (  137874)
+ 0108 BURGESS_#1                         3054     1421   46.53%
+     terminals:  ( 5103022 5105613 5122195 5123724 5124097 5124228 5124325 5125271 5125850 5126084 5132466 5138070)
+     open/close pebs:  (  229437)  (  229437)
+ 0109 BURGESS_#2                         2056     1034   50.29% DATA MISSING
+     terminals:  ( 5119570 5121822 5122756 5126458 5131844 5185389)
+     open/close pebs:  (  119324)  (  119324)
+ 0110 CAROLINA_FOREST_#1                 2186      816   37.33% DATA MISSING
+     terminals:  ( 5101306 5116979 5119820 5125014 5129211 5131822 5131986 5136157)
+     open/close pebs:  (  105754  153706)  (  105754  153706)
+ 0111 CAROLINA_FOREST_#2                 1472      512   34.78% DATA MISSING
+     terminals:  ( 5126938 5127500 5144022 5187743)
+     open/close pebs:  (  153738)  (  153738)
+ 0112 CEDAR_GROVE                         664      288   43.37%
+     terminals:  ( 5128009 5136478)
+     open/close pebs:  (  135177)  (  135177)
+ 0113 CHERRY_GROVE_#1                    1266      531   41.94%
+     terminals:  ( 5120426 5121280 5132323 5133024 5142634)
+     open/close pebs:  (  124085)  (  124085)
+ 0114 CHERRY_GROVE_#2                    1422      762   53.59%
+     terminals:  ( 5118205 5120963 5122468 5135561 5137885)
+     open/close pebs:  (  141006)  (  141006)
+ 0115 COASTAL_CAROLINA                   1365      517   37.88% DATA MISSING
+     terminals:  ( 5118429 5126677 5127457)
+     open/close pebs:  (  146854  155056  155580)  (  155580)
+ 0116 COASTAL_LANE_#1                    1032      388   37.60%
+     terminals:  ( 5121457 5124071 5125331 5132494)
+     open/close pebs:  (  153764)  (  153764)
+ 0117 COASTAL_LANE_#2                    1054      290   27.51%
+     terminals:  ( 5127690 5131136 5134687)
+     open/close pebs:  (  232688)  (  232688)
+ 0118 COOL_SPRINGS                        349      167   47.85%
+     terminals:  ( 5125174 5128647)
+     open/close pebs:  (  154640)  (  154640)
+ 0119 CRESENT                            1371      555   40.48% DATA MISSING
+     terminals:  ( 5126758 5133021)
+     open/close pebs:  (  100325)  (  100325)
+ 0120 DAISY                               952      382   40.13%
+     terminals:  ( 5116710 5132082 5133731)
+     open/close pebs:  (  144755)  (  144755)
+ 0121 DEERFIELD                          2279     1068   46.86%
+     terminals:  ( 5118735 5120128 5123191 5124618 5124872 5126031 5126237 5129535 5143810)
+     open/close pebs:  (  117971)  (  117971)
+ 0122 DOGBLUFF                            781      328   42.00% DATA MISSING
+     terminals:  ( 5125532 5127984)
+     open/close pebs:  (  140444)  (  140444)
+ 0123 DOGWOOD                            1069      492   46.02% DATA MISSING
+     terminals:  ( 5118200 5123809 5133922)
+     open/close pebs:  (  154851)  (  154851)
+ 0124 DUNES_#1                           1700      912   53.65% DATA MISSING
+     terminals:  ( 5124490 5124724 5130802 5133121)
+     open/close pebs:  (  145094)  (  145094)
+ 0125 DUNES_#2                           1355      556   41.03%
+     terminals:  ( 5111659 5115369 5119264 5121026 5122956)
+     open/close pebs:  (  134467)  (  134467)
+ 0126 DUNES_#3                            909      469   51.60% DATA MISSING
+     terminals:  ( 5124176 5128055 5138630)
+     open/close pebs:  (  143854)  (  143854)
+ 0127 EAST_CONWAY                        1019      482   47.30% DATA MISSING
+     terminals:  ( 5105360 5122114 5132349)
+     open/close pebs:  (  151573)  (  151573)
+ 0128 EAST_LORIS                         2105      936   44.47% DATA MISSING
+     terminals:  ( 5122927 5123498 5124856 5125369 5128771 5131962 5142197)
+     open/close pebs:  (  151002)  (  151002)
+ 0129 EBENEZER                           1164      638   54.81%
+     terminals:  ( 5125925 5130669 5133301 5135985)
+     open/close pebs:  (  137057)  (  137057)
+ 0130 EMERALD_FOREST_#1                  2712      888   32.74% DATA MISSING
+     terminals:  ( 5104848 5118035 5118862 5123560 5124410 5134621 5137789 5138513 5187941)
+     open/close pebs:  (  150779)  (  150779)
+ 0131 EMERALD_FOREST_#2                  1513      527   34.83% DATA MISSING
+     terminals:  ( 5127164 5131254 5138141 5185390)
+     open/close pebs:  (  154728)  (  154728)
+ 0132 EMERALD_FOREST_#3                  2628      933   35.50% DATA MISSING
+     terminals:  ( 5122907 5124340 5124406 5125906 5133178 5138589 5143227)
+     open/close pebs:  (  100218)  (  100218)
+ 0133 ENTERPRISE                         2000      768   38.40%
+     terminals:  ( 5106246 5119070 5121725 5123230 5123992 5125436)
+     open/close pebs:  (  145101)  (  145101)
+ 0134 FLOYDS                              385      184   47.79%
+     terminals:  ( 5123565 5135808)
+     open/close pebs:  (  154352)  (  154352)
+ 0135 FORESTBROOK                        2008      859   42.78% DATA MISSING
+     terminals:  ( 5113532 5124567 5127048 5129242 5136003 5138394)
+     open/close pebs:  (  147727)  (  147727)
+ 0136 FOUR_MILE                          1444      527   36.50% DATA MISSING
+     terminals:  ( 5119617 5123086 5128098 5135581)
+     open/close pebs:  (  145413)  (  145413)
+ 0137 GALLIVANTS_FERRY                    153       79   51.63%
+     terminals:  ( 5133795 5143629)
+     open/close pebs:  (  100135)  (  100135)
+ 0138 GARDEN_CITY_#1                     1612      698   43.30%
+     terminals:  ( 5112265 5131646 5134765 5170595 5185693)
+     open/close pebs:  (  146451)  (  146451)
+ 0139 GARDEN_CITY_#2                     1174      567   48.30% DATA MISSING
+     terminals:  ( 5121777 5127516 5129059 5132978)
+     open/close pebs:  (  153674)  (  153674)
+ 0140 GARDEN_CITY_#3                     1428      644   45.10%
+     terminals:  ( 5122808 5126355 5127184 5128200 5129290)
+     open/close pebs:  (  123059)  (  123059)
+ 0141 GARDEN_CITY_#4                     1170      505   43.16% DATA MISSING
+     terminals:  ( 5118620 5138758)
+     open/close pebs:  (  117873)  (  117873)
+ 0142 GLENNS_BAY                         1812      769   42.44%
+     terminals:  ( 5105235 5109127 5120152 5123418 5127957 5138399 5188106)
+     open/close pebs:  (  104174)  (  104174)
+ 0143 GREEN_SEA                           792      318   40.15%
+     terminals:  ( 5119818 5134867 5185017)
+     open/close pebs:  (  112099)  (  112099)
+ 0144 GURLEY                              220       83   37.73%
+     terminals:  ( 5125288 5133104)
+     open/close pebs:  (  145881)  (  145881)
+ 0145 HICKORY_GROVE                      1141      479   41.98% DATA MISSING
+     terminals:  ( 5120996 5128328 5134807)
+     open/close pebs:  (  134406)  (  134406)
+ 0146 HICKORY_HILL                        137       78   56.93%
+     terminals:  ( 5127472 5129068)
+     open/close pebs:  (  114327)  (  114327)
+ 0147 HOMEWOOD                            986      424   43.00%
+     terminals:  ( 5128537 5128615 5134611 5181701)
+     open/close pebs:  (  117877)  (  117877)
+ 0148 HORRY                               783      375   47.89%
+     terminals:  ( 5120871 5126144 5133603)
+     open/close pebs:  (  125270)  (  125270 dummyclosepeb)
+ 0149 INLAND                              342      174   50.88%
+     terminals:  ( 5128263 5134786)
+     open/close pebs:  (  154770)  (  154770)
+ 0150 JACKSON_BLUFF                       500      217   43.40%
+     terminals:  ( 5128458 5134776)
+     open/close pebs:  (  149851)  (  149851)
+ 0151 JAMESTOWN                          2241      933   41.63% DATA MISSING
+     terminals:  ( 5104064 5123911 5124004 5125994 5127036 5186344)
+     open/close pebs:  (  232692)  (  232692)
+ 0152 JERIGANS_CROSSROADS                 497      215   43.26%
+     terminals:  ( 5135975 5137846)
+     open/close pebs:  (  101272)  (  101272)
+ 0153 JET_PORT_#1                        1176      382   32.48%
+     terminals:  ( 5124967 5128734 5131832 5185895)
+     open/close pebs:  (  115488)  (  115488)
+ 0154 JET_PORT_#2                        1468      573   39.03%
+     terminals:  ( 5123044 5124403 5127136 5132665 5137849)
+     open/close pebs:  (  145280)  (  145280)
+ 0155 JORDANVILLE                         426      202   47.42% DATA MISSING
+     terminals:  ( 5119886)
+     open/close pebs:  (  232683)  (  232683)
+ 0156 JOYNER_SWAMP                        294      130   44.22%
+     terminals:  ( 5127424 5186795)
+     open/close pebs:  (  153762)  (  153762)
+ 0157 JUNIPER_BAY                        1329      507   38.15%
+     terminals:  ( 5103948 5109542 5114217 5123459 5128134)
+     open/close pebs:  (  147363)  (  147363)
+ 0158 LAKE_PARK                          4208     1411   33.53%
+     terminals:  ( 5113678 5118322 5120575 5123620 5125191 5128214 5133244 5133765 5135986 5138389)
+     open/close pebs:  (  117629)  (  117629)
+ 0159 LEON                                987      477   48.33% DATA MISSING
+     terminals:  ( 5118101 5122737 5138738)
+     open/close pebs:  (  141725)  (  141725)
+ 0162 LITTLE_RIVER_#3                    1588      902   56.80%
+     terminals:  ( 5106608 5123682 5125628 5126205 5127866 5134019)
+     open/close pebs:  (  155732)  (  155732)
+ 0163 LIVE_OAK                            422      180   42.65%
+     terminals:  ( 5122417 5185481)
+     open/close pebs:  (  155024)  (  155024)
+ 0164 MAPLE                               952      499   52.42%
+     terminals:  ( 5123446 5124880 5136796 5138012)
+     open/close pebs:  (  119865)  (  119865)
+ 0165 MARLOWE                            2889     1349   46.69% DATA MISSING
+     terminals:  ( 5119110 5120821 5121802 5123684 5124695 5128192 5133425 5135519)
+     open/close pebs:  (  154159)  (  154159)
+ 0166 METHODIST_REHOBETH                  397      212   53.40%
+     terminals:  ( 5121502 5123685 5133936)
+     open/close pebs:  (  145044)  (  145044)
+ 0167 MILL_SWAMP                          253      146   57.71%
+     terminals:  ( 5123428 5134658 5136466)
+     open/close pebs:  (  154595)  (  154595)
+ 0168 MT._OLIVE                           336      161   47.92%
+     terminals:  ( 5121820 5129859)
+     open/close pebs:  (  116621)  (  116621)
+ 0169 MT._VERNON                          451      229   50.78%
+     terminals:  ( 5125200 5129278)
+     open/close pebs:  (  148529)  (  148529)
+ 0170 MYRTLE_TRACE                       1077      608   56.45%
+     terminals:  ( 5124073 5125397 5127525 5131457)
+     open/close pebs:  (  154702)  (  154702)
+ 0171 MYRTLEWOOD_#1                      1242      415   33.41% DATA MISSING
+     terminals:  ( 5126497 5133523 5133620)
+     open/close pebs:  (  153967)  (  153967)
+ 0172 MYRTLEWOOD_#2                      1513      751   49.64%
+     terminals:  ( 5122005 5123919 5126047 5130944 5133046)
+     open/close pebs:  (  141218)  (  141218)
+ 0173 MYRTLEWOOD_#3                      1353      669   49.45% DATA MISSING
+     terminals:  ( 5106915 5128213 5129410 5133184)
+     open/close pebs:  (  100455)  (  100455)
+ 0174 NIXONS_XROADS_#1                   2981     1311   43.98%
+     terminals:  ( 5118414 5119109 5121540 5122550 5123336 5126432 5128607 5128968 5129021 5132125 5138825)
+     open/close pebs:  (  142837)  (  142837)
+ 0175 NIXONS_XROADS_#2                   1533      627   40.90% DATA MISSING
+     terminals:  ( 5114570 5121192 5127248 5184040)
+     open/close pebs:  (  140029  147628  149386)  (  147628  149386)
+ 0176 NORTH_CONWAY_#1                     837      295   35.24%
+     terminals:  ( 5127929 5129606 5134832)
+     open/close pebs:  (  153604)  (  153604)
+ 0177 NORTH_CONWAY_#2                     980      484   49.39%
+     terminals:  ( 5120228 5124548 5124793 5133588)
+     open/close pebs:  (  143952)  (  143952)
+ 0178 NORTON                              133       72   54.14%
+     terminals:  ( 5121680 5122866)
+     open/close pebs:  (  146571)  (  146571)
+ 0179 OCEAN_DRIVE_#1                     1430      629   43.99% DATA MISSING
+     terminals:  ( 5122107 5125788 5134732 5143834)
+     open/close pebs:  (  143397)  (  143397)
+ 0180 OCEAN_DRIVE_#2                     2282     1146   50.22%
+     terminals:  ( 5102666 5120031 5126705 5127927 5128305 5128885 5130165 5151477 5183366)
+     open/close pebs:  (  149336)  (  149336)
+ 0181 OCEAN_FOREST_#1                    1253      622   49.64%
+     terminals:  ( 5111150 5118695 5123823 5129389 5134670)
+     open/close pebs:  (  150731)  (  150731)
+ 0182 OCEAN_FOREST_#2                    1292      610   47.21% DATA MISSING
+     terminals:  ( 5122386 5126374 5137799)
+     open/close pebs:  (  150433)  (  150433)
+ 0183 OCEAN_FOREST_#3                    1034      331   32.01% DATA MISSING
+     terminals:  ( 5121265 5136101)
+     open/close pebs:  (  154276)  (  154276)
+ 0184 PALMETTO_BAYS                      2434     1024   42.07% DATA MISSING
+     terminals:  ( 5104997 5121658 5122562 5123495 5125887 5126698 5127989)
+     open/close pebs:  (  147562)  (  147562)
+ 0185 PAWLEYS_SWAMP                       420      188   44.76%
+     terminals:  ( 5124824 5127371)
+     open/close pebs:  (  144333)  (  144333)
+ 0186 PLEASANT_VIEW                       206       96   46.60%
+     terminals:  ( 5128973 5136608)
+     open/close pebs:  (  154480)  (  154480)
+ 0187 POPLAR_HILL                         622      303   48.71% DATA MISSING
+     terminals:  ( 5126415 5132110)
+     open/close pebs:  (  150414)  (  150414)
+ 0188 PORT_HARRELSON                      709      376   53.03%
+     terminals:  ( 5108328 5125776 5133392)
+     open/close pebs:  (  155614)  (  155614)
+ 0189 RACEPATH_#1                        1027      317   30.87% DATA MISSING
+     terminals:  ( 5111151 5124204 5125701 5128557)
+     open/close pebs:  (  124490  133748  154989)  (  133748  154989)
+ 0190 RACEPATH_#2                        1426      578   40.53% DATA MISSING
+     terminals:  ( 5111168 5121612 5125827)
+     open/close pebs:  (  147856)  (  147856)
+ 0191 RED_BLUFF                           633      285   45.02%
+     terminals:  ( 5120616 5120785)
+     open/close pebs:  (  151323)  (  151323)
+ 0193 RED_HILL_#2                        1945      902   46.38%
+     terminals:  ( 5121038 5121522 5123997 5124553 5126254 5132079 5133250)
+     open/close pebs:  (  149510)  (  149510)
+ 0194 SALEM                              1466      637   43.45%
+     terminals:  ( 5118240 5121159 5122200 5125058 5132736)
+     open/close pebs:  (  154090)  (  154090)
+ 0195 SEA_OATS_#1                        1743      501   28.74%
+     terminals:  ( 5123936 5124333 5127388 5127736 5128491 5131904)
+     open/close pebs:  (  145296)  (  145296)
+ 0196 SEA_OATS_#2                        1367      486   35.55%
+     terminals:  ( 5104999 5106491 5123343 5137845 5188049)
+     open/close pebs:  (  140432)  (  140432)
+ 0197 SEA_WINDS                          2507     1041   41.52%
+     terminals:  ( 5117980 5119581 5119972 5122714 5122999 5127240 5128695 5128959 5138373 5183735)
+     open/close pebs:  (  145463)  (  145463)
+ 0198 SHELL                               774      341   44.06% DATA MISSING
+     terminals:  ( 5134647 5135499)
+     open/close pebs:  (  146680)  (  146680)
+ 0199 SOCASTEE_#1                        2698     1025   37.99% DATA MISSING
+     terminals:  ( 5118415 5121235 5123433 5125027 5127574 5133068 5134607)
+     open/close pebs:  (  152300)  (  152300)
+ 0200 SOCASTEE_#2                        1324      478   36.10%
+     terminals:  ( 5118590 5122471 5124763 5125251 5187667)
+     open/close pebs:  (  232610)  (  232610)
+ 0201 SOCASTEE_#3                        1971      855   43.38% DATA MISSING
+     terminals:  ( 5107382 5124876 5125276 5127092 5129236)
+     open/close pebs:  (  154580)  (  154580)
+ 0202 SOCASTEE_#4                        3019     1029   34.08%
+     terminals:  ( 5119235 5120566 5120771 5121108 5121592 5123982 5125704 5128160 5129916)
+     open/close pebs:  (  145516)  (  145516)
+ 0203 SPRING_BRANCH                       171      109   63.74%
+     terminals:  ( 5123333 5138756)
+     open/close pebs:  (  113466)  (  113466)
+ 0204 SURFSIDE_#1                        1921      798   41.54%
+     terminals:  ( 5113802 5121995 5125500 5127292 5127943 5128519 5132106 5138298)
+     open/close pebs:  (  229438)  (  229438)
+ 0205 SURFSIDE_#2                         869      433   49.83%
+     terminals:  ( 5118048 5121390 5134697)
+     open/close pebs:  (  145262)  (  145262)
+ 0206 SURFSIDE_#3                        1544      699   45.27%
+     terminals:  ( 5101542 5119018 5124882 5125561 5133199 5133454)
+     open/close pebs:  (  124003)  (  124003)
+ 0207 SURFSIDE_#4                        1989      829   41.68% DATA MISSING
+     terminals:  ( 5122717 5123224 5123839 5130873 5132989 5138856 5184473)
+     open/close pebs:  (  154966)  (  154966)
+ 0208 SWEET_HOME                          708      284   40.11%
+     terminals:  ( 5119904 5121208 5121605 5124119)
+     open/close pebs:  (  153513)  (  153513)
+ 0209 TAYLORSVILLE                        326      152   46.63%
+     terminals:  ( 5133028 5136520)
+     open/close pebs:  (  144700)  (  144700)
+ 0210 TILLY_SWAMP                         768      404   52.60%
+     terminals:  ( 5118388 5124396 5124663)
+     open/close pebs:  (  144031)  (  144031)
+ 0211 TODDVILLE                           950      445   46.84%
+     terminals:  ( 5123330 5127449 5134760)
+     open/close pebs:  (  154796)  (  154796)
+ 0212 WAMPEE                             1333      635   47.64% DATA MISSING
+     terminals:  ( 5123372 5126086 5137376)
+     open/close pebs:  (  133402)  (  133402)
+ 0213 WEST_CONWAY                         623      236   37.88%
+     terminals:  ( 5125548 5134247 5187879)
+     open/close pebs:  (  150117)  (  150117)
+ 0214 WEST_LORIS                          773      329   42.56% DATA MISSING
+     terminals:  ( 5118842 5143979)
+     open/close pebs:  (  123096)  (  123096)
+ 0215 WHITE_OAK                           565      235   41.59%
+     terminals:  ( 5121479 5133613)
+     open/close pebs:  (  155495)  (  155495)
+ 0216 WILD_WING                          1894      757   39.97% DATA MISSING
+     terminals:  ( 5118614 5124986 5128701 5134524 5138095 5180425)
+     open/close pebs:  (  155164)  (  155164)
+ 0217 WINDY_HILL_#1                       968      377   38.95% DATA MISSING
+     terminals:  ( 5121362 5125063)
+     open/close pebs:  (  145355)  (  145355)
+ 0218 WINDY_HILL_#2                      1097      564   51.41% DATA MISSING
+     terminals:  ( 5127266 5127356 5132491)
+     open/close pebs:  (  145569)  (  145569)
+ 0219 BURGESS_#3                         1716      867   50.52%
+     terminals:  ( 5110987 5113577 5118974 5123984 5124298 5127415 5128585)
+     open/close pebs:  (  119320)  (  119320)
+ 0220 MARLOWE_#2                         1380      684   49.57%
+     terminals:  ( 5114990 5118592 5122924 5125343 5128343)
+     open/close pebs:  (  145143)  (  145143)
+ 0750 ABSENTEE                              0     5652    0.00% DATA MISSING
+     terminals:  ( 5106798 5114443 5121289 5127740 5131561 5131593 5132564 5137801 5138783 5182366 5187136)
+     open/close pebs:  (  151275)  (  151275)
+ 0850 FAILSAFE                              0       36    0.00%
+     terminals:  ( 5114443 5131561 5138783 5187136)
+     open/close pebs:  (  151275)  (  151275)
+

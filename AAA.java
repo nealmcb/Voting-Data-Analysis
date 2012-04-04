@@ -112,8 +112,6 @@
  * 
  * 
  *
- * Copyright (C) 2011 by Duncan A. Buell.  All rights reserved.
- *
  * @author Duncan A. Buell
  * Copyright (c) 2010-2012 Duncan A. Buell
  * 
